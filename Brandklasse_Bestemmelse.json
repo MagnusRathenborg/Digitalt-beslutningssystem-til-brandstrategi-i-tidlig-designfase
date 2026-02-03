@@ -1,0 +1,1262 @@
+{
+  "contentType": "application/vnd.gorules.decision",
+  "nodes": [
+    {
+      "id": "9ac0f8c8-014a-41f2-82d9-8149817cebbd",
+      "name": "Data",
+      "type": "outputNode",
+      "content": {
+        "schema": ""
+      },
+      "position": {
+        "x": 1005,
+        "y": -40
+      }
+    },
+    {
+      "id": "5a32ec1d-a606-444e-b778-251d743bfec4",
+      "name": "Anvendelseskategori 2.0",
+      "type": "decisionTableNode",
+      "content": {
+        "rules": [
+          {
+            "_id": "fe2e7077-249d-4a29-9c1a-a8c296a5831d",
+            "_description": "Byggerier kendetegnet ved at brugerne er bekendt med flugtvejene, ikke overnatter i bygningen og kan finde ud på egen hånd. Typisk simple mindre byggerier såsom kontorer, små cafeer, klinikker mm.",
+            "39913711-7c44-4001-ad09-16353c692f62": "",
+            "4c5c4ab0-6685-4f23-bb6d-097fba11812b": "",
+            "9cf893a6-d827-4491-9558-53243a3e3712": "true",
+            "c4e09373-b7fe-4b38-aa78-cf4e244dfb62": "false",
+            "ca1a7760-4322-4ea2-b15a-83926d82ea66": "1",
+            "e046e603-e8ec-4276-b699-0a580b2ae758": "",
+            "eb32c637-a481-449c-b4b1-2e8ff4357356": "true"
+          },
+          {
+            "_id": "3d22f8eb-341c-4477-b2d2-77131fcab187",
+            "_description": "Byggerier kendetegnet ved at brugerne er bekendt med flugtvejene, ikke overnatter i bygningen og kan finde ud på egen hånd. Typisk simple mindre byggerier såsom kontorer, små cafeer, klinikker mm.",
+            "39913711-7c44-4001-ad09-16353c692f62": "<150",
+            "4c5c4ab0-6685-4f23-bb6d-097fba11812b": "\"pavillonbyggerier\",\n\"forsamlings- og opholdsbygninger\",\n\"Midlertidige undervisnings- og institutionsbygninger\",\n\"undervisnings- og aktivitetsbygninger\",\n\"kultur- og formidlingsbygninger\",\n\"servicebygninger med personophold\",\n\"café- og kioskbygninger med siddepladser\",\n\"sundheds- og socialbygninger\",\n\"forenings- og fritidsbygninger\",\n\"Varmestue\"",
+            "9cf893a6-d827-4491-9558-53243a3e3712": "true",
+            "c4e09373-b7fe-4b38-aa78-cf4e244dfb62": "false",
+            "ca1a7760-4322-4ea2-b15a-83926d82ea66": "1",
+            "e046e603-e8ec-4276-b699-0a580b2ae758": "<=10",
+            "eb32c637-a481-449c-b4b1-2e8ff4357356": ""
+          },
+          {
+            "_id": "7d65c6f7-5788-4fb0-8488-5998d0589125",
+            "_description": "Byggerier kendetegnet ved at brugerne er bekendt med flugtvejene, ikke overnatter i bygningen og kan finde ud på egen hånd. Typisk simple mindre byggerier såsom kontorer, små cafeer, klinikker mm.",
+            "39913711-7c44-4001-ad09-16353c692f62": "",
+            "4c5c4ab0-6685-4f23-bb6d-097fba11812b": "\"Butik\", \"Klinik\"",
+            "9cf893a6-d827-4491-9558-53243a3e3712": "true",
+            "c4e09373-b7fe-4b38-aa78-cf4e244dfb62": "false",
+            "ca1a7760-4322-4ea2-b15a-83926d82ea66": "1",
+            "e046e603-e8ec-4276-b699-0a580b2ae758": "<=10",
+            "eb32c637-a481-449c-b4b1-2e8ff4357356": ""
+          },
+          {
+            "_id": "b238050e-d9c3-4482-abb1-424304c37d1c",
+            "_description": "Byggerier kendetegnet ved at brugerne ikke nødvendigvis er bekendt med flugtvejene, ikke overnatter i bygningen og godt kan finde ud på egen hånd. Samtidig er denne kategori for bygninger til brugerantal under 50.",
+            "39913711-7c44-4001-ad09-16353c692f62": "",
+            "4c5c4ab0-6685-4f23-bb6d-097fba11812b": "",
+            "9cf893a6-d827-4491-9558-53243a3e3712": "true",
+            "c4e09373-b7fe-4b38-aa78-cf4e244dfb62": "false",
+            "ca1a7760-4322-4ea2-b15a-83926d82ea66": "2",
+            "e046e603-e8ec-4276-b699-0a580b2ae758": "<=50",
+            "eb32c637-a481-449c-b4b1-2e8ff4357356": "false"
+          },
+          {
+            "_id": "b1486068-3fcf-4416-ada5-5488732b48f4",
+            "_description": "Byggerier kendetegnet ved at brugerne ikke nødvendigvis er bekendt med flugtvejene, ikke overnatter i bygningen og godt kan finde ud på egen hånd. Der er ikke nogen begrænsning for antal personer bygningen er dimensioneret til.",
+            "39913711-7c44-4001-ad09-16353c692f62": "",
+            "4c5c4ab0-6685-4f23-bb6d-097fba11812b": "",
+            "9cf893a6-d827-4491-9558-53243a3e3712": "true",
+            "c4e09373-b7fe-4b38-aa78-cf4e244dfb62": "false",
+            "ca1a7760-4322-4ea2-b15a-83926d82ea66": "3",
+            "e046e603-e8ec-4276-b699-0a580b2ae758": "",
+            "eb32c637-a481-449c-b4b1-2e8ff4357356": "false"
+          },
+          {
+            "_id": "efdf6577-9e88-4c08-90c0-813f8fd3bbc4",
+            "_description": "Byggerier kendetegnet ved at brugerne er bekendt med flugtvejene, overnatter og selv kan komme ud. Dette er typisk boligbyggeri.",
+            "39913711-7c44-4001-ad09-16353c692f62": "",
+            "4c5c4ab0-6685-4f23-bb6d-097fba11812b": "",
+            "9cf893a6-d827-4491-9558-53243a3e3712": "true",
+            "c4e09373-b7fe-4b38-aa78-cf4e244dfb62": "true",
+            "ca1a7760-4322-4ea2-b15a-83926d82ea66": "4",
+            "e046e603-e8ec-4276-b699-0a580b2ae758": "",
+            "eb32c637-a481-449c-b4b1-2e8ff4357356": "true"
+          },
+          {
+            "_id": "ac53f9a7-c4f9-42f5-9fa8-c8dd3dac20ea",
+            "_description": "Byggerier kendetegnet ved at brugerne ikke er bekendt med flugtvejene, overnatter og selv kan komme ud. Typisk hoteller, kroer, vandrehjem eller lignende.",
+            "39913711-7c44-4001-ad09-16353c692f62": "",
+            "4c5c4ab0-6685-4f23-bb6d-097fba11812b": "",
+            "9cf893a6-d827-4491-9558-53243a3e3712": "true",
+            "c4e09373-b7fe-4b38-aa78-cf4e244dfb62": "true",
+            "ca1a7760-4322-4ea2-b15a-83926d82ea66": "5",
+            "e046e603-e8ec-4276-b699-0a580b2ae758": "",
+            "eb32c637-a481-449c-b4b1-2e8ff4357356": "false"
+          },
+          {
+            "_id": "fcd91f2d-8881-4f58-8d50-e1513ec8bc30",
+            "_description": "Byggerier kendetegnet ved at brugerne ikke på egen hånd kan evakuere såsom fængsler, hospitaler og/eller andre lignende bygninger, men hvorvidt personer defineres som selvhjulpne i den givne situation er afgørende.",
+            "39913711-7c44-4001-ad09-16353c692f62": "",
+            "4c5c4ab0-6685-4f23-bb6d-097fba11812b": "",
+            "9cf893a6-d827-4491-9558-53243a3e3712": "false",
+            "c4e09373-b7fe-4b38-aa78-cf4e244dfb62": "",
+            "ca1a7760-4322-4ea2-b15a-83926d82ea66": "6",
+            "e046e603-e8ec-4276-b699-0a580b2ae758": "",
+            "eb32c637-a481-449c-b4b1-2e8ff4357356": ""
+          }
+        ],
+        "inputs": [
+          {
+            "id": "e046e603-e8ec-4276-b699-0a580b2ae758",
+            "name": "Hvor mange personer forventes at bruge bygningsafsnittet?",
+            "field": "antal_personer_BA"
+          },
+          {
+            "id": "39913711-7c44-4001-ad09-16353c692f62",
+            "name": "Areal af bygningsafsnit [m²]",
+            "field": "area_BA"
+          },
+          {
+            "id": "4c5c4ab0-6685-4f23-bb6d-097fba11812b",
+            "name": "Bygningstype",
+            "field": "bygningstype"
+          },
+          {
+            "id": "c4e09373-b7fe-4b38-aa78-cf4e244dfb62",
+            "name": "Er der overnatning i bygningsafsnittet?",
+            "field": "overnatning"
+          },
+          {
+            "id": "eb32c637-a481-449c-b4b1-2e8ff4357356",
+            "name": "Har brugerne kendskab til flugtvejene?",
+            "field": "kendskab_flugtveje"
+          },
+          {
+            "id": "9cf893a6-d827-4491-9558-53243a3e3712",
+            "name": "Er brugerne selvhjulpne?",
+            "field": "selvhjulpen"
+          }
+        ],
+        "outputs": [
+          {
+            "id": "ca1a7760-4322-4ea2-b15a-83926d82ea66",
+            "name": "Hvilken anvendelseskategori placeres bygningsafsnittet i?",
+            "field": "anvendelseskategori"
+          }
+        ],
+        "hitPolicy": "first",
+        "inputField": null,
+        "outputPath": null,
+        "passThrough": true,
+        "executionMode": "single"
+      },
+      "position": {
+        "x": 80,
+        "y": -40
+      }
+    },
+    {
+      "id": "ae5a8c31-0498-49f2-8d5e-d3468ec030ba",
+      "name": "Risikoklasse",
+      "type": "decisionTableNode",
+      "content": {
+        "rules": [
+          {
+            "_id": "37e40f8a-c46a-44c1-aef1-95ae1e953e8a",
+            "_description": "Risikoklasse 1 indikerer byggeriet er simpelt at evakuere uden høj brandbelastning og med et kort brandforløb.",
+            "17cfad89-e42f-4c80-9d39-1aea93da48a9": "",
+            "1b6c18be-b299-46c9-a56d-9febaa98f57e": "",
+            "25876a93-95f2-4197-a9cc-d73d178269f1": "",
+            "2e1f84e6-b38a-4588-82af-1d26eb130018": "<1600",
+            "358fd5d3-869c-4b90-9995-f4491c302e16": "",
+            "387495df-88af-4307-a75a-57ce96fee410": "",
+            "45d33d2e-6ad1-4548-b68f-cf298672ebdd": "<=1",
+            "476f57c3-0935-4811-a11d-6a22f8d41b40": "1",
+            "6d2ceaf2-1451-4a2e-9244-97870e81e1f5": "",
+            "77abb6eb-7fb5-4c66-a067-fa43c19b682f": "",
+            "9c23d984-56ef-47b5-91aa-8b4c3317abed": "",
+            "ab1b6b8c-e75b-4665-9f66-cff409252096": "",
+            "bbeed867-02e4-406b-a667-1f039e9e43a7": "<=5",
+            "bde3cd6d-ef4f-43d3-8508-f5c27fcda891": "",
+            "d5254c5d-b1ec-4381-a16d-7918818cf913": "",
+            "d8e6fff0-e98d-49d3-b84c-3e16237a6821": "",
+            "e372f405-78ea-4162-b1aa-c17d4b181625": "<=1",
+            "f90b5ee9-8cdf-4811-8a53-97f27bd7abd0": "1"
+          },
+          {
+            "_id": "b8c3ff22-4597-4d36-8f25-521f1923f603",
+            "_description": "Risikoklasse 2 kræver skærpede krav sammenlignet med risikoklasse 1.",
+            "17cfad89-e42f-4c80-9d39-1aea93da48a9": "",
+            "1b6c18be-b299-46c9-a56d-9febaa98f57e": "",
+            "25876a93-95f2-4197-a9cc-d73d178269f1": "",
+            "2e1f84e6-b38a-4588-82af-1d26eb130018": "",
+            "358fd5d3-869c-4b90-9995-f4491c302e16": "",
+            "387495df-88af-4307-a75a-57ce96fee410": "",
+            "45d33d2e-6ad1-4548-b68f-cf298672ebdd": "",
+            "476f57c3-0935-4811-a11d-6a22f8d41b40": "2",
+            "6d2ceaf2-1451-4a2e-9244-97870e81e1f5": "",
+            "77abb6eb-7fb5-4c66-a067-fa43c19b682f": "<=9.6",
+            "9c23d984-56ef-47b5-91aa-8b4c3317abed": "",
+            "ab1b6b8c-e75b-4665-9f66-cff409252096": "",
+            "bbeed867-02e4-406b-a667-1f039e9e43a7": "",
+            "bde3cd6d-ef4f-43d3-8508-f5c27fcda891": "",
+            "d5254c5d-b1ec-4381-a16d-7918818cf913": "",
+            "d8e6fff0-e98d-49d3-b84c-3e16237a6821": "",
+            "e372f405-78ea-4162-b1aa-c17d4b181625": "<=1",
+            "f90b5ee9-8cdf-4811-8a53-97f27bd7abd0": "1"
+          },
+          {
+            "_id": "7839349f-271f-4bb9-91af-99b899bededd",
+            "_description": "Risikoklasse 3 indikerer at evakueringen er forholdsvis kompleks med længere brandforløb.",
+            "17cfad89-e42f-4c80-9d39-1aea93da48a9": "",
+            "1b6c18be-b299-46c9-a56d-9febaa98f57e": "",
+            "25876a93-95f2-4197-a9cc-d73d178269f1": "",
+            "2e1f84e6-b38a-4588-82af-1d26eb130018": "",
+            "358fd5d3-869c-4b90-9995-f4491c302e16": "",
+            "387495df-88af-4307-a75a-57ce96fee410": "",
+            "45d33d2e-6ad1-4548-b68f-cf298672ebdd": "",
+            "476f57c3-0935-4811-a11d-6a22f8d41b40": "3",
+            "6d2ceaf2-1451-4a2e-9244-97870e81e1f5": "",
+            "77abb6eb-7fb5-4c66-a067-fa43c19b682f": "<=45",
+            "9c23d984-56ef-47b5-91aa-8b4c3317abed": "",
+            "ab1b6b8c-e75b-4665-9f66-cff409252096": "",
+            "bbeed867-02e4-406b-a667-1f039e9e43a7": "",
+            "bde3cd6d-ef4f-43d3-8508-f5c27fcda891": "",
+            "d5254c5d-b1ec-4381-a16d-7918818cf913": "",
+            "d8e6fff0-e98d-49d3-b84c-3e16237a6821": "",
+            "e372f405-78ea-4162-b1aa-c17d4b181625": "<=1",
+            "f90b5ee9-8cdf-4811-8a53-97f27bd7abd0": "1"
+          },
+          {
+            "_id": "0468d7ca-b390-4459-a591-3162a5230b61",
+            "_description": "Risikoklasse 4 er der hvor der sættes højeste krav til brandsikkerhed grundet komplekst og langt brandforløb.",
+            "17cfad89-e42f-4c80-9d39-1aea93da48a9": "",
+            "1b6c18be-b299-46c9-a56d-9febaa98f57e": "",
+            "25876a93-95f2-4197-a9cc-d73d178269f1": "",
+            "2e1f84e6-b38a-4588-82af-1d26eb130018": "",
+            "358fd5d3-869c-4b90-9995-f4491c302e16": "",
+            "387495df-88af-4307-a75a-57ce96fee410": "",
+            "45d33d2e-6ad1-4548-b68f-cf298672ebdd": "",
+            "476f57c3-0935-4811-a11d-6a22f8d41b40": "4",
+            "6d2ceaf2-1451-4a2e-9244-97870e81e1f5": "",
+            "77abb6eb-7fb5-4c66-a067-fa43c19b682f": "",
+            "9c23d984-56ef-47b5-91aa-8b4c3317abed": "",
+            "ab1b6b8c-e75b-4665-9f66-cff409252096": "",
+            "bbeed867-02e4-406b-a667-1f039e9e43a7": "",
+            "bde3cd6d-ef4f-43d3-8508-f5c27fcda891": "",
+            "d5254c5d-b1ec-4381-a16d-7918818cf913": "",
+            "d8e6fff0-e98d-49d3-b84c-3e16237a6821": "",
+            "e372f405-78ea-4162-b1aa-c17d4b181625": "",
+            "f90b5ee9-8cdf-4811-8a53-97f27bd7abd0": "1"
+          },
+          {
+            "_id": "fec92a6e-63c4-4817-b0bb-35a804a2266f",
+            "_description": "Risikoklasse 1 indikerer byggeriet er simpelt at evakuere uden høj brandbelastning og med et kort brandforløb.",
+            "17cfad89-e42f-4c80-9d39-1aea93da48a9": "",
+            "1b6c18be-b299-46c9-a56d-9febaa98f57e": "true",
+            "25876a93-95f2-4197-a9cc-d73d178269f1": "",
+            "2e1f84e6-b38a-4588-82af-1d26eb130018": "",
+            "358fd5d3-869c-4b90-9995-f4491c302e16": "",
+            "387495df-88af-4307-a75a-57ce96fee410": "",
+            "45d33d2e-6ad1-4548-b68f-cf298672ebdd": "<=1",
+            "476f57c3-0935-4811-a11d-6a22f8d41b40": "1",
+            "6d2ceaf2-1451-4a2e-9244-97870e81e1f5": "",
+            "77abb6eb-7fb5-4c66-a067-fa43c19b682f": "",
+            "9c23d984-56ef-47b5-91aa-8b4c3317abed": "<=150",
+            "ab1b6b8c-e75b-4665-9f66-cff409252096": "true",
+            "bbeed867-02e4-406b-a667-1f039e9e43a7": "",
+            "bde3cd6d-ef4f-43d3-8508-f5c27fcda891": "<=150",
+            "d5254c5d-b1ec-4381-a16d-7918818cf913": "",
+            "d8e6fff0-e98d-49d3-b84c-3e16237a6821": "",
+            "e372f405-78ea-4162-b1aa-c17d4b181625": "0",
+            "f90b5ee9-8cdf-4811-8a53-97f27bd7abd0": "2, 3"
+          },
+          {
+            "_id": "241aa488-22cb-4e1d-b953-e62925b40b99",
+            "_description": "Risikoklasse 2 kræver skærpede krav sammenlignet med risikoklasse 1.",
+            "17cfad89-e42f-4c80-9d39-1aea93da48a9": "",
+            "1b6c18be-b299-46c9-a56d-9febaa98f57e": "",
+            "25876a93-95f2-4197-a9cc-d73d178269f1": "",
+            "2e1f84e6-b38a-4588-82af-1d26eb130018": "",
+            "358fd5d3-869c-4b90-9995-f4491c302e16": "",
+            "387495df-88af-4307-a75a-57ce96fee410": "",
+            "45d33d2e-6ad1-4548-b68f-cf298672ebdd": "<=1",
+            "476f57c3-0935-4811-a11d-6a22f8d41b40": "2",
+            "6d2ceaf2-1451-4a2e-9244-97870e81e1f5": "<=45",
+            "77abb6eb-7fb5-4c66-a067-fa43c19b682f": "",
+            "9c23d984-56ef-47b5-91aa-8b4c3317abed": "",
+            "ab1b6b8c-e75b-4665-9f66-cff409252096": "false, \"\", \" \"",
+            "bbeed867-02e4-406b-a667-1f039e9e43a7": "",
+            "bde3cd6d-ef4f-43d3-8508-f5c27fcda891": "",
+            "d5254c5d-b1ec-4381-a16d-7918818cf913": "",
+            "d8e6fff0-e98d-49d3-b84c-3e16237a6821": "",
+            "e372f405-78ea-4162-b1aa-c17d4b181625": "0",
+            "f90b5ee9-8cdf-4811-8a53-97f27bd7abd0": "2"
+          },
+          {
+            "_id": "02b11086-cbb0-401e-a5f3-ff64f7137020",
+            "_description": "Risikoklasse 2 kræver skærpede krav sammenlignet med risikoklasse 1.",
+            "17cfad89-e42f-4c80-9d39-1aea93da48a9": "",
+            "1b6c18be-b299-46c9-a56d-9febaa98f57e": "",
+            "25876a93-95f2-4197-a9cc-d73d178269f1": "",
+            "2e1f84e6-b38a-4588-82af-1d26eb130018": "",
+            "358fd5d3-869c-4b90-9995-f4491c302e16": "",
+            "387495df-88af-4307-a75a-57ce96fee410": "",
+            "45d33d2e-6ad1-4548-b68f-cf298672ebdd": "0",
+            "476f57c3-0935-4811-a11d-6a22f8d41b40": "2",
+            "6d2ceaf2-1451-4a2e-9244-97870e81e1f5": "",
+            "77abb6eb-7fb5-4c66-a067-fa43c19b682f": "",
+            "9c23d984-56ef-47b5-91aa-8b4c3317abed": "",
+            "ab1b6b8c-e75b-4665-9f66-cff409252096": "",
+            "bbeed867-02e4-406b-a667-1f039e9e43a7": "<=5",
+            "bde3cd6d-ef4f-43d3-8508-f5c27fcda891": "",
+            "d5254c5d-b1ec-4381-a16d-7918818cf913": "",
+            "d8e6fff0-e98d-49d3-b84c-3e16237a6821": "",
+            "e372f405-78ea-4162-b1aa-c17d4b181625": "<=1",
+            "f90b5ee9-8cdf-4811-8a53-97f27bd7abd0": "2"
+          },
+          {
+            "_id": "eb695389-730b-4876-800c-b8f0b4261810",
+            "_description": "Risikoklasse 3 indikerer at evakueringen er forholdsvis kompleks med længere brandforløb.",
+            "17cfad89-e42f-4c80-9d39-1aea93da48a9": "",
+            "1b6c18be-b299-46c9-a56d-9febaa98f57e": "",
+            "25876a93-95f2-4197-a9cc-d73d178269f1": "",
+            "2e1f84e6-b38a-4588-82af-1d26eb130018": "",
+            "358fd5d3-869c-4b90-9995-f4491c302e16": "",
+            "387495df-88af-4307-a75a-57ce96fee410": "",
+            "45d33d2e-6ad1-4548-b68f-cf298672ebdd": "",
+            "476f57c3-0935-4811-a11d-6a22f8d41b40": "3",
+            "6d2ceaf2-1451-4a2e-9244-97870e81e1f5": "",
+            "77abb6eb-7fb5-4c66-a067-fa43c19b682f": "<=22",
+            "9c23d984-56ef-47b5-91aa-8b4c3317abed": "",
+            "ab1b6b8c-e75b-4665-9f66-cff409252096": "",
+            "bbeed867-02e4-406b-a667-1f039e9e43a7": "",
+            "bde3cd6d-ef4f-43d3-8508-f5c27fcda891": "",
+            "d5254c5d-b1ec-4381-a16d-7918818cf913": "",
+            "d8e6fff0-e98d-49d3-b84c-3e16237a6821": "",
+            "e372f405-78ea-4162-b1aa-c17d4b181625": "",
+            "f90b5ee9-8cdf-4811-8a53-97f27bd7abd0": "2"
+          },
+          {
+            "_id": "cd01a918-d312-45f1-8adb-077007c45304",
+            "_description": "Risikoklasse 4 er der hvor der sættes højeste krav til brandsikkerhed grundet komplekst og langt brandforløb.",
+            "17cfad89-e42f-4c80-9d39-1aea93da48a9": "",
+            "1b6c18be-b299-46c9-a56d-9febaa98f57e": "",
+            "25876a93-95f2-4197-a9cc-d73d178269f1": "",
+            "2e1f84e6-b38a-4588-82af-1d26eb130018": "",
+            "358fd5d3-869c-4b90-9995-f4491c302e16": "",
+            "387495df-88af-4307-a75a-57ce96fee410": "",
+            "45d33d2e-6ad1-4548-b68f-cf298672ebdd": "",
+            "476f57c3-0935-4811-a11d-6a22f8d41b40": "4",
+            "6d2ceaf2-1451-4a2e-9244-97870e81e1f5": "",
+            "77abb6eb-7fb5-4c66-a067-fa43c19b682f": "",
+            "9c23d984-56ef-47b5-91aa-8b4c3317abed": "",
+            "ab1b6b8c-e75b-4665-9f66-cff409252096": "",
+            "bbeed867-02e4-406b-a667-1f039e9e43a7": "",
+            "bde3cd6d-ef4f-43d3-8508-f5c27fcda891": "",
+            "d5254c5d-b1ec-4381-a16d-7918818cf913": "",
+            "d8e6fff0-e98d-49d3-b84c-3e16237a6821": "",
+            "e372f405-78ea-4162-b1aa-c17d4b181625": "",
+            "f90b5ee9-8cdf-4811-8a53-97f27bd7abd0": "2"
+          },
+          {
+            "_id": "a2dee0d8-5462-4d4c-8291-ed175d7d8ea1",
+            "_description": "Risikoklasse 2 kræver skærpede krav sammenlignet med risikoklasse 1.",
+            "17cfad89-e42f-4c80-9d39-1aea93da48a9": "",
+            "1b6c18be-b299-46c9-a56d-9febaa98f57e": "",
+            "25876a93-95f2-4197-a9cc-d73d178269f1": "",
+            "2e1f84e6-b38a-4588-82af-1d26eb130018": "",
+            "358fd5d3-869c-4b90-9995-f4491c302e16": "",
+            "387495df-88af-4307-a75a-57ce96fee410": "",
+            "45d33d2e-6ad1-4548-b68f-cf298672ebdd": "<=1",
+            "476f57c3-0935-4811-a11d-6a22f8d41b40": "2",
+            "6d2ceaf2-1451-4a2e-9244-97870e81e1f5": "<=45",
+            "77abb6eb-7fb5-4c66-a067-fa43c19b682f": "",
+            "9c23d984-56ef-47b5-91aa-8b4c3317abed": "",
+            "ab1b6b8c-e75b-4665-9f66-cff409252096": "false, \"\", \" \"",
+            "bbeed867-02e4-406b-a667-1f039e9e43a7": "",
+            "bde3cd6d-ef4f-43d3-8508-f5c27fcda891": "<=1000",
+            "d5254c5d-b1ec-4381-a16d-7918818cf913": "",
+            "d8e6fff0-e98d-49d3-b84c-3e16237a6821": "",
+            "e372f405-78ea-4162-b1aa-c17d4b181625": "0",
+            "f90b5ee9-8cdf-4811-8a53-97f27bd7abd0": "3"
+          },
+          {
+            "_id": "43631a97-f92a-4fae-8a65-0e2014691eab",
+            "_description": "Risikoklasse 2 kræver skærpede krav sammenlignet med risikoklasse 1.",
+            "17cfad89-e42f-4c80-9d39-1aea93da48a9": "",
+            "1b6c18be-b299-46c9-a56d-9febaa98f57e": "",
+            "25876a93-95f2-4197-a9cc-d73d178269f1": "",
+            "2e1f84e6-b38a-4588-82af-1d26eb130018": "",
+            "358fd5d3-869c-4b90-9995-f4491c302e16": "",
+            "387495df-88af-4307-a75a-57ce96fee410": "false",
+            "45d33d2e-6ad1-4548-b68f-cf298672ebdd": "0",
+            "476f57c3-0935-4811-a11d-6a22f8d41b40": "2",
+            "6d2ceaf2-1451-4a2e-9244-97870e81e1f5": "",
+            "77abb6eb-7fb5-4c66-a067-fa43c19b682f": "",
+            "9c23d984-56ef-47b5-91aa-8b4c3317abed": "",
+            "ab1b6b8c-e75b-4665-9f66-cff409252096": "",
+            "bbeed867-02e4-406b-a667-1f039e9e43a7": "<=5",
+            "bde3cd6d-ef4f-43d3-8508-f5c27fcda891": "<=1000",
+            "d5254c5d-b1ec-4381-a16d-7918818cf913": "",
+            "d8e6fff0-e98d-49d3-b84c-3e16237a6821": "",
+            "e372f405-78ea-4162-b1aa-c17d4b181625": "<=1",
+            "f90b5ee9-8cdf-4811-8a53-97f27bd7abd0": "3"
+          },
+          {
+            "_id": "4e0ffe77-355a-4fd2-8ef3-9d0e504061b3",
+            "_description": "Risikoklasse 3 indikerer at evakueringen er forholdsvis kompleks med længere brandforløb.",
+            "17cfad89-e42f-4c80-9d39-1aea93da48a9": "",
+            "1b6c18be-b299-46c9-a56d-9febaa98f57e": "",
+            "25876a93-95f2-4197-a9cc-d73d178269f1": "1",
+            "2e1f84e6-b38a-4588-82af-1d26eb130018": "",
+            "358fd5d3-869c-4b90-9995-f4491c302e16": "",
+            "387495df-88af-4307-a75a-57ce96fee410": "false",
+            "45d33d2e-6ad1-4548-b68f-cf298672ebdd": "",
+            "476f57c3-0935-4811-a11d-6a22f8d41b40": "3",
+            "6d2ceaf2-1451-4a2e-9244-97870e81e1f5": "<=22",
+            "77abb6eb-7fb5-4c66-a067-fa43c19b682f": "<=22",
+            "9c23d984-56ef-47b5-91aa-8b4c3317abed": "",
+            "ab1b6b8c-e75b-4665-9f66-cff409252096": "",
+            "bbeed867-02e4-406b-a667-1f039e9e43a7": "",
+            "bde3cd6d-ef4f-43d3-8508-f5c27fcda891": "<=150",
+            "d5254c5d-b1ec-4381-a16d-7918818cf913": "",
+            "d8e6fff0-e98d-49d3-b84c-3e16237a6821": "",
+            "e372f405-78ea-4162-b1aa-c17d4b181625": "",
+            "f90b5ee9-8cdf-4811-8a53-97f27bd7abd0": "3"
+          },
+          {
+            "_id": "05ee726b-3dee-4382-bd00-8e891dd1ea93",
+            "_description": "Risikoklasse 3 indikerer at evakueringen er forholdsvis kompleks med længere brandforløb.",
+            "17cfad89-e42f-4c80-9d39-1aea93da48a9": "",
+            "1b6c18be-b299-46c9-a56d-9febaa98f57e": "",
+            "25876a93-95f2-4197-a9cc-d73d178269f1": "",
+            "2e1f84e6-b38a-4588-82af-1d26eb130018": "",
+            "358fd5d3-869c-4b90-9995-f4491c302e16": "<=2",
+            "387495df-88af-4307-a75a-57ce96fee410": "",
+            "45d33d2e-6ad1-4548-b68f-cf298672ebdd": "<=2",
+            "476f57c3-0935-4811-a11d-6a22f8d41b40": "3",
+            "6d2ceaf2-1451-4a2e-9244-97870e81e1f5": "<=45",
+            "77abb6eb-7fb5-4c66-a067-fa43c19b682f": "",
+            "9c23d984-56ef-47b5-91aa-8b4c3317abed": "",
+            "ab1b6b8c-e75b-4665-9f66-cff409252096": "",
+            "bbeed867-02e4-406b-a667-1f039e9e43a7": "",
+            "bde3cd6d-ef4f-43d3-8508-f5c27fcda891": "<=1000",
+            "d5254c5d-b1ec-4381-a16d-7918818cf913": "",
+            "d8e6fff0-e98d-49d3-b84c-3e16237a6821": "",
+            "e372f405-78ea-4162-b1aa-c17d4b181625": "<=1",
+            "f90b5ee9-8cdf-4811-8a53-97f27bd7abd0": "3"
+          },
+          {
+            "_id": "a4aaad3d-5f84-43a1-9216-4f7d27c00009",
+            "_description": "Risikoklasse 4 er der hvor der sættes højeste krav til brandsikkerhed grundet komplekst og langt brandforløb.",
+            "17cfad89-e42f-4c80-9d39-1aea93da48a9": "",
+            "1b6c18be-b299-46c9-a56d-9febaa98f57e": "",
+            "25876a93-95f2-4197-a9cc-d73d178269f1": "",
+            "2e1f84e6-b38a-4588-82af-1d26eb130018": "",
+            "358fd5d3-869c-4b90-9995-f4491c302e16": "",
+            "387495df-88af-4307-a75a-57ce96fee410": "",
+            "45d33d2e-6ad1-4548-b68f-cf298672ebdd": "",
+            "476f57c3-0935-4811-a11d-6a22f8d41b40": "4",
+            "6d2ceaf2-1451-4a2e-9244-97870e81e1f5": "",
+            "77abb6eb-7fb5-4c66-a067-fa43c19b682f": "",
+            "9c23d984-56ef-47b5-91aa-8b4c3317abed": "",
+            "ab1b6b8c-e75b-4665-9f66-cff409252096": "",
+            "bbeed867-02e4-406b-a667-1f039e9e43a7": "",
+            "bde3cd6d-ef4f-43d3-8508-f5c27fcda891": "",
+            "d5254c5d-b1ec-4381-a16d-7918818cf913": "",
+            "d8e6fff0-e98d-49d3-b84c-3e16237a6821": "",
+            "e372f405-78ea-4162-b1aa-c17d4b181625": "",
+            "f90b5ee9-8cdf-4811-8a53-97f27bd7abd0": "3"
+          },
+          {
+            "_id": "bd4fae8e-f91c-4680-909a-cb0d49a944df",
+            "_description": "Risikoklasse 1 indikerer byggeriet er simpelt at evakuere uden høj brandbelastning og med et kort brandforløb.",
+            "17cfad89-e42f-4c80-9d39-1aea93da48a9": "\"Enfamiliehus\", \"Dobbelthus\", \"Rækkehus\", \"Kædehus\", \"Gruppehus\",  \"Sommerhus\", \"Campinghytte\", \"Feriebolig\", \"Én bolig til helårsbeboelse\"",
+            "1b6c18be-b299-46c9-a56d-9febaa98f57e": "",
+            "25876a93-95f2-4197-a9cc-d73d178269f1": "",
+            "2e1f84e6-b38a-4588-82af-1d26eb130018": "",
+            "358fd5d3-869c-4b90-9995-f4491c302e16": "",
+            "387495df-88af-4307-a75a-57ce96fee410": "",
+            "45d33d2e-6ad1-4548-b68f-cf298672ebdd": "<=3",
+            "476f57c3-0935-4811-a11d-6a22f8d41b40": "1",
+            "6d2ceaf2-1451-4a2e-9244-97870e81e1f5": "<=9.6",
+            "77abb6eb-7fb5-4c66-a067-fa43c19b682f": "<=9.6",
+            "9c23d984-56ef-47b5-91aa-8b4c3317abed": "<=600.49",
+            "ab1b6b8c-e75b-4665-9f66-cff409252096": "",
+            "bbeed867-02e4-406b-a667-1f039e9e43a7": "",
+            "bde3cd6d-ef4f-43d3-8508-f5c27fcda891": "",
+            "d5254c5d-b1ec-4381-a16d-7918818cf913": "",
+            "d8e6fff0-e98d-49d3-b84c-3e16237a6821": "",
+            "e372f405-78ea-4162-b1aa-c17d4b181625": "<=1",
+            "f90b5ee9-8cdf-4811-8a53-97f27bd7abd0": "4"
+          },
+          {
+            "_id": "b2df337b-7eaa-47e5-b4fe-032c6e7cffb8",
+            "_description": "Risikoklasse 1 indikerer byggeriet er simpelt at evakuere uden høj brandbelastning og med et kort brandforløb.",
+            "17cfad89-e42f-4c80-9d39-1aea93da48a9": "",
+            "1b6c18be-b299-46c9-a56d-9febaa98f57e": "",
+            "25876a93-95f2-4197-a9cc-d73d178269f1": "",
+            "2e1f84e6-b38a-4588-82af-1d26eb130018": "",
+            "358fd5d3-869c-4b90-9995-f4491c302e16": "",
+            "387495df-88af-4307-a75a-57ce96fee410": "",
+            "45d33d2e-6ad1-4548-b68f-cf298672ebdd": "<=1",
+            "476f57c3-0935-4811-a11d-6a22f8d41b40": "1",
+            "6d2ceaf2-1451-4a2e-9244-97870e81e1f5": "",
+            "77abb6eb-7fb5-4c66-a067-fa43c19b682f": "",
+            "9c23d984-56ef-47b5-91aa-8b4c3317abed": "",
+            "ab1b6b8c-e75b-4665-9f66-cff409252096": "",
+            "bbeed867-02e4-406b-a667-1f039e9e43a7": "<=5",
+            "bde3cd6d-ef4f-43d3-8508-f5c27fcda891": "",
+            "d5254c5d-b1ec-4381-a16d-7918818cf913": "",
+            "d8e6fff0-e98d-49d3-b84c-3e16237a6821": "",
+            "e372f405-78ea-4162-b1aa-c17d4b181625": "<=1",
+            "f90b5ee9-8cdf-4811-8a53-97f27bd7abd0": "4"
+          },
+          {
+            "_id": "ac62dc11-b067-4dcd-b344-5fd863e8ff37",
+            "_description": "Risikoklasse 2 kræver skærpede krav sammenlignet med risikoklasse 1.",
+            "17cfad89-e42f-4c80-9d39-1aea93da48a9": "",
+            "1b6c18be-b299-46c9-a56d-9febaa98f57e": "",
+            "25876a93-95f2-4197-a9cc-d73d178269f1": "",
+            "2e1f84e6-b38a-4588-82af-1d26eb130018": "",
+            "358fd5d3-869c-4b90-9995-f4491c302e16": "",
+            "387495df-88af-4307-a75a-57ce96fee410": "",
+            "45d33d2e-6ad1-4548-b68f-cf298672ebdd": "",
+            "476f57c3-0935-4811-a11d-6a22f8d41b40": "2",
+            "6d2ceaf2-1451-4a2e-9244-97870e81e1f5": "",
+            "77abb6eb-7fb5-4c66-a067-fa43c19b682f": "<=9.6  ",
+            "9c23d984-56ef-47b5-91aa-8b4c3317abed": "",
+            "ab1b6b8c-e75b-4665-9f66-cff409252096": "",
+            "bbeed867-02e4-406b-a667-1f039e9e43a7": "",
+            "bde3cd6d-ef4f-43d3-8508-f5c27fcda891": "",
+            "d5254c5d-b1ec-4381-a16d-7918818cf913": "",
+            "d8e6fff0-e98d-49d3-b84c-3e16237a6821": "",
+            "e372f405-78ea-4162-b1aa-c17d4b181625": "",
+            "f90b5ee9-8cdf-4811-8a53-97f27bd7abd0": "4"
+          },
+          {
+            "_id": "bfb15471-b89b-4ac1-bc47-546a4fc680c9",
+            "_description": "Risikoklasse 3 indikerer at evakueringen er forholdsvis kompleks med længere brandforløb.",
+            "17cfad89-e42f-4c80-9d39-1aea93da48a9": "",
+            "1b6c18be-b299-46c9-a56d-9febaa98f57e": "",
+            "25876a93-95f2-4197-a9cc-d73d178269f1": "",
+            "2e1f84e6-b38a-4588-82af-1d26eb130018": "",
+            "358fd5d3-869c-4b90-9995-f4491c302e16": "",
+            "387495df-88af-4307-a75a-57ce96fee410": "",
+            "45d33d2e-6ad1-4548-b68f-cf298672ebdd": "",
+            "476f57c3-0935-4811-a11d-6a22f8d41b40": "3",
+            "6d2ceaf2-1451-4a2e-9244-97870e81e1f5": "",
+            "77abb6eb-7fb5-4c66-a067-fa43c19b682f": "<=45",
+            "9c23d984-56ef-47b5-91aa-8b4c3317abed": "",
+            "ab1b6b8c-e75b-4665-9f66-cff409252096": "",
+            "bbeed867-02e4-406b-a667-1f039e9e43a7": "",
+            "bde3cd6d-ef4f-43d3-8508-f5c27fcda891": "",
+            "d5254c5d-b1ec-4381-a16d-7918818cf913": "",
+            "d8e6fff0-e98d-49d3-b84c-3e16237a6821": "",
+            "e372f405-78ea-4162-b1aa-c17d4b181625": "<=1",
+            "f90b5ee9-8cdf-4811-8a53-97f27bd7abd0": "4"
+          },
+          {
+            "_id": "5b52af62-f31c-46c1-b40c-2bb201772515",
+            "_description": "Risikoklasse 4 er der hvor der sættes højeste krav til brandsikkerhed grundet komplekst og langt brandforløb.",
+            "17cfad89-e42f-4c80-9d39-1aea93da48a9": "",
+            "1b6c18be-b299-46c9-a56d-9febaa98f57e": "",
+            "25876a93-95f2-4197-a9cc-d73d178269f1": "",
+            "2e1f84e6-b38a-4588-82af-1d26eb130018": "",
+            "358fd5d3-869c-4b90-9995-f4491c302e16": "",
+            "387495df-88af-4307-a75a-57ce96fee410": "",
+            "45d33d2e-6ad1-4548-b68f-cf298672ebdd": "",
+            "476f57c3-0935-4811-a11d-6a22f8d41b40": "4",
+            "6d2ceaf2-1451-4a2e-9244-97870e81e1f5": "",
+            "77abb6eb-7fb5-4c66-a067-fa43c19b682f": "",
+            "9c23d984-56ef-47b5-91aa-8b4c3317abed": "",
+            "ab1b6b8c-e75b-4665-9f66-cff409252096": "",
+            "bbeed867-02e4-406b-a667-1f039e9e43a7": "",
+            "bde3cd6d-ef4f-43d3-8508-f5c27fcda891": "",
+            "d5254c5d-b1ec-4381-a16d-7918818cf913": "",
+            "d8e6fff0-e98d-49d3-b84c-3e16237a6821": "",
+            "e372f405-78ea-4162-b1aa-c17d4b181625": "",
+            "f90b5ee9-8cdf-4811-8a53-97f27bd7abd0": "4"
+          },
+          {
+            "_id": "16633106-9f1f-4959-a654-19f6affe72ba",
+            "_description": "Risikoklasse 1 indikerer byggeriet er simpelt at evakuere uden høj brandbelastning og med et kort brandforløb.",
+            "17cfad89-e42f-4c80-9d39-1aea93da48a9": "",
+            "1b6c18be-b299-46c9-a56d-9febaa98f57e": "",
+            "25876a93-95f2-4197-a9cc-d73d178269f1": "",
+            "2e1f84e6-b38a-4588-82af-1d26eb130018": "",
+            "358fd5d3-869c-4b90-9995-f4491c302e16": "",
+            "387495df-88af-4307-a75a-57ce96fee410": "",
+            "45d33d2e-6ad1-4548-b68f-cf298672ebdd": "<=1",
+            "476f57c3-0935-4811-a11d-6a22f8d41b40": "1",
+            "6d2ceaf2-1451-4a2e-9244-97870e81e1f5": "",
+            "77abb6eb-7fb5-4c66-a067-fa43c19b682f": "",
+            "9c23d984-56ef-47b5-91aa-8b4c3317abed": "<=150",
+            "ab1b6b8c-e75b-4665-9f66-cff409252096": "true",
+            "bbeed867-02e4-406b-a667-1f039e9e43a7": "",
+            "bde3cd6d-ef4f-43d3-8508-f5c27fcda891": "",
+            "d5254c5d-b1ec-4381-a16d-7918818cf913": "true",
+            "d8e6fff0-e98d-49d3-b84c-3e16237a6821": "<=10",
+            "e372f405-78ea-4162-b1aa-c17d4b181625": "",
+            "f90b5ee9-8cdf-4811-8a53-97f27bd7abd0": "5"
+          },
+          {
+            "_id": "bf1374bb-240d-4ceb-8476-e877b3449094",
+            "_description": "Risikoklasse 2 kræver skærpede krav sammenlignet med risikoklasse 1.",
+            "17cfad89-e42f-4c80-9d39-1aea93da48a9": "",
+            "1b6c18be-b299-46c9-a56d-9febaa98f57e": "",
+            "25876a93-95f2-4197-a9cc-d73d178269f1": "",
+            "2e1f84e6-b38a-4588-82af-1d26eb130018": "",
+            "358fd5d3-869c-4b90-9995-f4491c302e16": "<=1",
+            "387495df-88af-4307-a75a-57ce96fee410": "",
+            "45d33d2e-6ad1-4548-b68f-cf298672ebdd": "<=1",
+            "476f57c3-0935-4811-a11d-6a22f8d41b40": "2",
+            "6d2ceaf2-1451-4a2e-9244-97870e81e1f5": "<=45",
+            "77abb6eb-7fb5-4c66-a067-fa43c19b682f": "",
+            "9c23d984-56ef-47b5-91aa-8b4c3317abed": "",
+            "ab1b6b8c-e75b-4665-9f66-cff409252096": "",
+            "bbeed867-02e4-406b-a667-1f039e9e43a7": "",
+            "bde3cd6d-ef4f-43d3-8508-f5c27fcda891": "",
+            "d5254c5d-b1ec-4381-a16d-7918818cf913": "",
+            "d8e6fff0-e98d-49d3-b84c-3e16237a6821": "",
+            "e372f405-78ea-4162-b1aa-c17d4b181625": "",
+            "f90b5ee9-8cdf-4811-8a53-97f27bd7abd0": "5"
+          },
+          {
+            "_id": "f3b06636-c376-4a58-a199-259df40f60d8",
+            "_description": "Risikoklasse 3 indikerer at evakueringen er forholdsvis kompleks med længere brandforløb.",
+            "17cfad89-e42f-4c80-9d39-1aea93da48a9": "",
+            "1b6c18be-b299-46c9-a56d-9febaa98f57e": "",
+            "25876a93-95f2-4197-a9cc-d73d178269f1": "",
+            "2e1f84e6-b38a-4588-82af-1d26eb130018": "",
+            "358fd5d3-869c-4b90-9995-f4491c302e16": "",
+            "387495df-88af-4307-a75a-57ce96fee410": "",
+            "45d33d2e-6ad1-4548-b68f-cf298672ebdd": "",
+            "476f57c3-0935-4811-a11d-6a22f8d41b40": "3",
+            "6d2ceaf2-1451-4a2e-9244-97870e81e1f5": "<=22",
+            "77abb6eb-7fb5-4c66-a067-fa43c19b682f": "",
+            "9c23d984-56ef-47b5-91aa-8b4c3317abed": "",
+            "ab1b6b8c-e75b-4665-9f66-cff409252096": "",
+            "bbeed867-02e4-406b-a667-1f039e9e43a7": "",
+            "bde3cd6d-ef4f-43d3-8508-f5c27fcda891": "",
+            "d5254c5d-b1ec-4381-a16d-7918818cf913": "",
+            "d8e6fff0-e98d-49d3-b84c-3e16237a6821": "",
+            "e372f405-78ea-4162-b1aa-c17d4b181625": "",
+            "f90b5ee9-8cdf-4811-8a53-97f27bd7abd0": "5"
+          },
+          {
+            "_id": "1d1c0259-5373-4bb5-b07f-c3c7971b77e0",
+            "_description": "Risikoklasse 3 indikerer at evakueringen er forholdsvis kompleks med længere brandforløb.",
+            "17cfad89-e42f-4c80-9d39-1aea93da48a9": "",
+            "1b6c18be-b299-46c9-a56d-9febaa98f57e": "",
+            "25876a93-95f2-4197-a9cc-d73d178269f1": "",
+            "2e1f84e6-b38a-4588-82af-1d26eb130018": "",
+            "358fd5d3-869c-4b90-9995-f4491c302e16": "<=2",
+            "387495df-88af-4307-a75a-57ce96fee410": "false",
+            "45d33d2e-6ad1-4548-b68f-cf298672ebdd": "<=2",
+            "476f57c3-0935-4811-a11d-6a22f8d41b40": "3",
+            "6d2ceaf2-1451-4a2e-9244-97870e81e1f5": "",
+            "77abb6eb-7fb5-4c66-a067-fa43c19b682f": "",
+            "9c23d984-56ef-47b5-91aa-8b4c3317abed": "",
+            "ab1b6b8c-e75b-4665-9f66-cff409252096": "",
+            "bbeed867-02e4-406b-a667-1f039e9e43a7": "<=5",
+            "bde3cd6d-ef4f-43d3-8508-f5c27fcda891": "",
+            "d5254c5d-b1ec-4381-a16d-7918818cf913": "",
+            "d8e6fff0-e98d-49d3-b84c-3e16237a6821": "",
+            "e372f405-78ea-4162-b1aa-c17d4b181625": "<=1",
+            "f90b5ee9-8cdf-4811-8a53-97f27bd7abd0": "5"
+          },
+          {
+            "_id": "0e26eae6-e813-4637-97d2-bb224cfc4a30",
+            "_description": "Risikoklasse 4 er der hvor der sættes højeste krav til brandsikkerhed grundet komplekst og langt brandforløb.",
+            "17cfad89-e42f-4c80-9d39-1aea93da48a9": "",
+            "1b6c18be-b299-46c9-a56d-9febaa98f57e": "",
+            "25876a93-95f2-4197-a9cc-d73d178269f1": "",
+            "2e1f84e6-b38a-4588-82af-1d26eb130018": "",
+            "358fd5d3-869c-4b90-9995-f4491c302e16": "",
+            "387495df-88af-4307-a75a-57ce96fee410": "",
+            "45d33d2e-6ad1-4548-b68f-cf298672ebdd": "",
+            "476f57c3-0935-4811-a11d-6a22f8d41b40": "4",
+            "6d2ceaf2-1451-4a2e-9244-97870e81e1f5": "",
+            "77abb6eb-7fb5-4c66-a067-fa43c19b682f": "",
+            "9c23d984-56ef-47b5-91aa-8b4c3317abed": "",
+            "ab1b6b8c-e75b-4665-9f66-cff409252096": "",
+            "bbeed867-02e4-406b-a667-1f039e9e43a7": "",
+            "bde3cd6d-ef4f-43d3-8508-f5c27fcda891": "",
+            "d5254c5d-b1ec-4381-a16d-7918818cf913": "",
+            "d8e6fff0-e98d-49d3-b84c-3e16237a6821": "",
+            "e372f405-78ea-4162-b1aa-c17d4b181625": "",
+            "f90b5ee9-8cdf-4811-8a53-97f27bd7abd0": "5"
+          },
+          {
+            "_id": "f9df0408-2be3-48a1-8dc6-13c7362e1890",
+            "_description": "Risikoklasse 2 kræver skærpede krav sammenlignet med risikoklasse 1.",
+            "17cfad89-e42f-4c80-9d39-1aea93da48a9": "",
+            "1b6c18be-b299-46c9-a56d-9febaa98f57e": "",
+            "25876a93-95f2-4197-a9cc-d73d178269f1": "",
+            "2e1f84e6-b38a-4588-82af-1d26eb130018": "",
+            "358fd5d3-869c-4b90-9995-f4491c302e16": "<=1",
+            "387495df-88af-4307-a75a-57ce96fee410": "",
+            "45d33d2e-6ad1-4548-b68f-cf298672ebdd": "<=1",
+            "476f57c3-0935-4811-a11d-6a22f8d41b40": "2",
+            "6d2ceaf2-1451-4a2e-9244-97870e81e1f5": "<=45",
+            "77abb6eb-7fb5-4c66-a067-fa43c19b682f": "",
+            "9c23d984-56ef-47b5-91aa-8b4c3317abed": "",
+            "ab1b6b8c-e75b-4665-9f66-cff409252096": "",
+            "bbeed867-02e4-406b-a667-1f039e9e43a7": "",
+            "bde3cd6d-ef4f-43d3-8508-f5c27fcda891": "",
+            "d5254c5d-b1ec-4381-a16d-7918818cf913": "",
+            "d8e6fff0-e98d-49d3-b84c-3e16237a6821": "",
+            "e372f405-78ea-4162-b1aa-c17d4b181625": "",
+            "f90b5ee9-8cdf-4811-8a53-97f27bd7abd0": "6"
+          },
+          {
+            "_id": "379cf20a-e9e8-41cf-9b9a-1b535d2a10ee",
+            "_description": "Risikoklasse 3 indikerer at evakueringen er forholdsvis kompleks med længere brandforløb.",
+            "17cfad89-e42f-4c80-9d39-1aea93da48a9": "",
+            "1b6c18be-b299-46c9-a56d-9febaa98f57e": "",
+            "25876a93-95f2-4197-a9cc-d73d178269f1": "",
+            "2e1f84e6-b38a-4588-82af-1d26eb130018": "",
+            "358fd5d3-869c-4b90-9995-f4491c302e16": "<=2",
+            "387495df-88af-4307-a75a-57ce96fee410": "",
+            "45d33d2e-6ad1-4548-b68f-cf298672ebdd": "<=2",
+            "476f57c3-0935-4811-a11d-6a22f8d41b40": "3",
+            "6d2ceaf2-1451-4a2e-9244-97870e81e1f5": "<=45",
+            "77abb6eb-7fb5-4c66-a067-fa43c19b682f": "",
+            "9c23d984-56ef-47b5-91aa-8b4c3317abed": "",
+            "ab1b6b8c-e75b-4665-9f66-cff409252096": "",
+            "bbeed867-02e4-406b-a667-1f039e9e43a7": "",
+            "bde3cd6d-ef4f-43d3-8508-f5c27fcda891": "",
+            "d5254c5d-b1ec-4381-a16d-7918818cf913": "",
+            "d8e6fff0-e98d-49d3-b84c-3e16237a6821": "",
+            "e372f405-78ea-4162-b1aa-c17d4b181625": "<=1",
+            "f90b5ee9-8cdf-4811-8a53-97f27bd7abd0": "6"
+          },
+          {
+            "_id": "afbc2dbc-f761-43e2-97cc-0b43a9ef9575",
+            "_description": "Risikoklasse 3 indikerer at evakueringen er forholdsvis kompleks med længere brandforløb.",
+            "17cfad89-e42f-4c80-9d39-1aea93da48a9": "",
+            "1b6c18be-b299-46c9-a56d-9febaa98f57e": "",
+            "25876a93-95f2-4197-a9cc-d73d178269f1": "",
+            "2e1f84e6-b38a-4588-82af-1d26eb130018": "",
+            "358fd5d3-869c-4b90-9995-f4491c302e16": "<=1",
+            "387495df-88af-4307-a75a-57ce96fee410": "false",
+            "45d33d2e-6ad1-4548-b68f-cf298672ebdd": "0",
+            "476f57c3-0935-4811-a11d-6a22f8d41b40": "3",
+            "6d2ceaf2-1451-4a2e-9244-97870e81e1f5": "",
+            "77abb6eb-7fb5-4c66-a067-fa43c19b682f": "",
+            "9c23d984-56ef-47b5-91aa-8b4c3317abed": "",
+            "ab1b6b8c-e75b-4665-9f66-cff409252096": "",
+            "bbeed867-02e4-406b-a667-1f039e9e43a7": "<=5",
+            "bde3cd6d-ef4f-43d3-8508-f5c27fcda891": "",
+            "d5254c5d-b1ec-4381-a16d-7918818cf913": "",
+            "d8e6fff0-e98d-49d3-b84c-3e16237a6821": "",
+            "e372f405-78ea-4162-b1aa-c17d4b181625": "<=1",
+            "f90b5ee9-8cdf-4811-8a53-97f27bd7abd0": "6"
+          },
+          {
+            "_id": "08ddd693-560d-4ac6-a419-33067a39f78d",
+            "_description": "Risikoklasse 4 er der hvor der sættes højeste krav til brandsikkerhed grundet komplekst og langt brandforløb.",
+            "17cfad89-e42f-4c80-9d39-1aea93da48a9": "",
+            "1b6c18be-b299-46c9-a56d-9febaa98f57e": "",
+            "25876a93-95f2-4197-a9cc-d73d178269f1": "",
+            "2e1f84e6-b38a-4588-82af-1d26eb130018": "",
+            "358fd5d3-869c-4b90-9995-f4491c302e16": "",
+            "387495df-88af-4307-a75a-57ce96fee410": "",
+            "45d33d2e-6ad1-4548-b68f-cf298672ebdd": "",
+            "476f57c3-0935-4811-a11d-6a22f8d41b40": "4",
+            "6d2ceaf2-1451-4a2e-9244-97870e81e1f5": "",
+            "77abb6eb-7fb5-4c66-a067-fa43c19b682f": "",
+            "9c23d984-56ef-47b5-91aa-8b4c3317abed": "",
+            "ab1b6b8c-e75b-4665-9f66-cff409252096": "",
+            "bbeed867-02e4-406b-a667-1f039e9e43a7": "",
+            "bde3cd6d-ef4f-43d3-8508-f5c27fcda891": "",
+            "d5254c5d-b1ec-4381-a16d-7918818cf913": "",
+            "d8e6fff0-e98d-49d3-b84c-3e16237a6821": "",
+            "e372f405-78ea-4162-b1aa-c17d4b181625": "",
+            "f90b5ee9-8cdf-4811-8a53-97f27bd7abd0": "6"
+          }
+        ],
+        "inputs": [
+          {
+            "id": "f90b5ee9-8cdf-4811-8a53-97f27bd7abd0",
+            "name": "Hvilken anvendelseskategori placeres bygningsafsnittet i?",
+            "field": "anvendelseskategori"
+          },
+          {
+            "id": "45d33d2e-6ad1-4548-b68f-cf298672ebdd",
+            "name": "Hvor mange etager er der over terræn i bygningsafsnittet?",
+            "field": "antal_etager_over_terraen_BA"
+          },
+          {
+            "id": "e372f405-78ea-4162-b1aa-c17d4b181625",
+            "name": "Hvor mange etager under terræn er der i bygningsafsnittet?",
+            "field": "antal_etager_under_terraen_BA"
+          },
+          {
+            "id": "358fd5d3-869c-4b90-9995-f4491c302e16",
+            "name": "Hvor mange etager er der i bygningsafsnittet?",
+            "field": "antal_etager_BA"
+          },
+          {
+            "id": "2e1f84e6-b38a-4588-82af-1d26eb130018",
+            "name": "Hvad er bygningsafsnittets brandbelastning i MJ/m2?",
+            "field": "brandbelastning_BA"
+          },
+          {
+            "id": "77abb6eb-7fb5-4c66-a067-fa43c19b682f",
+            "name": "Hvad er øverste etages gulvhøjde i dette bygningsafsnit? [m]",
+            "field": "etage_hoejde_BA"
+          },
+          {
+            "id": "9c23d984-56ef-47b5-91aa-8b4c3317abed",
+            "name": "Hvad er arealet af bygningsafsnittet?",
+            "field": "area_BA"
+          },
+          {
+            "id": "ab1b6b8c-e75b-4665-9f66-cff409252096",
+            "name": "Er bygningen brandmæssigt fritstående?",
+            "field": "fritstaaende"
+          },
+          {
+            "id": "bde3cd6d-ef4f-43d3-8508-f5c27fcda891",
+            "name": "Hvor mange personer er der i bygningsafsnittet?",
+            "field": "antal_personer_BA"
+          },
+          {
+            "id": "1b6c18be-b299-46c9-a56d-9febaa98f57e",
+            "name": "Er der direkte udgang fra alle rum?",
+            "field": "direkte_udgange"
+          },
+          {
+            "id": "6d2ceaf2-1451-4a2e-9244-97870e81e1f5",
+            "name": "Hvad er øverste etages gulvhøjde for hele bygningen? [m]",
+            "field": "etage_hoejde"
+          },
+          {
+            "id": "bbeed867-02e4-406b-a667-1f039e9e43a7",
+            "name": "Hvad er bygningsafsnittets dybde under terræn? [m]",
+            "field": "etage_dybde_BA"
+          },
+          {
+            "id": "387495df-88af-4307-a75a-57ce96fee410",
+            "name": "Er der bygningsafsnit i bygningen i risikoklasse 4?",
+            "field": "bygningsafsnit_i_RK4"
+          },
+          {
+            "id": "25876a93-95f2-4197-a9cc-d73d178269f1",
+            "name": "Hvor mange antal bygningsafsnit er der i bygningen?",
+            "field": "antal_BA"
+          },
+          {
+            "id": "17cfad89-e42f-4c80-9d39-1aea93da48a9",
+            "name": "Hvilken bygningstype er det?",
+            "field": "bygningstype"
+          },
+          {
+            "id": "d8e6fff0-e98d-49d3-b84c-3e16237a6821",
+            "name": "Hvor mange personer forventes overnattende i bygningsafsnittet?",
+            "field": "antal_overnattende"
+          },
+          {
+            "id": "d5254c5d-b1ec-4381-a16d-7918818cf913",
+            "name": "Er der direkte udgange fra alle soverum?",
+            "field": "direkte_udgange_soverum"
+          }
+        ],
+        "outputs": [
+          {
+            "id": "476f57c3-0935-4811-a11d-6a22f8d41b40",
+            "name": "Hvilken risikoklasse indplaceres bygningsafsnittet i?",
+            "field": "risikoklasse"
+          }
+        ],
+        "hitPolicy": "first",
+        "inputField": null,
+        "outputPath": null,
+        "passThrough": true,
+        "executionMode": "single"
+      },
+      "position": {
+        "x": 315,
+        "y": -40
+      }
+    },
+    {
+      "id": "b66ea6f6-2480-4eba-8fb0-3218fc86c91c",
+      "name": "Relevant bilag",
+      "type": "decisionTableNode",
+      "content": {
+        "rules": [
+          {
+            "_id": "a08864c4-26d6-45a1-9669-32ee880b7b0f",
+            "_description": "",
+            "2a246113-cc91-49e0-a635-6f9483e3f052": "4",
+            "31427a89-f52c-44e0-a83a-93ea1eba8dbd": "<=1",
+            "4bc6b507-f3c6-45b5-bcd3-73b456287437": "\"Bilag 1a - Præ-accepterede løsninger for fritliggende og sammenbyggede enfamiliehuse\"",
+            "85d726a8-05d5-4e68-98e8-4da48cca6ee3": "\"Enfamiliehus\", \"Dobbelthus\", \"Rækkehus\", \"Kædehus\", \"Gruppehus\",  \"Sommerhus\", \"Campinghytte\", \"Feriebolig\", \"Én bolig til helårsbeboelse\"",
+            "c1f427df-4ad3-4b66-93c7-e2e17a11de12": "1",
+            "d98c3198-4ca0-473b-8d6d-4e25b9ff4447": "<=3",
+            "e2b4af3a-47c6-4319-866c-02bc1def2d95": "1"
+          },
+          {
+            "_id": "3d37fd0a-3708-407a-a005-471ce40ca637",
+            "_description": "",
+            "2a246113-cc91-49e0-a635-6f9483e3f052": "1",
+            "31427a89-f52c-44e0-a83a-93ea1eba8dbd": "<=1",
+            "4bc6b507-f3c6-45b5-bcd3-73b456287437": "\"Bilag 1b - Præ-accepterede løsninger for sekundær bebyggelse i tilknytning til fritliggende og sammenbyggede enfamiliehuse\"",
+            "85d726a8-05d5-4e68-98e8-4da48cca6ee3": "\"Garage\",\n\"Carport\",\n\"Udhus\",\n\"Skur\",\n\"Værksted\",\n\"Hønsehus\",\n\"Drivhus\",\n\"Mindre bygning med kortvarigt personophold\",\n\"Overdækket terrasse\",\"pavillonbyggerier\",\n\"forsamlings- og opholdsbygninger\",\n\"Midlertidige undervisnings- og institutionsbygninger\",\n\"undervisnings- og aktivitetsbygninger\",\n\"kultur- og formidlingsbygninger\",\n\"servicebygninger med personophold\",\n\"café- og kioskbygninger med siddepladser\",\n\"sundheds- og socialbygninger\",\n\"forenings- og fritidsbygninger\",\n\"Varmestue\"",
+            "c1f427df-4ad3-4b66-93c7-e2e17a11de12": "1",
+            "d98c3198-4ca0-473b-8d6d-4e25b9ff4447": "<=1",
+            "e2b4af3a-47c6-4319-866c-02bc1def2d95": "1.1"
+          }
+        ],
+        "inputs": [
+          {
+            "id": "2a246113-cc91-49e0-a635-6f9483e3f052",
+            "name": "Hvilken anvendelseskategori placeres bygningsafsnittet i?",
+            "field": "anvendelseskategori"
+          },
+          {
+            "id": "c1f427df-4ad3-4b66-93c7-e2e17a11de12",
+            "name": "Hvilken risikoklasse indplaceres bygningsafsnittet i?",
+            "field": "risikoklasse"
+          },
+          {
+            "id": "d98c3198-4ca0-473b-8d6d-4e25b9ff4447",
+            "name": "Hvor mange etager over terræn er der i bygningsafsnittet?",
+            "field": "antal_etager_over_terraen_BA"
+          },
+          {
+            "id": "31427a89-f52c-44e0-a83a-93ea1eba8dbd",
+            "name": "Hvor mange etager under terræn er der i bygningsafsnittet?",
+            "field": "antal_etager_under_terraen_BA"
+          },
+          {
+            "id": "85d726a8-05d5-4e68-98e8-4da48cca6ee3",
+            "name": "Hvilken bygningstype er det?",
+            "field": "bygningstype"
+          }
+        ],
+        "outputs": [
+          {
+            "id": "e2b4af3a-47c6-4319-866c-02bc1def2d95",
+            "name": "Hvilke bilag for præ-accepterede løsnigner er det relevante for dette bygningsafsnit?",
+            "field": "relevant_bilag"
+          },
+          {
+            "id": "4bc6b507-f3c6-45b5-bcd3-73b456287437",
+            "name": "Output",
+            "field": "bilag_titel"
+          }
+        ],
+        "hitPolicy": "first",
+        "inputField": null,
+        "outputPath": null,
+        "passThrough": true,
+        "executionMode": "single"
+      },
+      "position": {
+        "x": 545,
+        "y": -40
+      }
+    },
+    {
+      "id": "70f0ebfb-0253-478b-b4ce-efab0b5b2dcf",
+      "name": "Brandklasse",
+      "type": "decisionTableNode",
+      "content": {
+        "rules": [
+          {
+            "_id": "a1c1c38f-44dd-4326-b12d-1c9cdb57e51d",
+            "_description": "",
+            "17af6657-489e-4296-9413-0f1a9b48d6ae": "1",
+            "1c14b208-a9ed-4e5c-b286-31e38953397c": "<=600.49",
+            "289f93d0-ad00-4dd5-bba8-68bd73e92e4f": "",
+            "2d106162-6d94-4040-9f10-40edad074883": "<=600.49",
+            "3395eef8-1a52-45f3-93f0-d22eba139cdb": "\"Sommerhus\", \"Campinghytte\", \"Feriebolig\", \"Enfamiliehus\", \"Én bolig til helårsbeboelse\"",
+            "42c7ad9f-08d2-4b7d-949e-1ea7a8a683b8": "",
+            "63f1b5ae-92ea-41a4-80a7-48815d0a5cae": "",
+            "71b96ac5-b4bd-4c81-9929-46285c18bb86": "true",
+            "7a7c5a9e-6819-4090-92a9-c630b4b63b9c": "\"1.3.1 og 1.3.2\"",
+            "b829e94e-36e1-4f70-ada8-fae4260d273d": "false",
+            "ba7a81cf-e6a3-4b45-a203-641e9b4aecc3": "",
+            "f235c6b9-011c-4155-93cb-507090ce596c": "",
+            "f2afa972-6ea5-4e7e-87cb-489cffc3f406": "1",
+            "f5582646-8e59-4d29-a3be-01be7f34fa9f": "true",
+            "f6c0531a-b1c7-4d61-bfa5-33637ee0b76d": "\"I brandklasse 1 kan der opføres enfamiliehuse, der er sammenbygget med erhverv, der kan henføres til anvendelseskategori 1 og risikoklasse 1, f.eks. landbrug og værksteder, med et samlet etageareal for bolig og erhverv på højst 600 m². Adskillelsen mellem bolig og erhverv skal udføres som bygningsdel mindst klasse EI 60 / A2-s1,d0 [BS-bygningsdel 60]. Der kan opføres flere af denne type bygningsafsnit med bolig og erhverv på grunden, såfremt hvert bygningsafsnit er højst 600 m² og er brandmæssigt fritliggende. Er det samlede etageareal af et bygningsafsnit større end 600 m² skal det indplaceres i brandklasse 2. Er erhvervsdelen industri eller lager skal denne del udføres i overensstemmelse med beskrivelserne i denne vejlednings Bilag 10: Præaccepterede løsninger for brandsikring af industri- og lagerbygninger i én etage, og henføres til industri- og lagerklasse (ILK) 1-3. Er erhvervsdelen landbrug skal denne del udføres i overensstemmelse med beskrivelserne i denne vejlednings Bilag 8: Præ-accepterede løsninger for Jordbrugserhvervets avls- og driftsbygninger samt væksthuse til produktionsformål.\""
+          },
+          {
+            "_id": "25fe7d54-afc0-4ad5-9470-0dcc4e62fee6",
+            "_description": "",
+            "17af6657-489e-4296-9413-0f1a9b48d6ae": "1",
+            "1c14b208-a9ed-4e5c-b286-31e38953397c": "<=600.49",
+            "289f93d0-ad00-4dd5-bba8-68bd73e92e4f": "",
+            "2d106162-6d94-4040-9f10-40edad074883": "<=600.49",
+            "3395eef8-1a52-45f3-93f0-d22eba139cdb": "\"Sommerhus\", \"Campinghytte\", \"Feriebolig\", \"Enfamiliehus\", \"Én bolig til helårsbeboelse\"",
+            "42c7ad9f-08d2-4b7d-949e-1ea7a8a683b8": "",
+            "63f1b5ae-92ea-41a4-80a7-48815d0a5cae": "",
+            "71b96ac5-b4bd-4c81-9929-46285c18bb86": "",
+            "7a7c5a9e-6819-4090-92a9-c630b4b63b9c": "\"1.3.1 og 1.3.2\"",
+            "b829e94e-36e1-4f70-ada8-fae4260d273d": "false",
+            "ba7a81cf-e6a3-4b45-a203-641e9b4aecc3": "",
+            "f235c6b9-011c-4155-93cb-507090ce596c": "",
+            "f2afa972-6ea5-4e7e-87cb-489cffc3f406": "1",
+            "f5582646-8e59-4d29-a3be-01be7f34fa9f": "true",
+            "f6c0531a-b1c7-4d61-bfa5-33637ee0b76d": "\"Til eksisterende enfamiliehuse kan der opføres tilbygninger i brandklasse 1 uanset om det eksisterende enfamiliehus er brandmæssigt fritliggende, såfremt tilbygningen er brandmæssigt fritliggende eller brandmæssigt adskilt i forhold til øvrig bebyggelse og skel , og såfremt etagearealet for det samlede bygningsafsnit af enfamiliehus og tilbygning er højst 600 m².\""
+          },
+          {
+            "_id": "5c0bc15e-f0c5-4005-88e6-2aa38d02753d",
+            "_description": "",
+            "17af6657-489e-4296-9413-0f1a9b48d6ae": "1",
+            "1c14b208-a9ed-4e5c-b286-31e38953397c": "<=600.49",
+            "289f93d0-ad00-4dd5-bba8-68bd73e92e4f": "false",
+            "2d106162-6d94-4040-9f10-40edad074883": "<=600.49",
+            "3395eef8-1a52-45f3-93f0-d22eba139cdb": "\"Sommerhus\", \"Campinghytte\", \"Feriebolig\", \"Enfamiliehus\", \"Én bolig til helårsbeboelse\"",
+            "42c7ad9f-08d2-4b7d-949e-1ea7a8a683b8": "",
+            "63f1b5ae-92ea-41a4-80a7-48815d0a5cae": "",
+            "71b96ac5-b4bd-4c81-9929-46285c18bb86": "",
+            "7a7c5a9e-6819-4090-92a9-c630b4b63b9c": "\"1.3.1 og 1.3.2\"",
+            "b829e94e-36e1-4f70-ada8-fae4260d273d": "false",
+            "ba7a81cf-e6a3-4b45-a203-641e9b4aecc3": "",
+            "f235c6b9-011c-4155-93cb-507090ce596c": "",
+            "f2afa972-6ea5-4e7e-87cb-489cffc3f406": "1",
+            "f5582646-8e59-4d29-a3be-01be7f34fa9f": "true",
+            "f6c0531a-b1c7-4d61-bfa5-33637ee0b76d": "\"Det er væsentligt at være opmærksom på de gældende afstandskrav. De viste løsninger er begge præaccepterede løsninger, som illustrerer, hvordan tilbygninger kan integreres, men da der i dette tilfælde ikke er angivet nogen tilbygninger, er projektet som udgangspunkt inden for de sikre rammer. Illustrationerne er udelukkende eksempler, der har til formål at tydeliggøre de forskellige faktorer, som indgår i den brandmæssige vurdering.\""
+          },
+          {
+            "_id": "7d566632-3f9f-42c2-9518-a87a11755a0e",
+            "_description": "",
+            "17af6657-489e-4296-9413-0f1a9b48d6ae": "1",
+            "1c14b208-a9ed-4e5c-b286-31e38953397c": "<=600.49",
+            "289f93d0-ad00-4dd5-bba8-68bd73e92e4f": "",
+            "2d106162-6d94-4040-9f10-40edad074883": "<=600.49",
+            "3395eef8-1a52-45f3-93f0-d22eba139cdb": "\"Dobbelthus\", \"Rækkehus\", \"Kædehus\", \"Gruppehus\" ",
+            "42c7ad9f-08d2-4b7d-949e-1ea7a8a683b8": "",
+            "63f1b5ae-92ea-41a4-80a7-48815d0a5cae": "",
+            "71b96ac5-b4bd-4c81-9929-46285c18bb86": "",
+            "7a7c5a9e-6819-4090-92a9-c630b4b63b9c": "\"1.3.3 og 1.3.4 og 1.3.5\"",
+            "b829e94e-36e1-4f70-ada8-fae4260d273d": "false",
+            "ba7a81cf-e6a3-4b45-a203-641e9b4aecc3": "\"På Figur 1.3.3 er vist en rækkehusbebyggelse opdelt i brandmæssigt fritliggende bygningsafsnit på 600 m², hver bestående af 6 boligenheder á 100 m², beliggende på én matrikel. Dette byggeri kan indplaceres i brandklasse 1. I brandklasse 1 er der ikke mulighed for at etablere tilbygninger til dette byggeri, f.eks. i form af udestuer. Ønskes dette skal byggeriet indplaceres i brandklasse 2, og der skal tilknyttes en brandrådgiver certificeret til mindst brandklasse 2.\\n\\nPå Figur 1.3.4 er vist en rækkehusbebyggelse opdelt i brandmæssigt fritliggende bygningsafsnit på 570 m², hver bestående af 6 boligenheder á 95 m², beliggende på én matrikel. I brandklasse 1 er der mulighed for at etablere tilbygninger på højst 30 m² i alt, f.eks. i form af udestuer. I brandklasse 1 er det dermed er det ikke sikkert, at alle boligenheder kan benytte sig af denne mulighed. Er der f.eks. etableret udestuer á 15 m² for 2 boligenheder, og ønskes der en tredje udestue, skal byggeriet indplaceres i brandklasse 2.\\n\\nPå Figur 1.3.5 er vist en rækkehusbebyggelse opdelt i brandmæssigt fritliggende bygningsafsnit på 510 m², hver bestående af 6 boligenheder á 85 m², beliggende på én matrikel. I brandklasse 1 er der mulighed for at etablere tilbygninger på op til 15 m² pr. boligenhed, f.eks. i form af udestuer.\"",
+            "f235c6b9-011c-4155-93cb-507090ce596c": "",
+            "f2afa972-6ea5-4e7e-87cb-489cffc3f406": "1",
+            "f5582646-8e59-4d29-a3be-01be7f34fa9f": "true",
+            "f6c0531a-b1c7-4d61-bfa5-33637ee0b76d": "\"På Figur 1.3.4 er vist en rækkehusbebyggelse opdelt i brandmæssigt fritliggende bygningsafsnit på 570 m², hver bestående af 6 boligenheder á 95 m², beliggende på én matrikel. I brandklasse 1 er der mulighed for at etablere tilbygninger på højst 30 m² i alt, f.eks. i form af udestuer. I brandklasse 1 er det dermed er det ikke sikkert, at alle boligenheder kan benytte sig af denne mulighed. Er der f.eks. etableret udestuer á 15 m² for 2 boligenheder, og ønskes der en tredje udestue, skal byggeriet indplaceres i brandklasse 2. På Figur 1.3.5 er vist en rækkehusbebyggelse opdelt i brandmæssigt fritliggende bygningsafsnit på 510 m², hver bestående af 6 boligenheder á 85 m², beliggende på én matrikel. I brandklasse 1 er der mulighed for at etablere tilbygninger på op til 15 m² pr. boligenhed, f.eks. i form af udestuer.\""
+          },
+          {
+            "_id": "22d5dc46-4a3e-45f1-a841-67c5561d6f18",
+            "_description": "",
+            "17af6657-489e-4296-9413-0f1a9b48d6ae": "2",
+            "1c14b208-a9ed-4e5c-b286-31e38953397c": "\t\n<=2000.49",
+            "289f93d0-ad00-4dd5-bba8-68bd73e92e4f": "",
+            "2d106162-6d94-4040-9f10-40edad074883": "<=600.49",
+            "3395eef8-1a52-45f3-93f0-d22eba139cdb": "\"Dobbelthus\", \"Rækkehus\", \"Kædehus\", \"Gruppehus\" ",
+            "42c7ad9f-08d2-4b7d-949e-1ea7a8a683b8": "4",
+            "63f1b5ae-92ea-41a4-80a7-48815d0a5cae": "",
+            "71b96ac5-b4bd-4c81-9929-46285c18bb86": "",
+            "7a7c5a9e-6819-4090-92a9-c630b4b63b9c": "\"1.3.3 og 1.3.4 og 1.3.5 og 1.3.6 og 1.3.7\"",
+            "b829e94e-36e1-4f70-ada8-fae4260d273d": "true",
+            "ba7a81cf-e6a3-4b45-a203-641e9b4aecc3": "\"På Figur 1.3.3 er vist en rækkehusbebyggelse opdelt i brandmæssigt fritliggende bygningsafsnit på 600 m², hver bestående af 6 boligenheder á 100 m², beliggende på én matrikel. Dette byggeri kan indplaceres i brandklasse 1. I brandklasse 1 er der ikke mulighed for at etablere tilbygninger til dette byggeri, f.eks. i form af udestuer. Ønskes dette skal byggeriet indplaceres i brandklasse 2, og der skal tilknyttes en brandrådgiver certificeret til mindst brandklasse 2.\\n\\nPå Figur 1.3.4 er vist en rækkehusbebyggelse opdelt i brandmæssigt fritliggende bygningsafsnit på 570 m², hver bestående af 6 boligenheder á 95 m², beliggende på én matrikel. I brandklasse 1 er der mulighed for at etablere tilbygninger på højst 30 m² i alt, f.eks. i form af udestuer. I brandklasse 1 er det dermed er det ikke sikkert, at alle boligenheder kan benytte sig af denne mulighed. Er der f.eks. etableret udestuer á 15 m² for 2 boligenheder, og ønskes der en tredje udestue, skal byggeriet indplaceres i brandklasse 2.\\n\\nPå Figur 1.3.5 er vist en rækkehusbebyggelse opdelt i brandmæssigt fritliggende bygningsafsnit på 510 m², hver bestående af 6 boligenheder á 85 m², beliggende på én matrikel. I brandklasse 1 er der mulighed for at etablere tilbygninger på op til 15 m² pr. boligenhed, f.eks. i form af udestuer. \\n\\nPå Figur 1.3.6 er vist brandmæssigt fritliggende rækkehusbebyggelser på 1.500 m², hver bestående af 10 boligenheder á 150 m², beliggende på én matrikel. Dette byggeri skal indplaceres mindst i brandklasse 2, og der skal tilknyttes en brandrådgiver certificeret til mindst brandklasse 2. Byggeriet skal opdeles i brandsektioner af højst 1.200 m² svarende til 8 boligenheder á 150 m². I eksemplets nederste bygningsafsnit har der været ønske om at tilbygge en udestue. Dette kan lade sig gøre ved at etablere en supplerende brandsektionsadskillelse mellem to boligenheder, så grænsen for brandsektionsstørrelsen på 1.200 m² fortsat er overholdt. \\n\\nFigur 1.3.7 er vist en rækkehusbebyggelse, hvor hver boligenhed er beliggende på selvstændig matrikel. På hver matrikel kan der i brandklasse 1 etableres tilbygninger, f.eks. i form af udestuer, med samlet etageareal på højst 600 m² for boligenhed og tilbygning. Adskillelsen mellem boligenhederne skal udføres som bygningsdel EI 60 [BD-bygningsdel 60]. Rækkehuskæden må højst have et samlet etageareal på 2.000 m², dog højst 10.000 m² hvis hele bebyggelsen sprinkles. Ved opførelse eller tilbygning skal der søges byggetilladelse for hver enkelt boligenhed (matrikel).\"",
+            "f235c6b9-011c-4155-93cb-507090ce596c": "<=5",
+            "f2afa972-6ea5-4e7e-87cb-489cffc3f406": "1",
+            "f5582646-8e59-4d29-a3be-01be7f34fa9f": " ",
+            "f6c0531a-b1c7-4d61-bfa5-33637ee0b76d": "\"Enfamiliehuse og sammenbyggede enfamiliehuse med et samlet etageareal større end 600 m² skal indplaceres i brandklasse 2. De skal udføres efter de præ-accepterede løsninger i dette bilag i deres helhed med mulighed for få, mindre fravigelser. Hvis der er større og i alt højst 5 fravigelser fra de præ-accepterede løsninger, kan byggeriet forblive i brandklasse 2. Det kræver, at der medvirker en brandrådgiver certificeret til mindst brandklasse 3 og 4. Denne skal dokumentere samtlige fravigelser, så sikkerhedsniveauet for de brandmæssige forhold er iagttaget ved brug af alle fravigelser i kombination. Alternativt skal bygningen indplaceres i brandklasse 3 eller 4. For byggeri i brandklasse 2, 3 eller 4 skal der altid tilknyttes en certificeret brandrådgiver.\""
+          },
+          {
+            "_id": "8acd6b59-5bae-492d-ab48-10736bb3e4d4",
+            "_description": "",
+            "17af6657-489e-4296-9413-0f1a9b48d6ae": "2",
+            "1c14b208-a9ed-4e5c-b286-31e38953397c": "\t\n<=10000.49",
+            "289f93d0-ad00-4dd5-bba8-68bd73e92e4f": "",
+            "2d106162-6d94-4040-9f10-40edad074883": "<=600.49",
+            "3395eef8-1a52-45f3-93f0-d22eba139cdb": "\"Dobbelthus\", \"Rækkehus\", \"Kædehus\", \"Gruppehus\" ",
+            "42c7ad9f-08d2-4b7d-949e-1ea7a8a683b8": "4",
+            "63f1b5ae-92ea-41a4-80a7-48815d0a5cae": "\"Sprinklersystem\"",
+            "71b96ac5-b4bd-4c81-9929-46285c18bb86": "",
+            "7a7c5a9e-6819-4090-92a9-c630b4b63b9c": "\"1.3.3 og 1.3.4 og 1.3.5 og 1.3.6 og 1.3.7\"",
+            "b829e94e-36e1-4f70-ada8-fae4260d273d": "true",
+            "ba7a81cf-e6a3-4b45-a203-641e9b4aecc3": "\"På Figur 1.3.3 er vist en rækkehusbebyggelse opdelt i brandmæssigt fritliggende bygningsafsnit på 600 m², hver bestående af 6 boligenheder á 100 m², beliggende på én matrikel. Dette byggeri kan indplaceres i brandklasse 1. I brandklasse 1 er der ikke mulighed for at etablere tilbygninger til dette byggeri, f.eks. i form af udestuer. Ønskes dette skal byggeriet indplaceres i brandklasse 2, og der skal tilknyttes en brandrådgiver certificeret til mindst brandklasse 2.\\n\\nPå Figur 1.3.4 er vist en rækkehusbebyggelse opdelt i brandmæssigt fritliggende bygningsafsnit på 570 m², hver bestående af 6 boligenheder á 95 m², beliggende på én matrikel. I brandklasse 1 er der mulighed for at etablere tilbygninger på højst 30 m² i alt, f.eks. i form af udestuer. I brandklasse 1 er det dermed er det ikke sikkert, at alle boligenheder kan benytte sig af denne mulighed. Er der f.eks. etableret udestuer á 15 m² for 2 boligenheder, og ønskes der en tredje udestue, skal byggeriet indplaceres i brandklasse 2.\\n\\nPå Figur 1.3.5 er vist en rækkehusbebyggelse opdelt i brandmæssigt fritliggende bygningsafsnit på 510 m², hver bestående af 6 boligenheder á 85 m², beliggende på én matrikel. I brandklasse 1 er der mulighed for at etablere tilbygninger på op til 15 m² pr. boligenhed, f.eks. i form af udestuer. \\n\\nPå Figur 1.3.6 er vist brandmæssigt fritliggende rækkehusbebyggelser på 1.500 m², hver bestående af 10 boligenheder á 150 m², beliggende på én matrikel. Dette byggeri skal indplaceres mindst i brandklasse 2, og der skal tilknyttes en brandrådgiver certificeret til mindst brandklasse 2. Byggeriet skal opdeles i brandsektioner af højst 1.200 m² svarende til 8 boligenheder á 150 m². I eksemplets nederste bygningsafsnit har der været ønske om at tilbygge en udestue. Dette kan lade sig gøre ved at etablere en supplerende brandsektionsadskillelse mellem to boligenheder, så grænsen for brandsektionsstørrelsen på 1.200 m² fortsat er overholdt. \\n\\nFigur 1.3.7 er vist en rækkehusbebyggelse, hvor hver boligenhed er beliggende på selvstændig matrikel. På hver matrikel kan der i brandklasse 1 etableres tilbygninger, f.eks. i form af udestuer, med samlet etageareal på højst 600 m² for boligenhed og tilbygning. Adskillelsen mellem boligenhederne skal udføres som bygningsdel EI 60 [BD-bygningsdel 60]. Rækkehuskæden må højst have et samlet etageareal på 2.000 m², dog højst 10.000 m² hvis hele bebyggelsen sprinkles. Ved opførelse eller tilbygning skal der søges byggetilladelse for hver enkelt boligenhed (matrikel).\"",
+            "f235c6b9-011c-4155-93cb-507090ce596c": "<=5",
+            "f2afa972-6ea5-4e7e-87cb-489cffc3f406": "1",
+            "f5582646-8e59-4d29-a3be-01be7f34fa9f": "",
+            "f6c0531a-b1c7-4d61-bfa5-33637ee0b76d": "\"Enfamiliehuse og sammenbyggede enfamiliehuse med et samlet etageareal større end 600 m² skal indplaceres i brandklasse 2. De skal udføres efter de præ-accepterede løsninger i dette bilag i deres helhed med mulighed for få, mindre fravigelser. Hvis der er større og i alt højst 5 fravigelser fra de præ-accepterede løsninger, kan byggeriet forblive i brandklasse 2. Det kræver, at der medvirker en brandrådgiver certificeret til mindst brandklasse 3 og 4. Denne skal dokumentere samtlige fravigelser, så sikkerhedsniveauet for de brandmæssige forhold er iagttaget ved brug af alle fravigelser i kombination. Alternativt skal bygningen indplaceres i brandklasse 3 eller 4. For byggeri i brandklasse 2, 3 eller 4 skal der altid tilknyttes en certificeret brandrådgiver. Da bygningens totale areal er over 2000 m2 og under 10000m2 er der krav om sprinklersystem\""
+          },
+          {
+            "_id": "5c731941-6884-49c0-9e64-052edaba7b1d",
+            "_description": "",
+            "17af6657-489e-4296-9413-0f1a9b48d6ae": "1",
+            "1c14b208-a9ed-4e5c-b286-31e38953397c": "<=600.49",
+            "289f93d0-ad00-4dd5-bba8-68bd73e92e4f": "",
+            "2d106162-6d94-4040-9f10-40edad074883": "<=600.49",
+            "3395eef8-1a52-45f3-93f0-d22eba139cdb": "\"Garage\",\n\"Carport\",\n\"Udhus\",\n\"Skur\",\n\"Værksted\",\n\"Hønsehus\",\n\"Drivhus\",\n\"Mindre bygning med kortvarigt personophold\",\n\"Overdækket terrasse\"",
+            "42c7ad9f-08d2-4b7d-949e-1ea7a8a683b8": "",
+            "63f1b5ae-92ea-41a4-80a7-48815d0a5cae": "",
+            "71b96ac5-b4bd-4c81-9929-46285c18bb86": "",
+            "7a7c5a9e-6819-4090-92a9-c630b4b63b9c": "",
+            "b829e94e-36e1-4f70-ada8-fae4260d273d": "false",
+            "ba7a81cf-e6a3-4b45-a203-641e9b4aecc3": "",
+            "f235c6b9-011c-4155-93cb-507090ce596c": "",
+            "f2afa972-6ea5-4e7e-87cb-489cffc3f406": "1.1",
+            "f5582646-8e59-4d29-a3be-01be7f34fa9f": "true",
+            "f6c0531a-b1c7-4d61-bfa5-33637ee0b76d": ""
+          },
+          {
+            "_id": "e0f80a8c-ec46-493d-9791-db581e760866",
+            "_description": "",
+            "17af6657-489e-4296-9413-0f1a9b48d6ae": "2",
+            "1c14b208-a9ed-4e5c-b286-31e38953397c": ">600.49",
+            "289f93d0-ad00-4dd5-bba8-68bd73e92e4f": "",
+            "2d106162-6d94-4040-9f10-40edad074883": ">600.49",
+            "3395eef8-1a52-45f3-93f0-d22eba139cdb": "\"Garage\",\n\"Carport\",\n\"Udhus\",\n\"Skur\",\n\"Værksted\",\n\"Hønsehus\",\n\"Drivhus\",\n\"Mindre bygning med kortvarigt personophold\",\n\"Overdækket terrasse\"",
+            "42c7ad9f-08d2-4b7d-949e-1ea7a8a683b8": "4",
+            "63f1b5ae-92ea-41a4-80a7-48815d0a5cae": "",
+            "71b96ac5-b4bd-4c81-9929-46285c18bb86": "",
+            "7a7c5a9e-6819-4090-92a9-c630b4b63b9c": "",
+            "b829e94e-36e1-4f70-ada8-fae4260d273d": "true",
+            "ba7a81cf-e6a3-4b45-a203-641e9b4aecc3": "",
+            "f235c6b9-011c-4155-93cb-507090ce596c": "<=5",
+            "f2afa972-6ea5-4e7e-87cb-489cffc3f406": "\n1.1",
+            "f5582646-8e59-4d29-a3be-01be7f34fa9f": "",
+            "f6c0531a-b1c7-4d61-bfa5-33637ee0b76d": ""
+          }
+        ],
+        "inputs": [
+          {
+            "id": "f2afa972-6ea5-4e7e-87cb-489cffc3f406",
+            "name": "Hvilke bilag for præ-accepterede løsnigner er det relevante for dette bygningsafsnit?",
+            "field": "relevant_bilag"
+          },
+          {
+            "id": "2d106162-6d94-4040-9f10-40edad074883",
+            "name": "Hvad er arealet af bygningsafsnittet?",
+            "field": "area_BA"
+          },
+          {
+            "id": "1c14b208-a9ed-4e5c-b286-31e38953397c",
+            "name": "Hvad er arealet af bygningen?",
+            "field": "area_total"
+          },
+          {
+            "id": "f235c6b9-011c-4155-93cb-507090ce596c",
+            "name": "Hvor mange fravigelser er der fra de præ-accepterede løsninger?",
+            "field": "antal_fravigelser_fra_praeaccepterede"
+          },
+          {
+            "id": "3395eef8-1a52-45f3-93f0-d22eba139cdb",
+            "name": "Hvilken bygningstype er det?",
+            "field": "bygningstype"
+          },
+          {
+            "id": "289f93d0-ad00-4dd5-bba8-68bd73e92e4f",
+            "name": "Er bygningsafsnittet en tilbygning?",
+            "field": "med_tilbygning"
+          },
+          {
+            "id": "71b96ac5-b4bd-4c81-9929-46285c18bb86",
+            "name": "Er bygningsafsnittet sammenbygget med erhverv?",
+            "field": "med_erhvervssammenbygning"
+          }
+        ],
+        "outputs": [
+          {
+            "id": "17af6657-489e-4296-9413-0f1a9b48d6ae",
+            "name": "Hvilken brandklasse placeres bygningsafsnittet i?",
+            "field": "brandklasse"
+          },
+          {
+            "id": "f5582646-8e59-4d29-a3be-01be7f34fa9f",
+            "name": "Kan byggeriet godkendes ud fra præaccepterede løsninger?",
+            "field": "Prae-accepteret_Godkendt"
+          },
+          {
+            "id": "b829e94e-36e1-4f70-ada8-fae4260d273d",
+            "name": "Er der krav om brandrådgiver og hvis ja, hvilken klassificering?",
+            "field": "brandrådgiver_krav"
+          },
+          {
+            "id": "63f1b5ae-92ea-41a4-80a7-48815d0a5cae",
+            "name": "Er der specifikke krav affødt af information givet som skal huskes?",
+            "field": "Krav"
+          },
+          {
+            "id": "42c7ad9f-08d2-4b7d-949e-1ea7a8a683b8",
+            "name": "Hvilket certificeringsniveau skal brandrådgiveren have?",
+            "field": "brandrådgiver_certificeringsniveau"
+          },
+          {
+            "id": "f6c0531a-b1c7-4d61-bfa5-33637ee0b76d",
+            "name": "Hvilken information er vigtig at tjekke stemmer overens med bygningsafsnittet og dets indplacering?",
+            "field": "Vigtig_information"
+          },
+          {
+            "id": "7a7c5a9e-6819-4090-92a9-c630b4b63b9c",
+            "name": "Hvilke figurer er relevante ift. de præ-accepterede løsninger?",
+            "field": "figur_reference"
+          },
+          {
+            "id": "ba7a81cf-e6a3-4b45-a203-641e9b4aecc3",
+            "name": "Output",
+            "field": "figur_tekst"
+          }
+        ],
+        "hitPolicy": "first",
+        "inputField": null,
+        "outputPath": null,
+        "passThrough": true,
+        "executionMode": "single"
+      },
+      "position": {
+        "x": 775,
+        "y": -40
+      }
+    },
+    {
+      "id": "94a26d23-2e4f-44df-bc47-e95ef0c97aba",
+      "name": "request",
+      "type": "inputNode",
+      "content": {
+        "schema": ""
+      },
+      "position": {
+        "x": -155,
+        "y": -40
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "72a7b68f-b0fe-46fe-8b3e-aa8b1932b238",
+      "type": "edge",
+      "sourceId": "5a32ec1d-a606-444e-b778-251d743bfec4",
+      "targetId": "ae5a8c31-0498-49f2-8d5e-d3468ec030ba"
+    },
+    {
+      "id": "ce1743c9-330f-4a0d-8b81-bce4becad3e7",
+      "type": "edge",
+      "sourceId": "ae5a8c31-0498-49f2-8d5e-d3468ec030ba",
+      "targetId": "b66ea6f6-2480-4eba-8fb0-3218fc86c91c"
+    },
+    {
+      "id": "113ec770-4d20-4162-ada0-74e9d3103c68",
+      "type": "edge",
+      "sourceId": "94a26d23-2e4f-44df-bc47-e95ef0c97aba",
+      "targetId": "5a32ec1d-a606-444e-b778-251d743bfec4"
+    },
+    {
+      "id": "903c5917-a62c-4f13-afc1-bb043c10a7ff",
+      "type": "edge",
+      "sourceId": "70f0ebfb-0253-478b-b4ce-efab0b5b2dcf",
+      "targetId": "9ac0f8c8-014a-41f2-82d9-8149817cebbd"
+    },
+    {
+      "id": "adac140f-457f-4583-946a-1616dd83ba0c",
+      "type": "edge",
+      "sourceId": "b66ea6f6-2480-4eba-8fb0-3218fc86c91c",
+      "targetId": "70f0ebfb-0253-478b-b4ce-efab0b5b2dcf"
+    }
+  ]
+}

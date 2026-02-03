@@ -1,0 +1,205 @@
+{
+  "metadata": {
+    "version": {
+      "nummer": "3.0",
+      "dato": "10-05-2022",
+      "status": "Seneste officielle version (BR18 vejledning til kapitel 5 - Brand)"
+    },
+    "kapitel": "Kapitel 1 - Brandforhold"
+  },
+  "afsnit": [
+    {
+      "id": "1.4",
+      "titel": "Fastlæggelse af anvendelseskategorier",
+      "beskrivelse": "Dette afsnit omhandler hvordan bygningens anvendelseskategori fastlægges ud fra anvendelse, kendskab til flugtveje, evne til egen evakuering og eventuelle sovepladser.",
+      "punkter": [
+        {
+          "id": "1.4.0.1",
+          "tekst": "Af BR18 § 84 fremgår det, at en bygning skal opdeles i ét eller flere bygningsafsnit med sammenlignelig brandmæssig risiko i forbindelse med fastlæggelse af, hvordan bygningen skal brandsikres. Af § 84, stk. 2, fremgår, at ethvert bygningsafsnit skal henføres til mindst én anvendelseskategori og én risikoklasse."
+        },
+        {
+          "id": "1.4.0.2",
+          "tekst": "Formålet med at opdele en bygning i bygningsafsnit med sammenlignelige brandmæssige risikoforhold, hvor risikoforholdene angives ved anvendelseskategorier og risikoklasser, er at sikre, at områder med forskellige risikoforhold adskilles fra hinanden, og at brandsikringsniveauet tilpasses risikoen i det enkelte område."
+        },
+        {
+          "id": "1.4.0.3",
+          "tekst": "Et bygningsafsnit er en bygning eller en del af en bygning, hvori de tilstedeværende brandmæssige risikoforhold - angivet ved anvendelseskategorier og risikoklasser - er sammenlignelige. Et bygningsafsnit kan henføres til én eller flere anvendelseskategorier, men kun til én risikoklasse. Et bygningsafsnit kan indrettes som én eller flere brandsektioner. Til et bygningsafsnit hører også gange, trapper og rum, som har direkte tilknytning til det pågældende bygningsafsnit, f.eks. mindre kontorer, depotrum og toiletter."
+        },
+        {
+          "id": "1.4.0.4",
+          "tekst": "For bygninger med flere bygningsafsnit i forskellige anvendelseskategorier eller risikoklasser er det vigtigt at sikre, at der ikke kan ske brand- og røgspredning mellem bygningsafsnittene, idet det kan påvirke personsikkerheden."
+        },
+        {
+          "id": "1.4.0.5",
+          "tekst": "Ved disponering af flugtvejene i en bygning vil der ofte være flugtveje, der bliver udlagt for flere bygningsafsnit samtidig. Disse flugtveje er defineret som fælles flugtveje. Det er den konkrete disponering af flugtvejene, der er afgørende for, om flugtvejene skal betragtes som fælles flugtveje. En dørforbindelse mellem to bygningsafsnit vil dermed ikke automatisk betyde, at bygningsafsnittenes flugtveje er at betragte som fælles flugtveje. "
+        },
+        {
+          "id": "1.4.0.6",
+          "tekst": "Som regel vil der ikke være tvivl om, hvorvidt et bygningsafsnit er indrettet med sovepladser, men der kan være grænsetilfælde: Tilfælde, der normalt kan betragtes som bygningsafsnit indrettet med sovepladser: • Krybberum i vuggestuer. • Børnehaver/vuggestuer, hvor flere børn sover til middag i et grupperum/opholdsrum, hvor der er senge eller køjesenge, der kan slås ud fra væggen. Tilfælde, der normalt ikke kan betragtes som bygningsafsnit indrettet med sovepladser: • Børnehaver/vuggestuer, hvor enkelte børn (højst 10) sover til middag i et opholdsrum på madrasser. • Hvilerum i virksomheder, der har døgnbemandet vagtordning, hvis den primære funktion er, at vagten/vagterne skal være vågne. • Lægeklinikker med ambulantbehandling, hvor personer lægges i fuld narkose. Det vil i alle tilfælde være en konkret vurdering, hvorvidt bygningsafsnittet betragtes som værende indrettet med sovepladser. "
+        },
+        {
+          "id": "1.4.0.7",
+          "tekst": "Bygningsafsnit, hvor personer normalt har kendskab til flugtvejene, er: • Kontorbyggeri, boligbebyggelse (herunder etageboligbyggeri), industri- og lagerbygninger samt avls- og driftsbygninger. Gæster i disse bygningsafsnit vil kunne følges med de personer, der normalt er i bygningen. Opholdslokaler, hvor der er visuel kontakt til udgange direkte til terræn i det fri, indrettet til højst 50 personer og på højst 150 m² uanset anvendelsen. Dette kan f.eks. være besøgspavilloner, varmestuer, midlertidige skolebygninger og lignende. • Kollegier, efterskoler og lignende, hvor personer bor i længere tid. "
+        },
+        {
+          "id": "1.4.0.8",
+          "tekst": "Bygningsafsnit, hvor personer normalt ikke har kendskab til flugtvejene, er: • Storcentre, butikker, restauranter, hoteller, skoler, sygehuse m.m. Her vil størstedelen af de personer der opholder sig i bygningsafsnittet, ikke altid have kendskab til flugtvejene. Dette gælder uanset, om der i storcentre og butikker er personale til stede, som vil kunne guide andre personer og kunder ud af bygningen. Det samme gør sig gældende i skoler. Her vil de personer, der normalt benytter lokalerne, have kendskab til flugtvejene, men der kan være andre, der benytter lokalerne, som ikke nødvendigvis har kendskab til flugtvejene. • Kollegier, efterskoler og lignende, der bruges til kortere arrangementer og eventuelt med overnatning. Her vil personerne normalt ikke have kendskab til flugtvejene. "
+        },
+        {
+          "id": "1.4.0.9",
+          "tekst": "Personer, der ikke har mulighed for ved egen hjælp at bringe sig i sikkerhed, vil skulle hjælpes fra det sted, de opholder sig, til et sikkert område. Det skal være kendetegnende for størstedelen af de personer, der opholder sig i bygningsafsnittet, at de skal have hjælp til at komme i sikkerhed, for at dette kan betragtes gældende for bygningsafsnittet. Bygningsafsnit kan derfor godt udføres, så enkelte personer kan have behov for hjælp til at bringe sig i sikkerhed, uden at det er generelt for bygningsafsnittet. Dette kan f.eks. være lægeklinikker. "
+        },
+        {
+          "id": "1.4.0.10",
+          "tekst": "For boliger til f.eks. ældre eller handicappede kan det godt betragtes som, at personer har mulighed for at bringe sig selv i sikkerhed, selvom de normalt får hjælp til almindelige gøremål, f.eks. personer, der får hjemmehjælp i egen bolig. Omvendt kan der også være personer, der normalt ikke får hjælp til almindelige gøremål, som ikke vil kunne bringe sig selv i sikkerhed i tilfælde af brand på grund af fysiske eller kognitive begrænsninger."
+        },
+        {
+          "id": "1.4.0.11",
+          "tekst": "Det er ikke betegnelsen for bygningsafsnittet, der afgør, om personerne kan bringe sig selv i sikkerhed, men funktionen af bygningsafsnittet. "
+        },
+        {
+          "id": "1.4.1.1",
+          "tekst": "Generelt skal der ved fastlæggelsen af anvendelseskategorier tages højde for, hvad bygningen skal anvendes til, og i hvilken udstrækning der umiddelbart eller på længere sigt er behov for fleksibilitet i anvendelsen af bygningen."
+        },
+        {
+          "id": "1.4.1.2",
+          "tekst": "Ved vurdering af, om et bygningsafsnit skal indrettes med sovepladser, er det bygningsafsnittets faktiske anvendelse, der skal ligge til grund for vurderingen. Hvis bygningsafsnittet indrettes med en forventning om, at der periodisk eller på et senere tidspunkt kan være indrettet sovepladser, er det hensigtsmæssigt at dette tages i betragtning ved fastlæggelse af anvendelseskategorien, da der ellers senere vil være tale om en anvendelsesændring, hvilket kræver en fornyet byggetilladelse."
+        },
+        {
+          "id": "1.4.1.3",
+          "tekst": "Når det vurderes, om personerne, der forventes at bruge bygningsafsnittet, har kendskab til flugtveje, kan der tages udgangspunkt i, om personerne normalt opholder sig i bygningsafsnittet og derved kender bygningsafsnittets indretning og placeringen af flugtvejene."
+        },
+        {
+          "id": "1.4.1.4",
+          "tekst": "Personers evne til og mulighed for selv at bringe sig i sikkerhed, bør vurderes på baggrund af, om personerne ved egen hjælp kan bringe sig i sikkerhed på terræn i fri eller sikkert sted i bygningen, og at dette sker med en gennemsnitlig normal ganghastighed."
+        },
+        {
+          "id": "1.4.1.5",
+          "tekst": "Ved denne vurdering vil det være relevant at forholde sig til, om bygningsafsnittet forventes til personer med f.eks. fysiske eller kognitive funktionsnedsættelser, som gør, at personerne enten har behov for assistance i forbindelse med evakuering, eller at personerne må forventes at forlade bygningsafsnittet med en væsentlig lavere hastighed end normal ganghastighed. Der skal ligeledes tages højde for, at personers alder kan have indflydelse på en evakuering."
+        },
+        {
+          "id": "1.4.1.6",
+          "tekst": "Når antallet af personer i et rum, som udgør sin egen brandmæssige enhed, skal fastlægges, bør der ses på det samlede antal personer, som kan opholde sig i rummet på samme tid. Hvor flere rum udgør én brandmæssig enhed, fastlægges personantallet som det samlede antal personer i den brandmæssige enhed. "
+        },
+        {
+          "id": "1.4.1.7",
+          "tekst": "I nogle tilfælde kan en bygnings indretning og anvendelse medføre, at et bygningsafsnit kan indeholde flere anvendelseskategorier. Et bygningsafsnit kan indeholde flere anvendelseskategorier, såfremt brandsikringen i hele bygningsafsnittet opfylder de krav, der gælder for den anvendelseskategori i bygningsafsnittet, der medfører det største behov for brandsikring."
+        },
+        {
+          "id": "1.4.1.8",
+          "tekst": "Hvor flere bygningsafsnit i en bygning er indrettet med forskellige anvendelseskategorier, og bygningsafsnittene har fælles flugtveje, skal det ligeledes sikres, at flugtvejene er udformet, så de opfylder brandkravene for alle de bygningsafsnit, der benytter flugtvejen.",
+          "eksempel": "Et eksempel på fælles flugtveje fra bygningsafsnit, der er indplaceret i forskellige anvendelseskategorier, er en bygning i fire etager med boliger, hvor nogle af boligerne er indrettet til plejekrævende personer med fysiske eller kognitive funktionsnedsættelser, og der er fælles flugtveje for alle boligerne. I sådan et tilfælde vil boligerne til personer med fysiske funktionsnedsættelser typisk blive indplaceret i anvendelseskategori 6, og de øvrige boliger vil blive indplaceret i anvendelseskategori 4. Her skal brandsikringen af de fælles flugtveje udformes så krav til både anvendelseskategori 4 og 6 opfyldes.",
+          "eksempel2": "Et andet eksempel er en bygning i fem etager, hvor de to nederste etager er indrettet med butikker i anvendelseskategori 3, og de tre øverste etager er udlagt til boliger i anvendelseskategori 4. Bygningen har trapper, der betjener alle fem etager. Anvendes trapperne alene som flugtvej for boligerne, vil trappen blive indplaceret i anvendelseskategori 4, og brandsikringen af trappen skal opfylde brandkrav til anvendelseskategori 4. Anvendes trapperne som flugtvej for både boligerne og butikkerne, skal brandsikringen af trapperne udføres, så krav til både anvendelseskategori 3 og 4 opfyldes, herunder trappebredden."
+        },
+        {
+          "id": "bygningsafsnit.definition",
+          "tekst": "Et bygningsafsnit er en bygning eller en del af en bygning, hvori de tilstedeværende brandmæssige risikoforhold - angivet ved anvendelseskategorier og risikoklasser - er sammenlignelige.",
+          "uddybning": "Et bygningsafsnit kan henføres til én eller flere anvendelseskategorier, men kun til én risikoklasse. Et bygningsafsnit kan indrettes som én eller flere brandsektioner. Til et bygningsafsnit hører også gange, trapper og rum, som har direkte tilknytning til det pågældende bygningsafsnit, f.eks. mindre kontorer, depotrum og toiletter."
+        }
+
+      ]
+    },
+    {
+      "id": "1.5",
+      "titel": "Fastlæggelse af risikoklasser",
+      "beskrivelse": "Dette afsnit omhandler hvordan bygningens risikoklasser fastlægges.",
+      "punkter": [
+        {
+          "id": "1.5.0.1",
+          "tekst": "Risikoklasserne baserer sig dermed på, hvor komplekst det er for personer at bringe sig selv i sikkerhed, evakueres eller reddes ud af en bygning. Risikoklasserne baseres også på brandbelastningen, hvor det er relevant, idet en særlig stor brandbelastning kan give anledning til et meget langvarigt brandforløb."
+        },
+        {
+          "id": "1.5.0.2",
+          "tekst": "Når risikoklassen fastlægges, bestemmes brandbelastningen som brandbelastningen pr. m² gulvareal i den brandmæssige enhed, som er henført til anvendelseskategori 1. Generelt for bestemmelse af brandbelastningen medregnes kun den variable brandbelastning i form af inventar og oplag. Kun ved beregning af konstruktioners brandmodstandsevne ud fra brandbelastningen (parametrisk brandforløb) skal både den variable og den permanente brandbelastning medregnes. I dette tilfælde skal brandbelastningen fra både inventar, oplag og bygningsdele medregnes. Det bemærkes, at brandbelastning med hensyn til fastlæggelse af risikoklassen alene medtages i anvendelseskategori 1, hvor bygningsafsnit i f.eks. lagerbygninger med særlig stor brandbelastning kan give anledning til skærpede krav til brandsikring af afsnittet."
+        },
+        {
+          "id": "1.5.0.3 ",
+          "tekst": "Risikoklassen fastlægges tillige på baggrund af bygningens eller bygningsafsnittets højde over og under terræn, da tid til evakuering og redning af personer afhænger af, hvor let det er at sikre, at alle personer er ude af bygningen. Hvor en bygning har bygningsafsnit i forskellige anvendelseskategorier, vil det være det enkelte bygningsafsnits placering i bygningen i forhold til terræn i det fri, der er afgørende for valg af risikoklasse. ",
+          "eksempel": "Et eksempel på dette kan være en bygning i tre etager, hvor gulv i øverste etage er mindre end 9,6 m over terræn. Bygningen er indrettet med butikker i anvendelseskategori 3 i stueetagen til i alt 500 personer og boliger i anvendelseskategori 4 på de to øverste etager. Her vil alle bygningsafsnit kunne henføres til risikoklasse 2 "
+        },
+        {
+          "id": "1.5.0.4",
+          "tekst": "Hvor en bygning indrettes med flere bygningsafsnit med fælles flugtveje, skal antallet af personer ifølge BR18 § 86, stk. 2 bestemmes som det samlede antal personer, der anvender den fælles flugtvej. Kravet til antal personer gælder alene for flugtveje fra bygningsafsnit i anvendelseskategori 2, 3 og 5, hvor et stort antal personer skal benytte flugtvejene. "
+        },
+        {
+          "id": "1.5.0.5",
+          "tekst": "Som det fremgår af BR18 § 86, stk. 3, gælder det, at hvor et byggeri har flere bygningsafsnit, som henføres til forskellige risikoklasser, og bygningsafsnittene har fælles flugtveje, skal den højeste risikoklasse, som et af bygningsafsnittene placeres i, gælde for alle de fælles flugtveje fra bygningsafsnittene, som flugtvejene betjener.",
+          "eksempel": "Et eksempel, hvor fælles flugtveje påvirker hvilken risikoklasse bygningsafsnit skal henføres til, er et butikscenter i to etager, som er indrettet med butikker i anvendelseskategori 3 på begge etager, og hvor hver etage udgør et selvstændigt bygningsafsnit indrettet til 600 personer. Hvis der er fælles flugtveje fra de to bygningsafsnit, vil bygningsafsnittene blive henført til risikoklasse 4, da bygningen er i to etager, og bygningsafsnittene tilsammen er indrettet til 1.200 personer. Hvis der ikke er fælles flugtveje fra de to bygningsafsnit, vil begge bygningsafsnit blive henført til risikoklasse 3, da bygningen er i to etager, og begge bygningsafsnit er indrettet til højst 1.000 personer.",
+          "eksempel2": "Et andet eksempel er en multifunktionsbygning i 13 etager, hvor gulv i øverste etage er 44 m over terræn. Her indrettes de to nederste etager med butikker i anvendelseskategori 3, som beskrevet i eksemplet ovenfor, og de 11 øverste etager indrettes med boliger i anvendelseskategori 4. Her vil boligerne i sig selv blive henført til risikoklasse 3 på baggrund højden til gulv i øverste etage. Risikoklassen for boligerne er dog afhængig af, om boliger og butikker har fælles flugtveje, og hvilken risikoklasse butikscenteret er henført til. Har boligerne ikke fælles flugtveje med butikscenteret, vil boligerne kunne henføres til risikoklasse 3. Er butikscenteret udformet, så de to butiksetager ikke har fælles flugtveje, henføres butikscenteret til risikoklasse 3. I dette tilfælde kan boligerne have fælles flugtveje med den ene af etagerne i butikscenteret, og boligerne kan fortsat henføres til risikoklasse 3. "
+        }
+      ]
+    },
+    {
+      "id": "1.6",
+      "titel": "Fastlæggelse af brandklasser",
+      "beskrivelse": "Dette afsnit omhandler hvordan bygningens brandklasser fastlægges.",
+      "punkter": [
+        {
+          "id": "1.6.0.1",
+          "tekst": "Ifølge BR18 § 490, stk. 1, skal et bygningsafsnit indplaceres i en brandklasse, og ifølge BR18 § 493 skal det indplaceres i en af brandklasserne 1 – 4. Brandklassen bestemmes på baggrund af byggeriets anvendelseskategori, risikoklasse og den eller de metoder, der anvendes til at dokumentere brandforholdene, jf. §§ 490 og 492."
+        },
+        {
+          "id": "1.6.0.2",
+          "tekst": "Brandklasse 1 er den laveste af de 4 brandklasser, og den omfatter byggeri, der kan brandsikres med simple, traditionelle løsninger. Brandklasserne 2 – 4 er gradvist højere brandklasser, der dækker over byggeri med mere komplekse brandsikringsløsninger, hvor brandklasse 4 dækker over byggeri, hvor der anvendes utraditionelle og komplekse brandsikringsløsninger. "
+        },
+         {
+          "id": "1.6.0.3",
+          "tekst": "Brandklassen fastlægges på baggrund af bygningens risikoklasse og den metode, der anvendes til dokumentation af, at brandkravene i BR18 er tilgodeset og overholdt."
+        },
+         {
+          "id": "1.6.0.4",
+          "tekst": "Byggeri kan, jf. BR18 § 493, stk. 5, undlades at blive indplaceret i en brandklasse, hvis byggeriets udformning eller anvendelse ikke gør det muligt. Dette vil generelt gælde byggerier eller konstruktioner, hvor udformningen eller anvendelsen efter kommunalbestyrelsens vurdering ikke medfører en uacceptabel risiko for personskade i tilfælde af brand. ",
+          "eksempel": "Følgende er eksempler på byggerier og konstruktioner, der kan undtages for indplacering i en brandklasse, jf. BR18 § 493, stk. 5. Det skal dog bemærkes, at listen ikke er udtømmende, og at bygningen/konstruktionen skal vurderes i den konkrete sag: • Fritstående gastanke (uanset indhold) • Fritstående tanke til væsker (uanset indhold)Akkumuleringstanke uden teknikrum til personophold • Gylletanke og lign., hvor der normal ikke vil være personophold • Siloer og lign., hvor der normalt ikke vil være personophold • Konstruktioner, der ikke er indrettet til personophold, eksempelvis antennemaster, højtalertårne, indgangsportaler • Tekniske anlæg, hvor der ikke er personophold, f.eks. halmfyringsanlæg uden teknikrum • Simple konstruktioner, f.eks. en pergola, hvor der ikke er overdækning • Hegnsmure og andre lignende konstruktioner. "
+        },
+         {
+          "id": "1.6.0.5",
+          "tekst": "Brug af de forskellige metoder for dokumentation af brandforhold, kræver forskellige faglige brandtekniske kompetencer. Bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet angiver tre niveauer af kompetencer, som en certificeret brandrådgiver kan blive certificeret til. Disse niveauer er beskrevet i form af følgende klasser: • Brandklasse 2 • Brandklasse 3 og 4 • Tredjepartskontrol "
+        },
+         {
+          "id": "1.6.0.6",
+          "tekst": "Byggeri i brandklasse 1 er kendetegnet ved at være simpelt, traditionelt og udført efter de relevante præ-accepterede løsninger. For byggeri i brandklasse 1 er der ikke krav om, at personen, der skal forestå dokumentation og kontrol af brandforholdene, har dokumenterede kvalifikationer, kompetencer og erfaring inden for brandsikring af byggeri."
+        },
+         {
+          "id": "1.6.0.1",
+          "tekst": " "
+        },
+         {
+          "id": "1.6.0.1",
+          "tekst": " "
+        },
+         {
+          "id": "1.6.0.1",
+          "tekst": " "
+        },
+         {
+          "id": "1.6.0.1",
+          "tekst": " "
+        },
+         {
+          "id": "1.6.0.1",
+          "tekst": " "
+        },
+         {
+          "id": "1.6.0.1",
+          "tekst": " "
+        },
+         {
+          "id": "1.6.0.1",
+          "tekst": " "
+        },
+         {
+          "id": "1.6.0.1",
+          "tekst": " "
+        },
+         {
+          "id": "1.6.0.1",
+          "tekst": " "
+        },
+         {
+          "id": "1.6.0.1",
+          "tekst": " "
+        }
+      ]
+    }
+  ]
+}

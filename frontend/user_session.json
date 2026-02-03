@@ -1,0 +1,12 @@
+{
+  "session_start": null,
+  "building_type": null,
+  "person_count": null,
+  "is_stedkendt": null,
+  "overnatning": null,
+  "kendskab_flugtveje": null,
+  "selvhjulpen": null,
+  "final_category": null,
+  "calculation_steps": [],
+  "completed": false
+}

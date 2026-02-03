@@ -1,0 +1,262 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2026-01-19",
+  "validatedBy": "Magnus Rathenborg",
+  "decisionTables": {
+    "5a32ec1d-a606-444e-b778-251d743bfec4_rule_0": {
+      "validated": false
+    },
+    "5a32ec1d-a606-444e-b778-251d743bfec4_rule_1": {
+      "validated": false
+    },
+    "5a32ec1d-a606-444e-b778-251d743bfec4_rule_2": {
+      "validated": false
+    },
+    "5a32ec1d-a606-444e-b778-251d743bfec4_rule_3": {
+      "validated": false
+    },
+    "5a32ec1d-a606-444e-b778-251d743bfec4_rule_4": {
+      "validated": false
+    },
+    "5a32ec1d-a606-444e-b778-251d743bfec4_rule_5": {
+      "validated": true
+    },
+    "5a32ec1d-a606-444e-b778-251d743bfec4_rule_6": {
+      "validated": false
+    },
+    "5a32ec1d-a606-444e-b778-251d743bfec4_rule_7": {
+      "validated": false
+    },
+    "ae5a8c31-0498-49f2-8d5e-d3468ec030ba_rule_15": {
+      "validated": true
+    },
+    "b66ea6f6-2480-4eba-8fb0-3218fc86c91c_rule_0": {
+      "validated": true
+    },
+    "70f0ebfb-0253-478b-b4ce-efab0b5b2dcf_rule_5": {
+      "validated": true
+    },
+    "70f0ebfb-0253-478b-b4ce-efab0b5b2dcf_rule_3": {
+      "validated": true
+    },
+    "70f0ebfb-0253-478b-b4ce-efab0b5b2dcf_rule_6": {
+      "validated": true
+    },
+    "70f0ebfb-0253-478b-b4ce-efab0b5b2dcf_rule_4": {
+      "validated": false
+    }
+  },
+  "krav": {
+    "K-01-25": {
+      "comment": "Det er korrekt",
+      "validated": true
+    },
+    "K-1-01": {
+      "validated": true,
+      "beskrivelse": true,
+      "tjekliste": {
+        "0": true,
+        "1": true
+      }
+    },
+    "K-01-02": {
+      "validated": true,
+      "beskrivelse": true
+    },
+    "K-01-03": {
+      "validated": true
+    },
+    "K-01-04": {
+      "beskrivelse": false,
+      "tjekliste": {},
+      "dimensionering": false,
+      "comment": ""
+    },
+    "K-01-05": {
+      "beskrivelse": false,
+      "tjekliste": {},
+      "dimensionering": false,
+      "comment": ""
+    },
+    "K-01-06": {
+      "beskrivelse": false,
+      "tjekliste": {},
+      "dimensionering": false,
+      "comment": ""
+    },
+    "K-01-07": {
+      "beskrivelse": false,
+      "tjekliste": {},
+      "dimensionering": false,
+      "comment": ""
+    },
+    "K-01-08": {
+      "beskrivelse": false,
+      "tjekliste": {},
+      "dimensionering": false,
+      "comment": ""
+    },
+    "K-01-09": {
+      "beskrivelse": false,
+      "tjekliste": {},
+      "dimensionering": false,
+      "comment": ""
+    },
+    "K-01-10": {
+      "beskrivelse": false,
+      "tjekliste": {},
+      "dimensionering": false,
+      "comment": ""
+    },
+    "K-01-11": {
+      "beskrivelse": false,
+      "tjekliste": {},
+      "dimensionering": false,
+      "comment": ""
+    },
+    "K-01-12": {
+      "beskrivelse": false,
+      "tjekliste": {},
+      "dimensionering": false,
+      "comment": ""
+    },
+    "K-01-13": {
+      "beskrivelse": false,
+      "tjekliste": {},
+      "dimensionering": false,
+      "comment": ""
+    },
+    "K-01-14": {
+      "beskrivelse": false,
+      "tjekliste": {},
+      "dimensionering": false,
+      "comment": ""
+    },
+    "K-01-15": {
+      "beskrivelse": false,
+      "tjekliste": {},
+      "dimensionering": false,
+      "comment": ""
+    },
+    "K-01-16": {
+      "beskrivelse": false,
+      "tjekliste": {},
+      "dimensionering": false,
+      "comment": ""
+    },
+    "K-01-17": {
+      "beskrivelse": false,
+      "tjekliste": {},
+      "dimensionering": false,
+      "comment": ""
+    },
+    "K-01-18": {
+      "beskrivelse": false,
+      "tjekliste": {},
+      "dimensionering": false,
+      "comment": ""
+    },
+    "K-01-19": {
+      "beskrivelse": false,
+      "tjekliste": {},
+      "dimensionering": false,
+      "comment": ""
+    },
+    "K-01-20": {
+      "beskrivelse": false,
+      "tjekliste": {},
+      "dimensionering": false,
+      "comment": ""
+    },
+    "K-01-21": {
+      "beskrivelse": false,
+      "tjekliste": {},
+      "dimensionering": false,
+      "comment": ""
+    },
+    "K-01-22": {
+      "beskrivelse": false,
+      "tjekliste": {},
+      "dimensionering": false,
+      "comment": ""
+    },
+    "K-01-23": {
+      "beskrivelse": false,
+      "tjekliste": {},
+      "dimensionering": false,
+      "comment": ""
+    },
+    "K-01-24": {
+      "beskrivelse": false,
+      "tjekliste": {},
+      "dimensionering": false,
+      "comment": ""
+    },
+    "K-01.1-01": {
+      "beskrivelse": false,
+      "tjekliste": {},
+      "dimensionering": false,
+      "comment": ""
+    },
+    "K-01.1-02": {
+      "beskrivelse": false,
+      "tjekliste": {},
+      "dimensionering": false,
+      "comment": ""
+    },
+    "K-01.1-03": {
+      "beskrivelse": false,
+      "tjekliste": {},
+      "dimensionering": false,
+      "comment": ""
+    },
+    "K-01.1-04": {
+      "beskrivelse": false,
+      "tjekliste": {},
+      "dimensionering": false,
+      "comment": ""
+    },
+    "K-01.1-05": {
+      "beskrivelse": false,
+      "tjekliste": {},
+      "dimensionering": false,
+      "comment": ""
+    },
+    "K-01.1-06": {
+      "beskrivelse": false,
+      "tjekliste": {},
+      "dimensionering": false,
+      "comment": ""
+    },
+    "K-01.1-07": {
+      "beskrivelse": false,
+      "tjekliste": {},
+      "dimensionering": false,
+      "comment": ""
+    },
+    "K-01.1-08": {
+      "beskrivelse": false,
+      "tjekliste": {},
+      "dimensionering": false,
+      "comment": ""
+    },
+    "K-01.1-09": {
+      "beskrivelse": false,
+      "tjekliste": {},
+      "dimensionering": false,
+      "comment": ""
+    },
+    "K-01.1-10": {
+      "beskrivelse": false,
+      "tjekliste": {},
+      "dimensionering": false,
+      "comment": ""
+    },
+    "K-01.1-11": {
+      "beskrivelse": false,
+      "tjekliste": {},
+      "dimensionering": false,
+      "comment": ""
+    }
+  }
+}

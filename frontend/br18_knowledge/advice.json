@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1.4.1.2",
+    "consequence": "Hvis der på et senere tidspunkt skal indrettes sovepladser, skal bygningen muligvis ændres for at overholde gældende brandkrav for bygningsafsnit med overnatning. Det er derfor ideelt at indrette efter dette allerede nu."
+  },
+  {
+    "id": "1.4.1.3",
+    "consequence": "Hvis personer ikke har kendskab til flugtveje, skal der etableres tydelig skiltning, belysning og sikring, så hurtig evakuering kan ske selv ved ukendskab."
+  },
+  {
+    "id": "1.4.1.4",
+    "consequence": "Hvis personer ikke selv kan bringe sig i sikkerhed, skal der etableres brandsikring, flugtveje og redningsmuligheder dimensioneret til dette behov."
+  },
+  {
+    "id": "1.4.1.5",
+    "consequence": "Ved anvendelse til personer med funktionsnedsættelser eller høj alder bør der etableres supplerende evakueringsforanstaltninger og personaletræning."
+  },
+  {
+    "id": "bygningsafsnit.vejledning",
+    "type": "professional_guidance",
+    "title": "Professionel vejledning om brandsektioner og risikoklasser",
+    "content": {
+      "hovedtekst": "Arbejder du med større byggerier hvor funktionen er varierende eller højere byggerier kan det være relevant at inddele bygningen i brandsektioner for at undgå én høj risikoklasse samt dens medfølgende krav til sikkerhed.",
+      "eksempel": {
+        "titel": "Eksempel: 10-etagers kontorbyggeri",
+        "beskrivelse": "Funktionen er godt nok den samme, men kommer du over etage 5-6 stiger risikoklassen fra 3→4, men kun hvis du har et brandadskillende dæk (REI) til at adskille de to bygningsafsnit.",
+        "advarsel": "Ellers må man se det som ét bygningsafsnit med samme risikoklasse for alle etager og der tager man risikoklasse 4 der har højeste krav til sikkerheden."
+      },
+      "tip": "Ved at opdele i flere bygningsafsnit kan du optimere sikkerhedskravene for hver del af bygningen og potentielt spare på omkostninger til brandsikkerhed."
+    }
+  },
+  {
+    "id": "bygningsafsnit.paemindelse",
+    "type": "reminder",
+    "content": "Hvert bygningsafsnit skal være brandmæssigt adskilt (f.eks. med REI-dæk) og have sammenlignelige risikoforhold. Dette giver mulighed for individuelle risikoklasser pr. afsnit."
+  },
+  {
+    "id": "professionel.disclaimer",
+    "type": "professional_disclaimer",
+    "content": {
+      "titel": "Professionel rådgivning anbefales",
+      "tekst": "Denne vejleder er et hjælpeværktøj til at forstå BR18's anvendelseskategorier. For endelig vurdering og godkendelse af brandsikkerhedsløsninger anbefales det at henvende sig til en ansvarlig brandingeniør.",
+      "note": "Brandingeniøren kan sikre, at alle relevante forhold er taget i betragtning og at løsningen overholder gældende lovgivning."
+    }
+  }
+]

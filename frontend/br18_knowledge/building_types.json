@@ -1,0 +1,497 @@
+[
+  {
+    "name": "Beboelsesafsnit på kost-/efter-/højskole",
+    "category": 4,
+    "overnatning": true,
+    "kendskab_flugtveje": true,
+    "selvhjulpen": true,
+    "maks50personer": false,
+    "rule": null
+  },
+  {
+    "name": "Biograf",
+    "category": 3,
+    "overnatning": false,
+    "kendskab_flugtveje": false,
+    "selvhjulpen": true,
+    "maks50personer": false,
+    "rule": null
+  },
+  {
+    "name": "Butik",
+    "category": "1, 2 eller 3",
+    "overnatning": false,
+    "kendskab_flugtveje": null,
+    "selvhjulpen": true,
+    "maks50personer": null,
+    "rule": "ask_10_then_50"
+  },
+  {
+    "name": "Børnehave",
+    "category": 6,
+    "overnatning": false,
+    "kendskab_flugtveje": true,
+    "selvhjulpen": false,
+    "maks50personer": false,
+    "rule": null
+  },
+  {
+    "name": "Carport eller udhus",
+    "category": 1,
+    "overnatning": false,
+    "kendskab_flugtveje": true,
+    "selvhjulpen": true,
+    "maks50personer": false,
+    "rule": null
+  },
+  {
+    "name": "Dagcenter for ældre",
+    "category": 6,
+    "overnatning": false,
+    "kendskab_flugtveje": true,
+    "selvhjulpen": false,
+    "maks50personer": false,
+    "rule": null
+  },
+  {
+    "name": "Dagcenter til selvhjulpne personer",
+    "category": 2,
+    "overnatning": false,
+    "kendskab_flugtveje": false,
+    "selvhjulpen": true,
+    "maks50personer": true,
+    "rule": null
+  },
+  {
+    "name": "Diskotek",
+    "category": 3,
+    "overnatning": false,
+    "kendskab_flugtveje": false,
+    "selvhjulpen": true,
+    "maks50personer": false,
+    "rule": null
+  },
+  {
+    "name": "Dobbelthus",
+    "category": 4,
+    "overnatning": true,
+    "kendskab_flugtveje": true,
+    "selvhjulpen": true,
+    "maks50personer": false,
+    "rule": null
+  },
+  {
+    "name": "Enfamiliehus",
+    "category": 4,
+    "overnatning": true,
+    "kendskab_flugtveje": true,
+    "selvhjulpen": true,
+    "maks50personer": false,
+    "rule": null
+  },
+  {
+    "name": "Etagebolig",
+    "category": 4,
+    "overnatning": true,
+    "kendskab_flugtveje": true,
+    "selvhjulpen": true,
+    "maks50personer": false,
+    "rule": null
+  },
+  {
+    "name": "Forsamlingslokale",
+    "category": "2 eller 3",
+    "overnatning": false,
+    "kendskab_flugtveje": false,
+    "selvhjulpen": true,
+    "maks50personer": null,
+    "rule": "ask_50"
+  },
+  {
+    "name": "Fritidshjem",
+    "category": "2 eller 3",
+    "overnatning": false,
+    "kendskab_flugtveje": false,
+    "selvhjulpen": true,
+    "maks50personer": null,
+    "rule": "ask_50"
+  },
+  {
+    "name": "Fængsel",
+    "category": 6,
+    "overnatning": true,
+    "kendskab_flugtveje": true,
+    "selvhjulpen": false,
+    "maks50personer": false,
+    "rule": null
+  },
+  {
+    "name": "Garage",
+    "category": 1,
+    "overnatning": false,
+    "kendskab_flugtveje": true,
+    "selvhjulpen": true,
+    "maks50personer": false,
+    "rule": null
+  },
+  {
+    "name": "Garageanlæg (ved indkøbscenter e.l.)",
+    "category": 3,
+    "overnatning": false,
+    "kendskab_flugtveje": false,
+    "selvhjulpen": true,
+    "maks50personer": false,
+    "rule": null
+  },
+  {
+    "name": "Gruppehus",
+    "category": 4,
+    "overnatning": true,
+    "kendskab_flugtveje": true,
+    "selvhjulpen": true,
+    "maks50personer": false,
+    "rule": null
+  },
+  {
+    "name": "Hospital (behandlings-/sengeafsnit)",
+    "category": 6,
+    "overnatning": true,
+    "kendskab_flugtveje": false,
+    "selvhjulpen": false,
+    "maks50personer": false,
+    "rule": null
+  },
+  {
+    "name": "Hotel",
+    "category": 5,
+    "overnatning": true,
+    "kendskab_flugtveje": false,
+    "selvhjulpen": true,
+    "maks50personer": false,
+    "rule": null
+  },
+  {
+    "name": "Idrætshal",
+    "category": "2 eller 3",
+    "overnatning": false,
+    "kendskab_flugtveje": false,
+    "selvhjulpen": true,
+    "maks50personer": null,
+    "rule": "ask_50"
+  },
+  {
+    "name": "Industri- og lagerbygning",
+    "category": 1,
+    "overnatning": false,
+    "kendskab_flugtveje": true,
+    "selvhjulpen": true,
+    "maks50personer": false,
+    "rule": null
+  },
+  {
+    "name": "Institution (fysiske/kognitive funktionsnedsættelser)",
+    "category": 6,
+    "overnatning": true,
+    "kendskab_flugtveje": true,
+    "selvhjulpen": false,
+    "maks50personer": false,
+    "rule": null
+  },
+  {
+    "name": "Jordbrugserhvervets avls- og driftsbygning",
+    "category": 1,
+    "overnatning": false,
+    "kendskab_flugtveje": true,
+    "selvhjulpen": true,
+    "maks50personer": false,
+    "rule": null
+  },
+  {
+    "name": "Kantine",
+    "category": "1, 2 eller 3",
+    "overnatning": false,
+    "kendskab_flugtveje": true,
+    "selvhjulpen": true,
+    "maks50personer": false,
+    "rule": "ask_stedkendt"
+  },
+  {
+    "name": "Kirke",
+    "category": 3,
+    "overnatning": false,
+    "kendskab_flugtveje": false,
+    "selvhjulpen": true,
+    "maks50personer": false,
+    "rule": null
+  },
+  {
+    "name": "Klinik",
+    "category": "1 eller 2",
+    "overnatning": false,
+    "kendskab_flugtveje": null,
+    "selvhjulpen": true,
+    "maks50personer": null,
+    "rule": "ask_10"
+  },
+  {
+    "name": "Kollegie (bolig)",
+    "category": 4,
+    "overnatning": true,
+    "kendskab_flugtveje": true,
+    "selvhjulpen": true,
+    "maks50personer": false,
+    "rule": null
+  },
+  {
+    "name": "Kollegie (hotellignende kortvarigt ophold)",
+    "category": 5,
+    "overnatning": true,
+    "kendskab_flugtveje": false,
+    "selvhjulpen": true,
+    "maks50personer": false,
+    "rule": null
+  },
+  {
+    "name": "Kolonihavehus (til overnatning)",
+    "category": 4,
+    "overnatning": true,
+    "kendskab_flugtveje": true,
+    "selvhjulpen": true,
+    "maks50personer": false,
+    "rule": null
+  },
+  {
+    "name": "Koncertsal",
+    "category": 3,
+    "overnatning": false,
+    "kendskab_flugtveje": false,
+    "selvhjulpen": true,
+    "maks50personer": false,
+    "rule": null
+  },
+  {
+    "name": "Kontor",
+    "category": 1,
+    "overnatning": false,
+    "kendskab_flugtveje": true,
+    "selvhjulpen": true,
+    "maks50personer": false,
+    "rule": null
+  },
+  {
+    "name": "Kost-/efter-/højskole (hotellignende)",
+    "category": 5,
+    "overnatning": true,
+    "kendskab_flugtveje": false,
+    "selvhjulpen": true,
+    "maks50personer": false,
+    "rule": null
+  },
+  {
+    "name": "Kro (med overnatning)",
+    "category": 5,
+    "overnatning": true,
+    "kendskab_flugtveje": false,
+    "selvhjulpen": true,
+    "maks50personer": false,
+    "rule": null
+  },
+  {
+    "name": "Kædehus",
+    "category": 4,
+    "overnatning": true,
+    "kendskab_flugtveje": true,
+    "selvhjulpen": true,
+    "maks50personer": false,
+    "rule": null
+  },
+  {
+    "name": "Kælderrum til opbevaring",
+    "category": 1,
+    "overnatning": false,
+    "kendskab_flugtveje": true,
+    "selvhjulpen": true,
+    "maks50personer": false,
+    "rule": null
+  },
+  {
+    "name": "Møderum",
+    "category": "2 eller 3",
+    "overnatning": false,
+    "kendskab_flugtveje": false,
+    "selvhjulpen": true,
+    "maks50personer": null,
+    "rule": "ask_50"
+  },
+  {
+    "name": "Overnatningshytte",
+    "category": 4,
+    "overnatning": true,
+    "kendskab_flugtveje": true,
+    "selvhjulpen": true,
+    "maks50personer": false,
+    "rule": null
+  },
+  {
+    "name": "Parkeringskælder",
+    "category": 1,
+    "overnatning": false,
+    "kendskab_flugtveje": true,
+    "selvhjulpen": true,
+    "maks50personer": false,
+    "rule": null
+  },
+  {
+    "name": "Pensionat",
+    "category": 5,
+    "overnatning": true,
+    "kendskab_flugtveje": false,
+    "selvhjulpen": true,
+    "maks50personer": false,
+    "rule": null
+  },
+  {
+    "name": "Plejebolig",
+    "category": 6,
+    "overnatning": true,
+    "kendskab_flugtveje": true,
+    "selvhjulpen": false,
+    "maks50personer": false,
+    "rule": null
+  },
+  {
+    "name": "Plejehjem",
+    "category": 6,
+    "overnatning": true,
+    "kendskab_flugtveje": true,
+    "selvhjulpen": false,
+    "maks50personer": false,
+    "rule": null
+  },
+  {
+    "name": "Restauration",
+    "category": "2 eller 3",
+    "overnatning": false,
+    "kendskab_flugtveje": false,
+    "selvhjulpen": true,
+    "maks50personer": null,
+    "rule": "ask_50"
+  },
+  {
+    "name": "Rækkehus",
+    "category": 4,
+    "overnatning": true,
+    "kendskab_flugtveje": true,
+    "selvhjulpen": true,
+    "maks50personer": false,
+    "rule": null
+  },
+  {
+    "name": "Selskabslokale",
+    "category": "2 eller 3",
+    "overnatning": false,
+    "kendskab_flugtveje": false,
+    "selvhjulpen": true,
+    "maks50personer": null,
+    "rule": "ask_50"
+  },
+  {
+    "name": "Shelter",
+    "category": 4,
+    "overnatning": true,
+    "kendskab_flugtveje": true,
+    "selvhjulpen": true,
+    "maks50personer": false,
+    "rule": null
+  },
+  {
+    "name": "Skolefritidsordning (SFO)",
+    "category": "2 eller 3",
+    "overnatning": false,
+    "kendskab_flugtveje": false,
+    "selvhjulpen": true,
+    "maks50personer": null,
+    "rule": "ask_50"
+  },
+  {
+    "name": "Sommerhus",
+    "category": 4,
+    "overnatning": true,
+    "kendskab_flugtveje": true,
+    "selvhjulpen": true,
+    "maks50personer": false,
+    "rule": null
+  },
+  {
+    "name": "Teater",
+    "category": 3,
+    "overnatning": false,
+    "kendskab_flugtveje": false,
+    "selvhjulpen": true,
+    "maks50personer": false,
+    "rule": null
+  },
+  {
+    "name": "Teknikhus",
+    "category": 1,
+    "overnatning": false,
+    "kendskab_flugtveje": true,
+    "selvhjulpen": true,
+    "maks50personer": false,
+    "rule": null
+  },
+  {
+    "name": "Udstillingslokale",
+    "category": "2 eller 3",
+    "overnatning": false,
+    "kendskab_flugtveje": false,
+    "selvhjulpen": true,
+    "maks50personer": null,
+    "rule": "ask_50"
+  },
+  {
+    "name": "Undervisningsrum",
+    "category": "2 eller 3",
+    "overnatning": false,
+    "kendskab_flugtveje": false,
+    "selvhjulpen": true,
+    "maks50personer": null,
+    "rule": "ask_50"
+  },
+  {
+    "name": "Ungdomsbolig",
+    "category": 4,
+    "overnatning": true,
+    "kendskab_flugtveje": true,
+    "selvhjulpen": true,
+    "maks50personer": false,
+    "rule": null
+  },
+  {
+    "name": "Vandrehjem",
+    "category": 5,
+    "overnatning": true,
+    "kendskab_flugtveje": false,
+    "selvhjulpen": true,
+    "maks50personer": false,
+    "rule": null
+  },
+  {
+    "name": "Vuggestue",
+    "category": 6,
+    "overnatning": false,
+    "kendskab_flugtveje": true,
+    "selvhjulpen": false,
+    "maks50personer": false,
+    "rule": null
+  },
+  {
+    "name": "Ældrebolig (ældrevenlig bolig)",
+    "category": 4,
+    "overnatning": true,
+    "kendskab_flugtveje": true,
+    "selvhjulpen": true,
+    "maks50personer": false,
+    "rule": null
+  }
+]

@@ -15,6 +15,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Gangafstand\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Evakuering og redning af personer \"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -28,11 +29,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "\"2.1.1 og 2.1.2 og 2.1.3 og 2.1.4 og 2.1.5 og 2.1.6\"",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "\"Enfamiliehuse med en gangafstand på højst 30 m fra et vilkårligt sted i huset til en udgangsdør til det fri kan udføres uden redningsåbninger, forudsat at der fra udgangsdøren er adgang til terræn, eventuelt via en udvendig trappe fra en højde på højst 5,1 m over terræn. Disse enfamiliehuse opnår et tilfredsstillende sikkerhedsniveau uden redningsåbninger, idet evakueringen baseres på, at der installeres røgalarmanlæg, som sikrer tidlig varsling, så personer kan forlade huset ad de normale adgangsveje, inden der opstår kritiske forhold, og at gangafstanden til en udgangsdør er kort\\n\\nEnfamiliehuse med en gangafstand på mere end 30 m fra et vilkårligt sted i huset til en udgangsdør skal opdeles i brandceller og udføres med redningsåbninger med eventuelle tilhørende brandredningsarealer, således at der inden for hver brandcelle højst er 30 m gangafstand til enten en udgangsdør eller en redningsåbning.\"",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nGangafstand til nærmest udgang eller redningsåbning under 30m for et vilkårligt sted i bygningen??\" ",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nEr gangafstand til nærmeste udgang eller redningsåbning under 30m for et vilkårligt sted i bygningen?\" ",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "\"Gangafstanden bestemmes som den længste afstand en person skal tilbagelægge for at komme fra et vilkårligt sted til en udgangsdør eller en redningsåbning. Gangafstanden bestemmes alene ud fra indretningen af huset med rum og øvrige faste vægge. Der skal ikke tages højde for placering af inventar ved bestemmelse af gangafstande.\\n\\nGangarealet udlægges parallelt med eller vinkelret på væggene, og så placeringen er til ugunst for bestemmelse af gangafstanden. Gangafstandene bestemmes som den vandrette afstand, når der måles i samme niveau.\\n\\nHvor ganglinjen går via trapper bestemmes gangafstanden som den skrå afstand, fra forkant af trappetrin til gulv, som vist på Figur 2.1.1. Gangafstanden bestemmes ud fra midterlinjen i gangarealet, f.eks. ved bestemmelse af gangafstanden på halv- eller kvartsvingstrapper og lignende. \\n\\nHvis ikke den maksimale gangafstand til de almindelige udgange kan holdes under 30m alle steder skal der installeres redningsåbninger for at overholde kravet. Ydermere skal boligenheden inddeles i brandceller. Figur 2.1.6 viser en plantegning af en villa, hvor den dimensionerende gangafstand til en udgangsdør er længere end 30 m. Derfor skal boligenheden opdeles i brandceller, og der skal etableres redningsåbninger og brandredningsarealer for redningsberedskabets bærbare stiger. I det aktuelle tilfælde er den længste afstand fra 2. salen, som derfor er udført som en selvstændig brandcelle med redningsåbning. På 1. salen er der fra det fjerneste punkt i to af værelserne en gangafstand på ca. 33 m til en udgangsdør. Derfor er den ene del af 1. salen også udført som en selvstændig brandcelle med redningsåbning. Dørene i brandcelleadskillelserne skal udføres mindst som klasse EI2 30 [BD dør 30-M].\"",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-1-01\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "01d616a8-f9aa-47a1-ab5c-05a2ed1f56eb",
@@ -42,6 +43,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Redningsåbninger\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Evakuering og redning af personer \"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -59,7 +61,7 @@
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01-02\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "b9ae8113-dbce-4d54-b7d5-6446005b17ad",
@@ -69,6 +71,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Redningsåbninger\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "\"Det fremgår af BR18 § 98, nr. 2, at antallet af redningsåbninger skal fastlægges i forhold til det antal personer, der anvender brandcellen.\"",
             "4c168615-155f-4457-951d-742adc982da0": "\"Evakuering og redning af personer \"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -82,11 +85,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nI hver brandcelle i enfamiliehuse, der ikke har udgang til terræn i det fri, er der etableret mindst én redningsåbning.\"",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nEr der i hver brandcelle, der ikke har udgang til terræn i det fri etableret mindst én redningsåbning?\"",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "\"For enfamiliehuse opnås et tilfredsstillende sikkerhedsniveau ved mindst en redningsåbning i hver brandcelle, der ikke har udgang til terræn i det fri.\\n\\nAdgang til terræn via en udgangsdør og en udvendig trappe fra en højde af højst 5,1 m, kan i dette tilfælde sidestilles med en redningsåbning.\\n\\nSåfremt der er en altan knyttet til brandcellen, kan denne med fordel benyttes i forbindelse med redningsåbningen.\n\"",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01-02\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "a2fb8d50-bf78-471b-95bf-49425498c94f",
@@ -96,6 +99,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Redningsåbninger\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "\"Ved udformningen af en redningsåbning skal der jf. BR18 § 98, nr. 3 tages hensyn til, at personer enten ved egen eller andres hjælp skal kunne reddes via redningsåbningen. Redningsåbninger skal jf. BR18 § 98 stk. 1, nr. 4, let og uhindret kunne åbnes indefra uden brug af nøgle eller værktøj, når der sker almindelig og lovlig anvendelse/benyttelse af bygningen. \"",
             "4c168615-155f-4457-951d-742adc982da0": "\"Evakuering og redning af personer \"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -109,11 +113,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "\"2.2.1 og 2.2.2 \"",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nRedningsåbningen har fri højde og bredde på tilsammen mindst 1,5 m, hvor højden er mindst 0,6 m og bredden mindst 0,5 m. (Se figur 2.2.1)\\n\\nFor redningsåbninger i tagflader er den vandrette afstand mellem tagkant og underkant af åbningen højst 1,4 m. (Se figur 2.2.2)\\n\\nRedningsåbninger er placeret, så de kan nås indefra, idet afstanden fra gulv til underkant højst er 1,2 m, eller der er etableret fast-monteret trin eller tilsvarende.\"",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nHar alle redningsåbninger fri højde og bredde på tilsammen mindst 1,5 m, hvor højden er mindst 0,6 m og bredden mindst 0,5 m? (Se figur 2.2.1)\\n\\nHar alle redningsåbninger i tagflader vandret afstand mellem tagkant og underkant af åbningen højst 1,4 m? (Se figur 2.2.2)\\n\\nEr redningsåbninger placeret, så de kan nås indefra, idet afstanden fra gulv til underkant højst er 1,2 m, eller der er etableret fast-monteret trin eller tilsvarende?\"",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "\"Redningsåbningen skal være udformet, så personer kan reddes via åbningen, enten direkte til terræn i det fri eller via redningsberedskabets stiger, gennem vindue, lem eller dør i ydervæg eller tagflade.\\n\\nEr redningsåbningen placeret højst 2,0 m over terræn, kan der nøjes med bredde og højde på mindst 0,5 m hver, men summen af bredde og højde skal stadig være mindst 1,5 m.\\n\\nRedningsåbninger skal let og uhindret kunne åbnes og fastholdes i en stilling, der giver fri passage indefra og udefra, og solafskærmninger og lignende ikke hindrer brugen. Redningsåbninger skal let og uhindret kunne åbnes indefra uden brug af nøgle eller værktøj, der er uhindret og let adgang fra brandcellen, og åbningerne er ikke blokeret.\"",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01-02\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "570989a0-6b56-4f2b-82dd-51fe7b3deecc",
@@ -123,6 +127,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Røgalarmanlæg\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Evakuering og redning af personer \"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -136,11 +141,39 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "\"I boligenheder skal der placeres mindst én røgalarm i hver brandcelle. For at sikre en hurtig og rettidig detektering og varsling er det vigtigt, at afstanden mellem røgalarmerne ikke er for stor.\" ",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nMinimum én røgalarm i hver brandcelle\\n\\nMaks 10 m ganglængde til nærmeste røgalarm.\\n\\nVed flere etager skal der placeres mindst 1 røgalarm på hver etage.\\n\\n\"\n\n",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nEr der minimum én røgalarm i hver brandcelle?\\n\\nEr der maks 10 m ganglængde til nærmeste røgalarm fra et vilkårligt sted i bygningen?\"",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "\"I boligenheder skal der være placeret mindst én røgalarm i hver brandcelle, og røgalarmerne skal være opsat, så der fra et vilkårligt sted i brandcellen højst er 10 m horisontal ganglængde til nærmeste røgalarm.\\n\\nHvis en brandcelle er i flere etager, er der placeret mindst én røgalarm på hver etage.\\n\\nRøgalarmanlæg skal tilsluttes bygningens faste normale strømforsyning og med batteribackup.\\n\\nRøgalarmer bør placeres i fordelingsgange eller lignende, så brand ikke når soverum udetekteret.\\n\\nFlere røgalarmer skal virke sammen og alle alarmere, såfremt der detektes røg i én.\\n\\nRøgalarmanlæg skal kun varsle personer i den boligenhed, hvor branden registreres.\n\"",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01-03\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
+          },
+          {
+            "_id": "a43724cc-7b0b-47b5-9139-2e80f9eb130a",
+            "_description": "",
+            "06f517c8-f715-4622-98ab-eff2c68c79e5": "",
+            "0ca9bf0a-8ae7-43b7-b039-58308f0d2691": "",
+            "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
+            "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Røgalarmanlæg\"",
+            "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
+            "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
+            "4c168615-155f-4457-951d-742adc982da0": "\"Evakuering og redning af personer \"",
+            "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
+            "5e6ab79a-5292-40de-a8ca-f74109ef2d8f": "",
+            "89367cd8-2239-4bf5-8f19-eb7f638fc8d6": "",
+            "9367a170-eefa-4090-a9bf-ce01c2aeedd0": "",
+            "956f3b15-9f88-4b20-a26a-ba8d997e7c9c": "",
+            "9588c715-cedb-49ae-a6fa-40795267147f": "\"Det fremgår af BR18 § 91, at bygninger skal designes, projekteres og udføres, så der i tilfælde af brand kan ske en sikker evakuering og redning af personer.\"",
+            "aa6851ae-110f-48da-b179-66d96a95c654": "",
+            "b291492d-2903-443c-a555-5c09700b6b8a": "",
+            "bb002a58-80e9-46ea-97f6-acc1e0b03222": "",
+            "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
+            "d499f158-5736-4431-8248-c6be639f2b8f": "",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nEr der mindst 1 røgalarm på hver etage?\"",
+            "e0720c15-8f31-4a63-b754-6f050f22e541": ">1",
+            "e4d93b44-e1a1-4314-b5ed-da53e606165b": "\"I boligenheder skal der være placeret mindst én røgalarm i hver brandcelle, og røgalarmerne skal være opsat, så der fra et vilkårligt sted i brandcellen højst er 10 m horisontal ganglængde til nærmeste røgalarm.\\n\\nHvis en brandcelle er i flere etager, er der placeret mindst én røgalarm på hver etage.\\n\\nRøgalarmanlæg skal tilsluttes bygningens faste normale strømforsyning og med batteribackup.\\n\\nRøgalarmer bør placeres i fordelingsgange eller lignende, så brand ikke når soverum udetekteret.\\n\\nFlere røgalarmer skal virke sammen og alle alarmere, såfremt der detektes røg i én.\\n\\nRøgalarmanlæg skal kun varsle personer i den boligenhed, hvor branden registreres.\n\"",
+            "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01-03\"",
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "37c77091-f494-4076-ac8c-358a89f02b37",
@@ -150,6 +183,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Bærende konstruktioners brandmodstandsevne\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -163,11 +197,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nHvis tagkonstruktionen er en del af bygningens samlede bærende system og har indflydelse på afstivning mod vandrette laster eller på andre bærende eller ikke-bærende bygningsdeles brandmodstandsevne, er tagkonstruktionen udført med en brandmodstandsevne, der modsvarer brandkravet til de konstruktioner, den afstiver.\"",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nEr tagkonstruktionen udført med en brandmodstandsevne, der modsvarer brandkravet til de konstruktioner den, afstiver? (Gælder kun hvis tagkonstruktionen er en del af bygningens samlede bærende system og har indflydelse på afstivning mod vandrette laster eller på andre bærende eller ikke-bærende bygningsdeles brandmodstandsevne)\"",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "\"Hvis tagrummet kan udnyttes, stilles der krav til brandmodstandsevnen for de bygningsdele, som bærer tagkonstruktionen.\\n\\nDe dele af en tagkonstruktion, som kun skal bære sig selv og naturlasten, kan udføres uden brandmodstandsevne.\\n\\nSåfremt tagkonstruktionen er en del af bygningens samlede bærende system, og den har indflydelse på bygningens afstivende system overfor vandrette laster eller på andre bærende eller ikke-bærende bygningsdeles brandmodstandsevne, er det afgørende for brandsikkerheden, at tagkonstruktionen udføres med en brandmodstandsevne, som modsvarer brandkravet til de konstruktioner, som tagkonstruktionen afstiver mv.\n\"",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01-04\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "04b44957-9223-48c7-826e-69b3f8969870",
@@ -177,6 +211,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Tagkonstruktioner\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Bærende konstruktioners brandmodstandsevne\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -194,7 +229,7 @@
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01-04\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "d33c5f68-c647-463b-8755-70fd1fb52e6d",
@@ -204,6 +239,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Uudnyttelig tagrum\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Bærende konstruktioners brandmodstandsevne\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -217,11 +253,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "\"Der stilles ikke krav til brandmodstandsevnen for spærene i et uudnytteligt tagrum. \"",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nAdskillende væg-og loftkonstruktioner, herunder eventuelle loftslemme, er udført mindst som bygningsdel klasse EI 30 [BD-bygningsdel 30].\"",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nEr adskillende væg-og loftkonstruktioner, herunder eventuelle loftslemme, udført mindst som bygningsdel klasse EI 30 [BD-bygningsdel 30]?\"",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "\"\\n\\nBærende konstruktioner i uudnyttelige tagrum, skunkrum og lignende, kan opnå den fornødne brandmodstandsevne ved at de adskillende væg- og loftkonstruktioner, herunder eventuelle loftslemme, udføres mindst som bygningsdel klasse EI 30 [BD-bygningsdel 30].\"",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\n\"K-01-05\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "2bdc1866-aa28-4206-b724-b722b012b5d6",
@@ -231,6 +267,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Bærende konstruktioners brandmodstandsevne\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Bærende konstruktioners brandmodstandsevne\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -244,11 +281,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "\"I enfamiliehuse skal alle bærende bygningsdele, herunder etageadskillelser, udføres mindst som bygningsdel klasse R30 [BD-bygningsdel 30].\"",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nAlle bærende bygningsdele er udført som minimum klasse R30\\n\\nBærende bygningsdele som støtter brandcelleadskillelser er udført minimum som klasse REI60\"",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nEr alle bærende bygningsdele udført som minimum klasse R30?\\n\\nEr bærende bygningsdele som støtter brandcelleadskillelser udført minimum som klasse REI60?\"",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "\"\\n\\nI enfamiliehuse er alle bærende bygningsdele, herunder etageadskillelser, udført mindst som bygningsdel klasse R30 [BD-bygningsdel 30]. Bygningsdele, der støtter eller stabiliserer brandcelleadskillelser, er udført i overensstemmelse med de skærpede krav jf. afsnit 4.6 'Inddeling i brandmæssige enheder samt brandadskillende bygningsdele', hvor der specificeres at det skal udføres mindst som bygningsdel klasse REI 60 [BD-bygningsdel 60] for bygningsdele, som afgrænser en brandcelle.\"",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01-06\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "2229d05c-2fa6-4007-a78f-a030a95584c2",
@@ -258,6 +295,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Bærende konstruktioners brandmodstandsevne\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Bærende konstruktioners brandmodstandsevne\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -271,11 +309,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "\"For at sikre at bygninger og bygningsdele har en tilstrækkelig brandmodstandsevne i større bygninger i tre etager over terræn med gulv i øverste etage højst 9,6 m over terræn og med et samlet etageareal større end 150 m² skal kravene i Tabel 3.2.1 opfyldes. \"",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nTjek at Tabel 3.2.1 overholdes\"",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nOverholdes Tabel 3.2.1?\"",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "3\n",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01-06\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "38e53d3a-9168-4b58-ab9a-b41b46a31be6",
@@ -285,6 +323,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Bærende konstruktioners brandmodstandsevne\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": ">5.1",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Bærende konstruktioners brandmodstandsevne\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -298,11 +337,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nFor bygninger, hvor gulv i øverste etage er mere end 5,1 m over terræn, og hvor der anvendes isoleringsmateriale ringere end materiale klasse B-s1,d0 [klasse A materiale], er de bærende konstruktioner udført af materiale mindst klasse A2-s1,d0 [ubrændbart materiale].\"",
-            "e0720c15-8f31-4a63-b754-6f050f22e541": "2",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nEr de bærende konstruktioner i bygningen udført af materiale mindst klasse A2-s1,d0 [ubrændbart materiale]? (Gælder bygninger, hvor gulv i øverste etage er mere end 5,1 m over terræn, og hvor der anvendes isoleringsmateriale ringere end materiale klasse B-s1,d0 [klasse A materiale])\"",
+            "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01-06\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "9a1f6810-d538-4d82-871d-73029b749047",
@@ -312,6 +351,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Altaner\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Bærende konstruktioners brandmodstandsevne\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -325,11 +365,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nBygningsdele i altaner er udført mindst som bygningsdel klasse R 30 [BD-bygningsdel 30].\\n\\nBygningsdele i altaner kan udføres uden krav til brandmodstandsevne (Se 'Korrekt dimensionering' for krav såfremt)\"",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nEr bygningsdele i altaner udført mindst som bygningsdel klasse R 30 [BD-bygningsdel 30]?  (Se 'Korrekt dimensionering' for krav til at kunne udføre uden krav til brandmodstandsevne)\"",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "\"Bygningsdele i altaner skal udføres mindst som bygningsdel R30 [BD-bygningsdel 30], men kan udføres uden krav til brandmodstandsevnen, hvis følgende punkter alle er opfyldt:\\n\\n- Altanen fastgøres til bygningsdele, som er bygningsdel mindst klasse R 30 / A2-s1,d0 [BS-bygningsdel 30] med materialer, som er materiale mindst klasse A2-s1,d0 [ubrændbart materiale], og som har et smeltepunkt, der er højere end 850 °C\\n\\n- Bærende altankonstruktioner udføres af materialer, som er materiale mindst klasse A2-s1,d0 [ubrændbart materiale], og bæreevnen af den enkelte altan bevares, hvis der ved brand sker svigt i konstruktionen i en vilkårlig af de øvrige altaner\\n\\n- Rækværk og altanplade udføres som let konstruktion. En let konstruktion defineres som en konstruktion med en fladevægt på højst 30 kg/m².\n\"",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01-07\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "c180b273-b776-4bc0-9e1c-c72a15caa567",
@@ -339,6 +379,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Placering af bygninger\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Antændelse, brand- og røgspredning\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -352,11 +393,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "\"Ved placering af enfamiliehuse skal det som udgangspunkt sikres, at det enkelte byggeri (evt. med flere boligenheder) brandmæssigt kan betragtes som fritliggende eller brandmæssigt adskilt fra andet byggeri på samme grund og på nabogrunde.\\n\\nAfstande, som er beskrevet i dette afsnit, tager udelukkende højde for de brandmæssige forhold. Der kan derfor være andre forhold i bygningsreglementet eller eksempelvis en lokalplan, som medfører, at der skal være en større afstand til f.eks. naboskel, vej- og stimidte.\\n\\nAfstande måles vandret uden hensyntagen til eventuelle terrænforskelle. Den angivne afstand er den mindste frie afstand mellem bygninger og naboskel, vej- og stimidte.\\n\\nDe angivne afstande kan for tagudhæng, vindskeder, lætage over døre, gesimser og lignende mindre bygningsdele nedsættes med bygningsdelens længste afstand fra bygningsfacaden, dog højst 0,5 m.\n\"",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nByggeriet (evt. med flere boligenheder) er brandmæssigt fritliggende eller brandmæssigt adskilt fra andet byggeri på samme grund og/eller nabogrunde\\n\\nDer er tjekket for afstandkrav udover de allerede beskrevede i de præ-accepterede løsninger (Eksempelvis lokalplan eller bygningsreglement)\\n\\nAfstande er målt korrekt (Vandret uden hensyntagen til terræn så det er den mindste frie afstand mellem bygninger og skel)\"",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nEr byggeriet brandmæssigt fritliggende eller brandmæssigt adskilt fra andet byggeri på samme grund og/eller nabogrunde?\"",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "\"Afstande er målt korrekt (Vandret uden hensyntagen til terræn så det er den mindste frie afstand mellem bygninger og skel). Dog kan de angivne afstande kan for tagudhæng, vindskeder, lætage over døre, gesimser og lignende mindre bygningsdele nedsættes med bygningsdelens længste afstand fra bygningsfacaden, dog højst 0,5 m.\"",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01-08\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "299da875-053c-4533-9408-8385a06169f6",
@@ -366,6 +407,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Placering af bygninger\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Antændelse, brand- og røgspredning\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -379,11 +421,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nEnfamiliehuse er opført med mindste afstand til naboskel, vej- og stimidte afhængig af tagdækning, ydervæg og vægoverflade som angivet i Tabel 4.2.1.\"",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nEr enfamiliehuse opført med mindste afstand til naboskel, vej- og stimidte afhængig af tagdækning, ydervæg og vægoverflade som angivet i Tabel 4.2.1?\"",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "\"Enfamiliehuse skal opføres med en mindste afstand til naboskel, vej- og stimidte afhængig af tagdækningen, ydervæg og vægoverflade som angivet i Tabel 4.2.1.\\n\\nAfstandene gælder ikke for naboskel mellem de enkelte boligenheder i et sammenbygget enfamiliehus, hvilket bl.a. muliggør sammenbyggede enfamiliehuse med tagdækning ringere end klasse BROOF (t2) [klasse T tagdækning], herunder stråtag.\"",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01-08\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "8ea1baae-87f2-4e6d-9b75-aeb122184c2b",
@@ -393,6 +435,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Placering af bygninger\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Antændelse, brand- og røgspredning\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -406,11 +449,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "\"4.2.1 og 4.2.2\"",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nFritliggende enfamiliehuse er opført med mindste afstand til andet byggeri på samme grund afhængig af tagdækning og udvendige overflader som angivet i Tabel 4.2.2.\"",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nEr fritliggende enfamiliehuse opført med mindste afstand til andet byggeri på samme grund afhængig af tagdækning og udvendige overflader som angivet i Tabel 4.2.2?\"",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "\"Bygninger på samme grund betragtes som brandmæssigt fritliggende, når afstanden mellem bygningerne er mindst summen af de afstande, de enkelte bygninger skulle have til naboskel.\\n\\nFritliggende enfamiliehuse skal opføres med en mindste afstand til andet byggeri på samme grund afhængig af tagdækningen og udvendige overflader som angivet i Tabel 4.2.2.\\n\\nAfstandene gælder ikke indbyrdes mellem de enkelte boligenheder i et sammenbygget enfamiliehus, hvilket bl.a. muliggør sammenbyggede enfamiliehuse med tagdækning ringere end klasse BROOF (t2) [klasse T tagdækning], herunder stråtag.\\n\\nMed opfyldelse af disse afstande betragtes de individuelle bebyggelser som brandmæssigt fritliggende.\n\"",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01-08\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "4c1be397-eeef-47bd-9e57-5ec2a78a5baa",
@@ -420,6 +463,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Vandret brandspredning\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Antændelse, brand- og røgspredning\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -433,11 +477,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "\"4.3.1 og 4.3.2\"",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nVæg mod skel i enfamiliehuse, nærmere skel, vej- eller stimidte end 2,5 m, skal udføres som mindst bygningsdel klasse EI 60 [BD-bygningsdel 60], ført tæt til underside af yderste tagdækning og med beklædning mindst klasse K1 10 D-s2,d2.\\n\\nEnfamiliehuse med indbyrdes afstand under 5,0 m samt sammenbyggede enfamiliehuse på samme grund skal adskilles af bygningsdel mindst klasse EI 60 [BD-bygningsdel 60] uden åbninger, ført tæt til underside af yderste tagdækning. Adskillelsen kan udføres på det ene enfamiliehus alene.\\n\\nVed ydervægge, der ikke er udført af mindst materiale klasse B-s1,d0 [klasse A-materiale], skal brandadskillende bygningsdele føres frem til indersiden af den udvendige beklædning. Se angivelsen på figur 4.3.1.\\n\\nVed ydervægge, der er udført af mindst materiale klasse B-s1,d0 [klasse A-materiale], skal der ved hulrum ud for brandadskillende bygningsdele etableres brandstop. Brandstoppet skal være tæt og kan udføres af et fastholdt isoleringsmateriale mindst som klasse A2-s1,d0 [ubrændbart materiale] eller et materiale klasse D-s2,d2 [klasse B-materiale], f.eks. træ eller træbaserede plader, som hindrer brandspredning mellem hulrum.\\n\\nVed brandsektionsafgrænsende vægge eller mod naboskel, hvor der er risiko for vinkelsmitte, skal mindst den ene ydervæg, inkl. vinduer m.v., udføres som mindst bygningsdel klasse EI 60 [BD-bygningsdel 60] uden åbninger, bortset fra åbninger lukket med mindst dør klasse EI₂ 60-C [BD-dør 60].\\n\\nEr vinklen mellem ydervæggene mindre end 90°, skal der sikres mod vinkelsmitte i en afstand på mindst 5,0 m. Er vinklen mellem 90° og 135°, begge inklusive, skal der sikres mod vinkelsmitte inden for mindst 2,5 m fra sektionsafgrænsningen. Afstanden kan måles langs facadelinje eller på skrå over hjørnet, jf. figur 4.3.2. Glaspartier inden for området med sikring mod vinkelsmitte må ikke kunne åbnes og skal have samme brandmæssige egenskaber som den væg, hvori de er monteret. Er vinklen større end 135°, stilles der ingen krav til ydervæggenes brandmodstandsevne som følge af nedsat risiko for vandret brandspredning.\\n\\nEt enfamiliehus, som ligger i en afstand på mindre end 5,0 m fra byggeri, der ikke er omfattet af dette bilag (undtagen sekundær bebyggelse omfattet af denne vejlednings bilag 1b: Præaccepterede løsninger for sekundær bebyggelse i tilknytning til enfamiliehuse), skal adskilles fra dette med bygningsdele udført som mindst bygningsdel klasse EI 60 / A2-s1,d0 [BS-bygningsdel 60]. Adskillelsen skal slutte tæt til den yderste tagdækning. Ved ydervægge, der ikke er udført af mindst materiale klasse A2-s1,d0 [ubrændbart materiale], skal den brandadskillende bygningsdel mindst føres frem til indersiden af den udvendige beklædning.\"",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"Er vægge, vendt mod skel (nærmere skel, vej- eller stimidte end 2,5m), udført som mindst bygningsdel klasse EI 60 [BD-bygningsdel 60], ført tæt til underside af yderste tagdækning og med beklædning mindst klasse K1 10 D-s2,d2?\\n\\nEr bygningsdele, til at adskille sammenbyggede enfamiliehuse (eller med indbyrdes afstand under 5m), udført i materiale af mindst klasse EI 60 [BD-bygningsdel 60] (uden åbninger, ført tæt til underside af yderste tagdækning) på minimum ét af husene?\\n\\nEr brandadskillende bygningsdele ført frem til indersiden af den udvendige beklædning (se figur 4.3.1)? (Gælder ved ydervægge, der ikke er udført af mindst materiale klasse B-s1,d0 [klasse A-materiale].)\\n\\nEr der ved hulrum ud for brandadskillende bygningsdele etableret brandstop? (Gælder ved ydervægge, der er udført af mindst materiale klasse B-s1,d0 [klasse A-materiale].)\\n\\nEr minimum den ene ydervæg (inkl. vinduer mv.) udført som mindst bygningsdel klasse EI 60 [BD-bygningsdel 60], uden åbninger, bortset fra åbninger lukket med mindst dør klasse EI₂ 60-C [BD-dør 60]? (Gælder ved brandsektionsafgrænsende vægge eller mod naboskel, hvor der er risiko for vinkelsmitte.)\\n\\nEr bygningsdele, til at adskille enfamiliehus fra et andet byggeri (hvis afstanden er under 5m), der ikke er omfattet af dette bilag eller bilag 1b: Præaccepterede løsninger for sekundær bebyggelse i tilknytning til enfamiliehuse, udført som materiale i minimum klasse EI 60 / A2-s1,d0 [BS-bygningsdel 60]?\"",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
-            "e4d93b44-e1a1-4314-b5ed-da53e606165b": "",
+            "e4d93b44-e1a1-4314-b5ed-da53e606165b": "\"Brandstoppet skal være tæt og kan udføres af et fastholdt isoleringsmateriale mindst som klasse A2-s1,d0 [ubrændbart materiale] eller et materiale klasse D-s2,d2 [klasse B-materiale], f.eks. træ eller træbaserede plader, som hindrer brandspredning mellem hulrum.\\n\\nEr vinklen mellem ydervæggene mindre end 90°, skal der sikres mod vinkelsmitte i en afstand på mindst 5,0 m. Er vinklen mellem 90° og 135°, begge inklusive, skal der sikres mod vinkelsmitte inden for mindst 2,5 m fra sektionsafgrænsningen. Afstanden kan måles langs facadelinje eller på skrå over hjørnet, jf. figur 4.3.2. Glaspartier inden for området med sikring mod vinkelsmitte må ikke kunne åbnes og skal have samme brandmæssige egenskaber som den væg, hvori de er monteret. Er vinklen større end 135°, stilles der ingen krav til ydervæggenes brandmodstandsevne som følge af nedsat risiko for vandret brandspredning.\\n\\nEt enfamiliehus, som ligger i en afstand på mindre end 5,0 m fra byggeri, der ikke er omfattet af dette bilag (undtagen sekundær bebyggelse omfattet af denne vejlednings bilag 1b: Præaccepterede løsninger for sekundær bebyggelse i tilknytning til enfamiliehuse), skal adskilles fra dette med bygningsdele udført som mindst bygningsdel klasse EI 60 / A2-s1,d0 [BS-bygningsdel 60]. Adskillelsen skal slutte tæt til den yderste tagdækning. Ved ydervægge, der ikke er udført af mindst materiale klasse A2-s1,d0 [ubrændbart materiale], skal den brandadskillende bygningsdel mindst føres frem til indersiden af den udvendige beklædning.\"",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01-09\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "461f1585-7013-40d3-8f12-27548e195569",
@@ -447,6 +491,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Vandret brandspredning\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Antændelse, brand- og røgspredning\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -460,11 +505,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "\"4.3.1\"",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nI sammenbyggede enfamiliehuse skal de enkelte boligenheder, der indgår i byggeriet, indbyrdes adskilles med en bygningsdel mindst klasse EI 60 [BD-bygningsdel 60]. Den adskillende bygningsdel må ikke have åbninger, og skal slutte tæt til undersiden af den yderste tagdækning.\\n\\nSammenbyggede enfamiliehuse skal opdeles i brandsektioner med adskillende bygningsdele mindst som klasse EI 60 / A2-s1,d0 [BS-bygningsdel 60] for hver 1.200 m² etageareal.\\n\\nOpdelingen skal være uden åbninger og skal slutte tæt til undersiden af den yderste tagdækning.\\n\\nVed ydervægge, der ikke er udført af mindst materiale klasse B-s1,d0 [klasse A materiale], skal den brandadskillende bygningsdel mellem de enkelte boligenheder, føres frem til indersiden af den udvendige beklædning, jf. Figur 4.3.1.\\n\\nVed tagudhæng skal det sikres, at branden ikke kan sprede sig uden om den brandadskillende bygningsdel via tagudhænget. Dette kan f.eks. udføres ved at den brandadskillende bygningsdel føres med ud i tagudhænget til den yderste tagdækning og sternbrædder afbrydes ved adskillelsen.\n\"",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nEr de enkelte boligenheder, der indgår i byggeriet, indbyrdes adskilt med en bygningsdel mindst klasse EI 60 [BD-bygningsdel 60]? (Gælder I sammenbyggede enfamiliehuse).\\n\\nEr de sammenbyggede enfamiliehuse opdelt i brandsektioner med adskillende bygningsdele mindst som klasse EI 60 / A2-s1,d0 [BS-bygningsdel 60] for hver 1.200 m² etageareal.\\n\\nEr den brandadskillende bygningsdel mellem de enkelte boligenheder, ført frem til indersiden af den udvendige beklædning, jf. Figur 4.3.1? (Gælder ved ydervægge, der ikke er udført af mindst materiale klasse B-s1,d0 [klasse A materiale]).\\n\\nEr det sikret, at branden ikke kan sprede sig uden om den brandadskillende bygningsdel via. tagudhæng?\"",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
-            "e4d93b44-e1a1-4314-b5ed-da53e606165b": "",
+            "e4d93b44-e1a1-4314-b5ed-da53e606165b": "\"Den adskillende bygningsdel må ikke have åbninger, og skal slutte tæt til undersiden af den yderste tagdækning.\\n\\nOpdelingen i mellem sammenbyggede enfamiliehuse, skal være uden åbninger og skal slutte tæt til undersiden af den yderste tagdækning.\\n\\nDet kan sikres, at branden ikke kan spredes uden om den brandadskillende bygningsdel via tagudhænget, blandt andet ved at den brandadskillende bygningsdel føres med ud i tagudhænget til den yderste tagdækning, og sternbrædder afbrydes ved adskillelsen.\"",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01-09\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "e1a5e509-dbc6-4897-93a1-8e095ee286e6",
@@ -474,6 +519,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Udvendige vægoverflader\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Antændelse, brand- og røgspredning\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -487,11 +533,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nI enfamiliehuse skal udvendige vægoverflader udføres mindst som beklædning klasse K1 10 D-s2,d2 [klasse 2 beklædning]. Alternativt kan udvendige overflader udføres mindst som materiale klasse D-s2,d2 [klasse B materiale].\"",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nEr udvendige vægoverflader udført mindst som beklædningsklasse K1 10 D-s2,d2 [klasse 2 beklædning]?\"",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
-            "e4d93b44-e1a1-4314-b5ed-da53e606165b": "",
+            "e4d93b44-e1a1-4314-b5ed-da53e606165b": "\"Alternativt kan udvendige overflader udføres mindst som materiale klasse D-s2,d2 [klasse B materiale].\"",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01-10\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "2687ccdd-3590-4fe4-a473-ea82365e385c",
@@ -501,6 +547,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Udvendige vægoverflader\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Antændelse, brand- og røgspredning\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -514,11 +561,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nNår en regnskærm anvendes uden på en ydervæg med beklædning klasse K1 10 B-s1,d0 [klasse 1 beklædning], skal det ventilerede hulrum bag regnskærmen sikres mod brandspredning mellem de sammenbyggede enfamiliehuses brandcelle- og brandsektionsafgrænsende bygningsdele. Brandadskillelserne skal her afbrydes med brandstop, der hindrer at en brand kan sprede sig via hulrum ud for en anden brandcelle. Brandstoppet skal være tæt og kan udføres af et fastholdt isoleringsmateriale mindst som klasse A2-s1,d0 [ubrændbart materiale] eller et materiale klasse D-s2,d2 [klasse B materiale], f.eks. træ eller træbaserede plader, som hindrer brandspredning mellem hulrum.\"",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"Er det ventilerede hulrum bag regnskærmen sikret mod brandspredning mellem de sammenbyggede enfamiliehuses brandcelle- og brandsektionsafgrænsende bygningsdele?\"",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
-            "e4d93b44-e1a1-4314-b5ed-da53e606165b": "",
+            "e4d93b44-e1a1-4314-b5ed-da53e606165b": "\"\\n\\nNår en regnskærm anvendes uden på en ydervæg med beklædning klasse K1 10 B-s1,d0 [klasse 1 beklædning], skal det ventilerede hulrum bag regnskærmen sikres mod brandspredning mellem de sammenbyggede enfamiliehuses brandcelle- og brandsektionsafgrænsende bygningsdele. Brandadskillelserne skal her afbrydes med brandstop, der hindrer at en brand kan sprede sig via hulrum ud for en anden brandcelle. Brandstoppet skal være tæt og kan udføres af et fastholdt isoleringsmateriale mindst som klasse A2-s1,d0 [ubrændbart materiale] eller et materiale klasse D-s2,d2 [klasse B materiale], f.eks. træ eller træbaserede plader, som hindrer brandspredning mellem hulrum.\"",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01-10\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "6cdc84ed-2357-4004-ae43-b67401d68b05",
@@ -528,6 +575,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Tagdækning\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Antændelse, brand- og røgspredning\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -545,7 +593,7 @@
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01-11\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "d9ab19f8-20db-45ff-91fc-d772827f6b4d",
@@ -555,6 +603,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Tagdækning\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Antændelse, brand- og røgspredning\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -568,11 +617,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "\"Tagdækning med stråtag kan udføres i enfamiliehuse med gulv i øverste etage højst 5,1 m over terræn.\"",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nOver døre er stråtag sikret mod nedskridning ved brand.\"",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nEr der sikret mod nedskridning ved brand? (Gælder for stråtag).\"",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01-11\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "3738350a-a921-42d0-a657-75aaf835e85a",
@@ -582,6 +631,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Tagdækning\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Antændelse, brand- og røgspredning\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -595,38 +645,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "\"Tagdækning med stråtag uden brandsikring må kun anvendes på sekundære bebyggelser samt på brandmæssigt fritliggende enfamiliehuse med uudnyttelig tagetage, der er adskilt fra boligenheden med bygningsdel mindst klasse EI 30 [BD-bygningsdel 30].\"",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nSåfremt stråtag er uden brandsikring, er bygningen et brandmæssigt fritliggende enfamiliehus med uudnyttelig tagetage, der er adskilt fra boligenheden med bygningsdel mindst klasse EI 30 [BD-bygningsdel 30].\"",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nSåfremt stråtag er uden brandsikring, er bygningen et brandmæssigt fritliggende enfamiliehus med uudnyttelig tagetage, der er adskilt fra boligenheden med bygningsdel mindst klasse EI 30 [BD-bygningsdel 30]?\"",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01-11\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1"
-          },
-          {
-            "_id": "02b1a4b4-2d77-45f7-adf6-18d8f279e18b",
-            "_description": "",
-            "06f517c8-f715-4622-98ab-eff2c68c79e5": "",
-            "0ca9bf0a-8ae7-43b7-b039-58308f0d2691": "",
-            "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
-            "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Tagdækning\"",
-            "2ab18f20-e00b-466c-ad65-3b926332f819": "",
-            "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
-            "4c168615-155f-4457-951d-742adc982da0": "\"Antændelse, brand- og røgspredning\"",
-            "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
-            "5e6ab79a-5292-40de-a8ca-f74109ef2d8f": "",
-            "89367cd8-2239-4bf5-8f19-eb7f638fc8d6": "true",
-            "9367a170-eefa-4090-a9bf-ce01c2aeedd0": "",
-            "956f3b15-9f88-4b20-a26a-ba8d997e7c9c": "",
-            "9588c715-cedb-49ae-a6fa-40795267147f": "\"Det fremgår af BR18 § 104, at bygninger skal projekteres og udføres, så det sikres, at der i tilfælde af brand ikke sker væsentlig brand- og røgspredning.\"",
-            "aa6851ae-110f-48da-b179-66d96a95c654": "",
-            "b291492d-2903-443c-a555-5c09700b6b8a": "\"Tagdækning med stråtag over udnyttelig tagetage \"",
-            "bb002a58-80e9-46ea-97f6-acc1e0b03222": "",
-            "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
-            "d499f158-5736-4431-8248-c6be639f2b8f": "",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nSammenbyggede enfamiliehuse skal indbyrdes adskilles med en bygningsdel mindst klasse EI 60 [BD-bygningsdel 60], der skal slutte tæt til undersiden af stråtaget uden mulighed for hulrum.\"",
-            "e0720c15-8f31-4a63-b754-6f050f22e541": "",
-            "e4d93b44-e1a1-4314-b5ed-da53e606165b": "",
-            "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01-11\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "7f8fa42f-55f0-4804-bfa6-85f11cefc6ae",
@@ -636,6 +659,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Tagdækning\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Antændelse, brand- og røgspredning\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -649,11 +673,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nDe sammenbyggede enfamiliehuse er indbyrdes adskilt med en bygningsdel af mindst klasse EI60, som slutter tæt til undersiden af stråtaget uden mulighed for hulrum\"",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nEr sammenbyggede enfamiliehuse indbyrdes adskilt med en bygningsdel mindst klasse EI 60 [BD-bygningsdel 60], der slutter tæt til undersiden af stråtaget uden mulighed for hulrum?\"",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01-11\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "b77c0e6a-14ae-47f8-bb7b-dd610cef2d1c",
@@ -663,6 +687,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Tagdækning\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Antændelse, brand- og røgspredning\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -680,7 +705,7 @@
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01-11\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "90d8e432-fd7f-47b0-bf7e-95f0aeb7f7a6",
@@ -690,6 +715,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Inddeling i brandmæssige enheder samt brandadskillende bygningsdele \" ",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Antændelse, brand- og røgspredning\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -703,11 +729,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nAfgrænsende bygningsdele mellem brandceller er mindst EI 60 [BD-bygningsdel 60]\\n\\nAlle bygningsdele, der bærer, støtter eller stabiliserer brandcelleadskillelser, har samme brandmodstandsevne som adskillelsen\\n\\nBrandcelleadskillelser internt i boligenhed er ført tæt til underside af tagkonstruktion eller etagedæk\\n\\nBrandcelleadskillelser internt i boligenhed er ført tæt til inderside af ydervæg\\n\\nBrandcelleadskillelser mellem forskellige boligenheder er udført i overensstemmelse med afsnit om 'Vandret brandspredning'\\n\\nDøre og lemme er mindst EI₂ 30 [BD-dør 30-M]\\n\\nVinduer er mindst EI 30 [BD-bygningsdel 30]\\n\\nSamlet åbningsareal ≤ 20 % af brandcelleadskillelsens areal\\n\\nSamlet åbningsareal ≤5,0 m²\"",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nEr afgrænsende bygningsdele mellem brandceller mindst EI 60 [BD-bygningsdel 60]?\\n\\nHar alle bygningsdele, der bærer, støtter eller stabiliserer brandcelleadskillelser, har samme brandmodstandsevne som adskillelsen?\\n\\nEr brandcelleadskillelser internt i boligenhed ført tæt til underside af tagkonstruktion eller etagedæk?\\n\\nEr brandcelleadskillelser internt i boligenhed ført tæt til inderside af ydervæg?\\n\\nEr brandcelleadskillelser mellem forskellige boligenheder udført i overensstemmelse med afsnit om 'Vandret brandspredning'?\\n\\nEr døre og lemme mindst EI 30 [BD-dør 30-M]?\\n\\nEr vinduer mindst EI 30 [BD-bygningsdel 30]?\\n\\nEr samlet åbningsareal ≤ 20 % af brandcelleadskillelsens areal?\\n\\nEr samlet åbningsareal ≤5,0 m²?\"",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "\"Bygningsdele, der afgrænser en brandcelle, skal udføres som mindst bygningsdel klasse EI 60 [BD-bygningsdel 60].\\n\\nBygningsdele, der bærer, støtter eller stabiliserer brandcelleadskillelser, skal have mindst samme brandmodstandsevne som adskillelsen.\\n\\nBrandcelleadskillelser internt i en boligenhed skal føres tæt til underside af tagkonstruktion eller etagedæk samt til inderside af ydervæg.\\n\\nBrandcelleadskillelser mellem forskellige boligenheder skal udføres som angivet i afsnit om 'Vandret brandspredning'.\\n\\nMindre åbninger i brandcelleadskillelser mellem brandceller i en boligenhed kan udføres med mindst klasse EI₂ 30 [BD-dør 30-M] for døre og lemme og mindst klasse EI 30 [BD-bygningsdel 30] for vinduer. Det samlede åbningsareal må højst udgøre 20 % af brandcelleadskillelsens areal og dog altid maksimalt 5,0 m².\\n\\n- I enfamiliehuse kan væg- og loftkonstruktioner mod uudnyttelige tagrum udføres med beklædning mindst klasse K1 10 D-s2,d2 [klasse 2 beklædning], med mindst 50 mm isolering af mindst klasse D-s2,d2 [klasse B materiale].\\n\\n- I enfamiliehuse skal indvendige væg- og loftoverflader udføres mindst som beklædning klasse K1 10 D-s2,d2 [klasse 2 beklædning].\n\"",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01-12\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "a60d9b25-cf8a-4f4e-9617-907e1dfccc3e",
@@ -717,6 +743,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Væg- og loftkonstruktioner\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Antændelse, brand- og røgspredning\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -730,11 +757,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nVæg- og loftkonstruktioner er udført med beklædning mindst klasse K1 10 D-s2,d2 [klasse 2 beklædning]\\n\\nDer er udført isolering med en tykkelse på mindst 50 mm\\n\\nIsoleringen er mindst materialeklasse D-s2,d2 [klasse B materiale]\"",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nEr væg- og loftkonstruktioner udført med beklædning mindst klasse K1 10 D-s2,d2 [klasse 2 beklædning]?\\n\\nEr der udført isolering med en tykkelse på mindst 50 mm?\\n\\nEr isoleringen mindst materialeklasse D-s2,d2 [klasse B materiale]?\"",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01-13\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "c2a12a5c-95f1-4dc3-8a92-4502572c740e",
@@ -744,6 +771,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Indvendige overflader\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Antændelse, brand- og røgspredning\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -757,11 +785,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nAlle indvendige væg- og loftoverflader er udført som mindst beklædning klasse K1 10 D-s2,d2 [klasse 2 beklædning]\"",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nEr alle indvendige væg- og loftoverflader udført som mindst beklædning klasse K1 10 D-s2,d2 [klasse 2 beklædning]?\"",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01-14\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "a54d4d2b-fe91-4eda-acfd-a24af12d15f8",
@@ -771,6 +799,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Trapper\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Antændelse, brand- og røgspredning\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -784,11 +813,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nTrapper, herunder vanger, trin og reposer, skal udføres mindst som materiale klasse D-s2,d2 [klasse B materiale]. \"\n",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nEr trapper (herunder vanger, trin og reposer), udført mindst som materiale klasse D-s2,d2 [klasse B materiale]?\"\n",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01-15\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "2085e11f-6e27-4814-868c-4eb16c0a2801",
@@ -798,6 +827,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Gennemføringer i brandadskillende bygningsdele\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Antændelse, brand- og røgspredning\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -811,11 +841,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "\"I enfamiliehuse skal enhver gennemføring i brandklassificerede bygningsdele udføres, så bygningsdelenes brandmæssige egenskaber ikke forringes.\"",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nGennemføringer af installationer i brandadskillende bygningsdele skal udføres, så adskillelsens brandtekniske egenskaber ikke forringes. \"",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nEr gennemføringer af installationer i brandadskillende bygningsdele udført, så adskillelsens brandtekniske egenskaber ikke forringes?\"",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01-16\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "6a76d126-d9cf-4150-8961-479dfb86a8fb",
@@ -825,11 +855,12 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Isoleringsmateriale\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Antændelse, brand- og røgspredning\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
             "5e6ab79a-5292-40de-a8ca-f74109ef2d8f": "",
-            "89367cd8-2239-4bf5-8f19-eb7f638fc8d6": "false",
+            "89367cd8-2239-4bf5-8f19-eb7f638fc8d6": "",
             "9367a170-eefa-4090-a9bf-ce01c2aeedd0": "",
             "956f3b15-9f88-4b20-a26a-ba8d997e7c9c": "",
             "9588c715-cedb-49ae-a6fa-40795267147f": "\"Det fremgår af BR18 § 104, at bygninger skal projekteres og udføres, så det sikres, at der i tilfælde af brand ikke sker væsentlig brand- og røgspredning.\"",
@@ -838,11 +869,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "\"Ved et isoleringsmateriale forstås i denne sammenhæng ethvert materiale, der har en densitet, som er mindre end 300 kg/m³.\\n\\nSåfremt der benyttes isoleringsmateriale af mindst klasse B-s1,d0 [klasse A materiale], er der ingen begrænsninger.\\n\\nBruges der ringere klasse isoleringsmateriale, er der visse begrænsninger for, hvor de må bruges.\"\n",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nI enfamiliehuse opfylder isoleringsmateriale kravene til mindst materiale klasse B-s1,d0 [klasse A materiale], eller er udført som materiale klasse D-s2,d2 [klasse B materiale] eller ringere i overensstemmelse med begrænsningerne beskrevet for neden.\\n\\nHvor der anvendes tagdækning ringere end klasse BROOF(t2) [klasse T tagdækning], herunder stråtag, er isoleringsmateriale udført som mindst materiale klasse B-s1,d0 [klasse A materiale].\\n\\nFor bygninger, hvor gulv i øverste etage er mere end 5,1 m over terræn, er supplerende krav til isoleringsmaterialer overholdt i henhold til nedenstående.\\n\\nUdvendig efterisolering af en bygning, der ligger nærmere naboskel end 2,5 m, er udført med isoleringsmateriale mindst klasse A2-s1,d0 [ubrændbart materiale].\"",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nOpfylder det anvendte isoleringsmateriale kravene til mindst materiale klasse B-s1,d0 [klasse A-materiale], eller som materiale klasse D-s2,d2 [klasse B-materiale] eller ringere, såfremt det er i overensstemmelse med begrænsningerne beskrevet i uddybningen?\"",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "\"Der er visse begrænsninger når der bruges isoleringsmateriale ringere end B-s1,d0 [klasse A materiale]. Isoleringsmaterialer, der ikke mindst er materiale klasse D-s2,d2 [klasse B materiale], kan anvendes under følgende forudsætninger:\\n\\nVed etageadskillelser kan isoleringsmaterialet anvendes oven på etageadskillelser, som er mindst bygningsdel klasse EI 60 / A2-s1,d0 [BS bygningsdel 60], når gulvet er mindst gulvbelægning klasse Dfl-s1 [klasse G gulvbelægning]. Brandadskillende vægge skal føres helt ned til det brandadskillende etagedæk.\\n\\nVed vægge og lofter, herunder uudnyttelige tagrum, kan isoleringsmaterialet anvendes, hvor isoleringsmaterialet er afdækket med mindst beklædning klasse K1 10 / B-s1,d0 [klasse 1 beklædning] langs begge sider af en lodret bygningsdel og langs undersiden af en vandret eller skråtstillet bygningsdel, såfremt der ikke er hulrum mellem isoleringsmaterialet og beklædningen.\\n\\nIsoleringsmaterialet kan endvidere anvendes i vægge og på lofter, herunder uudnyttelige tagrum, hvor isoleringsmaterialet er afdækket med mindst bygningsdel klasse EI 30 [BD-bygningsdel 30] langs begge sider af en lodret bygningsdel og langs undersiden af en vandret eller skråtstillet bygningsdel.\\n\\nVed tagkonstruktioner kan isoleringsmaterialet anvendes, såfremt den underliggende del af tagkonstruktionen er mindst beklædning klasse K1 10 / B-s1,d0 [klasse 1 beklædning], og der ikke er hulrum mellem isoleringsmaterialet og beklædningen, samt at tagkonstruktionen er afsluttet med tagdækning mindst klasse BROOF(t2) [klasse T tagdækning].\\n\\nSom udvendig isolering kan isoleringsmaterialet anvendes, såfremt ydervæggen er af letbeton, beton eller murværk. Isoleringsmaterialet skal være afsluttet med et pudssystem eller tilsvarende udvendige overfladelag, som for eksempel natursten, keramik, mursten, beton og letbeton under forudsætning af, at overfladelag og isolering, prøvet som et samlet facadesystem, kan dokumenteres at overholde følgende kriterier ved prøvning efter den svenske brandprøvningsmetode SP FIRE 105:\\n\\na) der må ikke falde store dele ned, fx store pudsstykker, plader eller lignende, som kan udgøre en fare for personer under evakuering eller for redningsmandskabet, og\\nb) brandspredning på overfladen samt i væggen skal begrænses til underkant af vinduet 2 etager over brandrummet, og der må ikke opstå flammer udvendigt, som kan give anledning til antændelse af tagudhæng beliggende over vinduet 2 etager over brandrummet.\\n\\nSom ligeværdigt alternativ gælder, at røggastemperaturen umiddelbart under tagudhænget ikke må overstige 500 °C i en sammenhængende periode i mere end 2 minutter eller 450 °C i mere end 10 minutter.\\n\\nVed brug af isoleringsmaterialet er det vigtigt at være opmærksom på, at isoleringsmaterialet afdækkes langs alle bygningsdelenes flader, så isoleringsmaterialet ingen steder er blotlagt. Det er særligt vigtigt langs bygningsdelenes kanter og langs åbninger i bygningsdelene, for eksempel langs sokkel og langs åbninger til vinduer og døre, men også ved udtag til ventilation mv.\\n\\nFacadesystemet skal monteres som beskrevet i monteringsanvisningen fra leverandøren. Det skal sikres, at overfladerne på systemer med isoleringsmaterialet er robuste over for de oftest forekommende belastninger, så sandsynligheden for at der opstår skader, som forringer brandsikkerheden, minimeres. Eftervisning af systemernes robusthed kan f.eks. ske ved anvendelse af ISO 7892:1988, Vertical building elements – Impact resistance tests – Impact bodies and general test procedures, som beskrevet i ETAG 004:2000 Guideline for European technical approval of external thermal insulation composite systems with rendering.\\n\\nVed montage af isoleringsmaterialet er det vigtigt, at der tages hensyn til risikoen for antændelse af isoleringsmateriale, som endnu ikke er inddækket. Det kan derfor være hensigtsmæssigt, at isoleringsmaterialet løbende afdækkes under byggeprocessen, og at evt. antændelseskilder holdes under kontrol.\\n\\nIsoleringsmaterialer, som ikke mindst er materiale klasse D-s2,d2 [klasse B materiale], skal inddækkes langs alle bygningsdelenes flader både lodret og vandret, så isoleringsmaterialet ingen steder er blotlagt. Inddækning skal ligeledes ske langs bygningsdelenes kanter og langs åbninger i bygningsdelene, f.eks. langs sokkel og langs åbninger til vinduer og døre, men også ved udtag til ventilation mv. Det skal ligeledes sikres at afslutningen mellem inddækning og den øvrige konstruktion lukkes tæt, eksempelvis med en brandfuge eller stoppes med ubrændbar isolering.\"",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01-17\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "2cf9b3a3-6a05-4a7e-8ae3-15a602799632",
@@ -852,6 +883,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Isoleringsmateriale\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Antændelse, brand- og røgspredning\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -869,7 +901,7 @@
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\n\"K-01-17\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "652964e6-211d-4dd0-8d42-91ec2ca5b0b3",
@@ -879,6 +911,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Isoleringsmateriale\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Antændelse, brand- og røgspredning\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -896,7 +929,7 @@
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\n\"K-01-17\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "e4cb8f09-0250-407a-9731-f1785c5ee686",
@@ -906,6 +939,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Isoleringsmateriale\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Antændelse, brand- og røgspredning\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -923,7 +957,7 @@
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\n\"K-01-17\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "cd416967-48ff-4881-9020-7f6428c4ce1b",
@@ -933,6 +967,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Isoleringsmateriale\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Antændelse, brand- og røgspredning\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -946,11 +981,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "\"Isoleringsmaterialer, der ikke mindst er materiale klasse D-s2,d2 [klasse B materiale], kan anvendes oven på etageadskillelser, som er mindst bygningsdel klasse EI 60 / A2-s1,d0 [BS-bygningsdel 60], når gulvet er mindst gulvbelægning klasse Dfl-s1 [klasse G gulvbelægning]. Brandadskillende vægge skal føres helt ned til det brandadskillende etagedæk.\"",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nIsoleringsmaterialer, der ikke mindst er materiale klasse D-s2,d2 [klasse B materiale], er kun anvendt oven på etageadskillelser, som er mindst bygningsdel klasse EI 60 / A2-s1,d0 [BS-bygningsdel 60], og hvor gulvet er udført med mindst gulvbelægning klasse Dfl-s1 [klasse G gulvbelægning]. \\n\\n Brandadskillende vægge er ført helt ned til det brandadskillende etagedæk.\"",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nEr det overholdt at isoleringsmaterialer, der ikke mindst er materiale klasse D-s2,d2 [klasse B materiale], kun er anvendt oven på etageadskillelser, som er mindst bygningsdel klasse EI 60 / A2-s1,d0 [BS-bygningsdel 60], og hvor gulvet er udført med mindst gulvbelægning klasse Dfl-s1 [klasse G gulvbelægning]?\\n\\n Er brandadskillende vægge ført helt ned til det brandadskillende etagedæk?\"",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\n\"K-01-17\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "422c041e-6d55-4a4b-8762-26007c1d845f",
@@ -960,6 +995,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Isoleringsmateriale\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Antændelse, brand- og røgspredning\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -973,11 +1009,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "\"Isoleringsmaterialer, der ikke mindst er materiale klasse D-s2,d2 [klasse B materiale], kan anvendes i vægge og lofter, herunder uudnyttelige tagrum, når isoleringen enten er afdækket med mindst beklædning klasse K1 10 / B-s1,d0 [klasse 1 beklædning] langs begge sider af lodrette bygningsdele og på undersiden af vandrette eller skråtstillede bygningsdele uden hulrum, eller er afdækket med mindst bygningsdel klasse EI 30 [BD-bygningsdel 30] langs begge sider af lodrette bygningsdele og på undersiden af vandrette eller skråtstillede bygningsdele.\"",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nTjek at isoleringsmaterialer anvendes korrekt i vægge og lofter.\"",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nAnvendes isoleringsmaterialer korrekt i vægge og lofter jf. beskrivelsen i uddybning?\"",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\n\"K-01-17\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "4514ae5c-71f4-454f-acb6-ce2925697c9c",
@@ -987,6 +1023,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Isoleringsmateriale\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Antændelse, brand- og røgspredning\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -1004,7 +1041,7 @@
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\n\"K-01-17\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "f65ac646-934c-4424-97b4-aaf2c3b2a128",
@@ -1014,6 +1051,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Isoleringsmateriale\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Antændelse, brand- og røgspredning\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -1027,11 +1065,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nIsoleringsmaterialer, der ikke mindst er materiale klasse D-s2,d2 [klasse B materiale], anvendes som udvendig isolering, kun når ydervæggen er af letbeton, beton eller murværk.\\n\\nDet udvendige isoleringssystem er afsluttet med pudssystem eller tilsvarende udvendigt overfladelag (fx natursten, keramik, mursten, beton eller letbeton), og facadesystemet som helhed er dokumenteret prøvet efter SP FIRE 105, hvor det er dokumenteret, at der ikke falder store dele ned, og at brandspredning på overfladen og i væggen er begrænset til underkant af vinduet to etager over brandrummet, uden flammer der kan antænde tagudhæng over dette vindue, eller alternativt at røggastemperaturen under tagudhænget ikke overstiger 500 °C i mere end 2 minutter eller 450 °C i mere end 10 minutter.\\n\\nIsoleringsmaterialet er afdækket langs alle bygningsdelenes flader, så det ingen steder er blotlagt, herunder langs kanter, sokkel, vindues- og døråbninger samt gennemføringer.\\n\\nFacadesystemet er monteret i overensstemmelse med leverandørens monteringsanvisning.\\n\\nOverfladerne på facadesystemet er robuste over for almindelige belastninger, så sandsynligheden for skader, der kan forringe brandsikkerheden, minimeres.\\n\\nVed udvendig isolering med isoleringsmateriale, der ikke mindst er materiale klasse A2-s1,d0 [ubrændbart materiale], er isoleringen afbrudt ved brandsektionsafgrænsende vægge og etageadskillelser, fx ved at disse føres ud til indersiden af den yderste beklædning.\"",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nEr isoleringsmaterialer, der ikke mindst er materiale klasse D-s2,d2 [klasse B materiale], anvendt som udvendig isolering, kun når ydervæggen er af letbeton, beton eller murværk?\\n\\nEr det udvendige isoleringssystem korrekt (jf. uddybning), og er facadesystemet som helhed dokumenteret og prøvet efter SP FIRE 105?\\n\\nEr isoleringsmaterialet afdækket langs alle bygningsdelenes flader, så det ingen steder er blotlagt (herunder langs kanter, sokkel, vindues- og døråbninger samt gennemføringer)?\\n\\nEr facadesystemet monteret i overensstemmelse med leverandørens monteringsanvisning?\\n\\nEr overfladerne på facadesystemet robuste over for almindelige belastninger, så sandsynligheden for skader, der kan forringe brandsikkerheden, minimeres?\\n\\nEr isoleringen afbrudt ved brandsektionsafgrænsende vægge og etageadskillelser, (eksempelvis ved at disse føres ud til indersiden af den yderste beklædning)? (Gælder ved udvendig isolering med isoleringsmateriale, der ikke mindst er materiale klasse A2-s1,d0 [ubrændbart materiale])\"",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
-            "e4d93b44-e1a1-4314-b5ed-da53e606165b": "",
+            "e4d93b44-e1a1-4314-b5ed-da53e606165b": "\"Det udvendige isoleringssystem er afsluttet med pudssystem eller tilsvarende udvendigt overfladelag (fx natursten, keramik, mursten, beton eller letbeton), og facadesystemet som helhed er dokumenteret prøvet efter SP FIRE 105, hvor det er dokumenteret, at der ikke falder store dele ned, og at brandspredning på overfladen og i væggen er begrænset til underkant af vinduet to etager over brandrummet, uden flammer der kan antænde tagudhæng over dette vindue, eller alternativt at røggastemperaturen under tagudhænget ikke overstiger 500 °C i mere end 2 minutter eller 450 °C i mere end 10 minutter.\"",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\n\"K-01-17\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "39bfc1f9-74a3-41e0-847c-bd42db4ced61",
@@ -1041,6 +1079,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Isoleringsmateriale\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Antændelse, brand- og røgspredning\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -1054,11 +1093,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nUdvendig isolering med isoleringsmateriale, som ikke mindst er materiale klasse B-s1,d0 [klasse A materiale], er afbrudt med brandstop for hver boligenhed i det sammenbyggede enfamiliehus.\\n\\nBrandstoppet er udført i en bredde svarende til den adskillende vægs bredde og er udført som et tæt brandstop, der hindrer brandspredning via hulrum mellem brandcelle- og brandsektionsafgrænsende bygningsdele, udført af fastholdt isoleringsmateriale mindst klasse A2-s1,d0 [ubrændbart materiale] eller materiale klasse D-s2,d2 [klasse B materiale], fx træ eller træbaserede plader.\"",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nEr udvendig isolering med isoleringsmateriale, som ikke mindst er materiale klasse B-s1,d0 [klasse A materiale], afbrudt med brandstop for hver boligenhed i det sammenbyggede enfamiliehus?\\n\\nEr brandstoppet udført i en bredde svarende til den adskillende vægs bredde og er udført som et tæt brandstop?\"\n",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "\"Udvendig isolering med isoleringsmateriale, som ikke mindst er materiale klasse B-s1,d0 [klasse A materiale], skal afbrydes med brandstop for hver boligenhed i det sammenbyggede enfamiliehus.\\n\\nBrandstoppet skal udføres i en bredde svarende til den adskillende vægs bredde og skal udføres som angivet her:\\n\\nBrandstoppet skal være tæt og kan udføres af et fastholdt isoleringsmateriale mindst som klasse A2-s1,d0 [ubrændbart materiale] eller et materiale klasse D-s2,d2 [klasse B materiale], f.eks. træ eller træbaserede plader, som hindrer brandspredning mellem hulrum.\n\"",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\n\"K-01-17\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "1eae9ac1-dff2-44dd-8b64-c8b79c259d83",
@@ -1068,6 +1107,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Isoleringsmateriale\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Antændelse, brand- og røgspredning\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -1081,11 +1121,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "\"4.11.1.1 og 4.11.1.2\"",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nIsoleringsmaterialer, som ikke mindst er materiale klasse D-s2,d2 [klasse B materiale], er inddækket langs alle bygningsdelenes flader, både lodret og vandret, så isoleringsmaterialet ingen steder er blotlagt.\\n\\nInddækning er udført langs bygningsdelenes kanter og langs åbninger i bygningsdelene, herunder ved sokkel, vinduer, døre og ventilationsudtag mv.\\n\\nAfslutningen mellem inddækning og den øvrige konstruktion er lukket tæt, fx med brandfuge eller ved stopning med ubrændbar isolering.\\n\\nEksempler på kritiske områder (se figur 4.11.1) for korrekt afdækning af isoleringsmateriale er gennemgået og indarbejdet i projektering og detaljering.\"",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nEr isoleringsmaterialer, som ikke mindst er materiale klasse D-s2,d2 [klasse B materiale], inddækket langs alle bygningsdelenes flader, både lodret og vandret, så isoleringsmaterialet ingen steder er blotlagt?\\n\\nEr inddækning udført langs bygningsdelenes kanter og langs åbninger i bygningsdelene, herunder ved sokkel, vinduer, døre og ventilationsudtag mv?\\n\\nEr afslutningen mellem inddækning og den øvrige konstruktion lukket tæt, fx med brandfuge eller ved stopning med ubrændbar isolering?\\n\\nEr eksempler på kritiske områder (se figur 4.11.1) for korrekt afdækning af isoleringsmateriale gennemgået og indarbejdet i projektering og detaljering?\"",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\n\"K-01-17\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "093f7a75-d119-443a-97cc-3f309aaf211a",
@@ -1095,6 +1135,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Isoleringsmateriale\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Antændelse, brand- og røgspredning\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -1108,11 +1149,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nIsoleringsmateriale er mindst materiale klasse B-s1,d0 [klasse A materiale]\"",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nEr isoleringsmateriale mindst materiale klasse B-s1,d0 [klasse A materiale]?\"",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\n\"K-01-17\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "6ab2af00-cfeb-4ab3-9cd7-7711916ac9ca",
@@ -1122,6 +1163,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Fyringsanlæg og ildsteder\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Antændelse, brand- og røgspredning\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -1135,11 +1177,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "\"I enfamiliehuse vil det normalt altid være relevant at træffe brandsikringsforanstaltninger for fyringsanlæg, herunder pillefyr, pejse, brændeovne og lignende, samt aftrækssystemer, herunder skorstene og røgrør.\"",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nInstallationens maksimale overfladetemperatur er fastlagt (ud fra produktdata/producent). -Hvis maksimal overfladetemperatur er ≤ 85 °C, er der ingen krav om minimumsafstand til brændbart materiale.\\n\\nHvis maksimal overfladetemperatur er > 85 °C og ≤ 100 °C, er der sikret mindst 30 mm afstand til brændbart materiale.\\n\\nHvis maksimal overfladetemperatur er > 100 °C og ≤ 150 °C, er der sikret mindst 50 mm afstand til brændbart materiale.\\n\\nFyringsanlæg og aftrækssystemer er CE-mærkede, og der foreligger en ydeevnedeklaration.\\n\\nHvis ydeevnedeklarationen angiver minimumsafstande til brændbart materiale, er disse afstande overholdt.\\n\\nHvis et CE-mærket røgrør ikke har angivet minimumsafstand, er afstanden mindst 3 × nominelt rørdiameter, dog mindst 375 mm.\\n\\nHvis et CE-mærket betonbundet aftrækssystem ikke har angivet minimumsafstand, er afstanden mindst 100 mm.\\n\\nHvis fyringsanlæg, stålskorstene, røgrør, renselemme, spjæld eller murede skorstene ikke er CE-mærkede, er afstandene fastlagt efter tabel 4.12.1 og overholdt.\\n\\nSåfremt den maksimale overfladetemperatur ikke er kendt er mindste afstande fra tabel 4.12.1 benyttet.\\n\\nAlle afstande er målt fra installationens udvendige overflade til brændbart materiale i vægge og lofter.\\n\\nGulvet under og omkring ildsteder er udført i eller dækket af ubrændbart materiale mindst A2-s1,d0 eller A2fl-s1 med en tykkelse på mindst 1 mm. -Gulvbeskyttelsen går mindst 0,30 m frem foran lukkede ildsteder.\\n\\nGulvbeskyttelsen går mindst 0,50 m frem foran åbne ildsteder.\\n\\nGulvbeskyttelsen går mindst 0,15 m ud til hver side af fyringsanlæggets åbning.\" ",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nEr installationens maksimale overfladetemperatur fastlagt (ud fra produktdata/producent)?\\n\\nHvis maksimal overfladetemperatur er > 85 °C og ≤ 100 °C, er der sikret mindst 30 mm afstand til brændbart materiale?\\n\\nHvis maksimal overfladetemperatur er > 100 °C og ≤ 150 °C, er der sikret mindst 50 mm afstand til brændbart materiale?\\n\\nEr fyringsanlæg og aftrækssystemer CE-mærkede, og der foreligger en ydeevnedeklaration?\\n\\nHvis ydeevnedeklarationen angiver minimumsafstande til brændbart materiale, er disse afstande overholdt?\\n\\nHvis et CE-mærket røgrør ikke har angivet minimumsafstand, er afstanden mindst 3 × nominelt rørdiameter, dog mindst 375 mm?\\n\\nHvis et CE-mærket betonbundet aftrækssystem ikke har angivet minimumsafstand, er afstanden mindst 100 mm?\\n\\nHvis fyringsanlæg, stålskorstene, røgrør, renselemme, spjæld eller murede skorstene ikke er CE-mærkede, er afstandene fastlagt efter tabel 4.12.1 og overholdt?\\n\\nEr mindste afstande fra tabel 4.12.1 benyttet såfremt den maksimale overfladetemperatur ikke er kendt?\\n\\nEr alle afstande målt fra installationens udvendige overflade til brændbart materiale i vægge og lofter?\\n\\nEr gulvet under og omkring ildsteder udført i eller dækket af ubrændbart materiale mindst A2-s1,d0 eller A2fl-s1 med en tykkelse på mindst 1 mm?\\n\\nGår gulvbeskyttelsen mindst 0,30 m frem foran lukkede ildsteder?\\n\\nGår gulvbeskyttelsen mindst 0,50 m frem foran åbne ildsteder?\\n\\nGår gulvbeskyttelsen mindst 0,15 m ud til hver side af fyringsanlæggets åbning?\" ",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
-            "e4d93b44-e1a1-4314-b5ed-da53e606165b": "",
+            "e4d93b44-e1a1-4314-b5ed-da53e606165b": "\"Hvis maksimal overfladetemperatur er ≤ 85 °C, er der ingen krav om minimumsafstand til brændbart materiale.\"",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01-18\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "bcfcb7b6-9af2-4199-a5e4-06815077365d",
@@ -1149,6 +1191,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Særligt for integrerede garager, carporte, udhuse, overdækkede terrasser mv.\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Antændelse, brand- og røgspredning\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -1162,11 +1205,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "\"4.13.1 og 4.13.2\"",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "\"Specielle krav gør sig gældende for integrerede bygninger, afhængig af om den integrerede bygning er mindst 2,5 m fra naboskel, vej- og stimidte, eller nærmere end 2,5 m fra naboskel, vej- og stimidte. \"",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nDer er lavet en brandmæssig adskillelse fra boligenheden ved Garager, carporte, udhuse og lignende hvor der forventes en anden brandbelastning eller brandrisiko (Kan både være lodret og vandret adskillelse)\\n\\nAdskillende vægge og lofter mellem den integrerede bygning og boligenheden, herunder også eventuel uudnyttelig tagetage, er for en integreret bygning med et etageareal på højst 50 m² udført mindst som bygningsdel klasse EI 30 [BD-bygningsdel 30] (De brandmæssige adskillelser skal føres frem til indersiden af den udvendige vægbeklædning, samt til undersiden af den yderste tagdækning.)\\n\\nAdskillende vægge og lofter mellem den integrerede bygning og boligenheden, herunder også eventuel uudnyttelig tagetage, er for en integreret bygning med et etageareal på mere end 50 m² udført mindst som bygningsdel klasse  EI 60 [BD-bygningsdel 60] (De brandmæssige adskillelser skal føres frem til indersiden af den udvendige vægbeklædning, samt til undersiden af den yderste tagdækning.)\\n\\nDøre, vinduer og andre åbninger i adskillende vægge og lofter mellem den integrerede bygning og boligenheden, herunder også eventuel uudnyttelig tagetage, er udført med en brandmodstandsevne på mindst 30 minutter.\\n\\n Døre er udført mindst som dør klasse EI2 30C [BD-dør 30]\\n\\nVinduer er udført uoplukkelige mindst som klasse EI 30 [BD-bygningsdel 30]\\n\\nYderdøre til den integrerede bygning, som f.eks. carporte og lignende med åbne sider, er udført mindst som klasse EI2 30 [BD-dør 30-M]\"",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nEr der lavet en brandmæssig adskillelse fra boligenheden ved Garager, carporte, udhuse og lignende hvor der forventes en anden brandbelastning eller brandrisiko (Kan både være lodret og vandret adskillelse)?\\n\\nEr adskillende vægge og lofter mellem den integrerede bygning (integreret bygning med et etageareal på højst 50 m²) og boligenheden (herunder også eventuel uudnyttelig tagetage), udført mindst som bygningsdel klasse EI 30 [BD-bygningsdel 30]? \\n\\nEr adskillende vægge og lofter mellem den integrerede bygning (integreret bygning med et etageareal på mere end 50 m²) og boligenheden (herunder også eventuel uudnyttelig tagetage), udført mindst som bygningsdel klasse EI 60 [BD-bygningsdel 60]? \\n\\nEr døre, vinduer og andre åbninger i adskillende vægge og lofter mellem den integrerede bygning og boligenheden, herunder også eventuel uudnyttelig tagetage, er udført med en brandmodstandsevne på mindst 30 minutter?\\n\\nEr døre udført mindst som dør klasse EI2 30C [BD-dør 30]?\\n\\nEr vinduer udført uoplukkelige mindst som klasse EI 30 [BD-bygningsdel 30]?\\n\\nEr yderdøre til den integrerede bygning, som f.eks. carporte og lignende med åbne sider, udført mindst som klasse EI2 30 [BD-dør 30-M]?\"",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
-            "e4d93b44-e1a1-4314-b5ed-da53e606165b": "",
+            "e4d93b44-e1a1-4314-b5ed-da53e606165b": "\"De brandmæssige adskillelser skal føres frem til indersiden af den udvendige vægbeklædning, samt til undersiden af den yderste tagdækning.\"",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01-19\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "dc390a4e-5c2a-44e3-89ac-523e0f7ee802",
@@ -1176,6 +1219,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Særligt for integrerede garager, carporte, udhuse, overdækkede terrasser mv.\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Antændelse, brand- og røgspredning\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -1189,11 +1233,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "\"4.13.3 og 4.13.4 og 4.13.5\"",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nYdervægge, bærende vægge, søjler, bjælker, etageadskillelser og lignende bygningsdele der vender mod skel er udført mindst som bygningsdel klasse (R)EI 60 [BD-bygningsdel 60 \\n\\nYdervægge, der er nærmere naboskel vej- og stimidte end 2,5 m, slutter tæt til den yderste tagdækning.\\n\\nSåfremt etagearealet af den integrerede bygning er højst 50 m² er ydervægge, bærende vægge, søjler, bjælker, etageadskillelser og lignende bygningsdele nærmere naboskel, vej- og stimidte end 2,5 m, udført mindst som bygningsdel klasse (R)EI 30 [BD-bygningsdel 30].\\n\\nFor Integrerede bygninger mindre end 2,5 m fra naboskel, vej- og stimidte: Der er ikke etableret døre eller vinduer i ydervæg mod skel.\\n\\nFor Integrerede bygninger mindre end 2,5 m fra naboskel, vej- og stimidte: Der er altid mindst 60 minutters samlet brandmodstandsevne mellem naboskel, vej- og stimidte og boligenheden. Dette kan eventuelt udføres med 2 bygningsdele med hver 30 minutters brandmodstandsevne.\\n\\nFor Integrerede bygninger mindre end 2,5 m fra naboskel, vej- og stimidte: Der er altid mindst 30 minutters brandmodstandsevne mellem den integrerede bygning og boligenheden.\"",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nEr ydervægge, bærende vægge, søjler, bjælker, etageadskillelser og lignende bygningsdele der vender mod skel udført mindst som bygningsdel klasse (R)EI 60 [BD-bygningsdel 60?\\n\\nSlutter ydervægge, der er nærmere naboskel vej- og stimidte end 2,5 m, tæt til den yderste tagdækning?\\n\\ner ydervægge, bærende vægge, søjler, bjælker, etageadskillelser og lignende bygningsdele nærmere naboskel, vej- og stimidte end 2,5 m, udført mindst som bygningsdel klasse (R)EI 30 [BD-bygningsdel 30] (såfremt etagearealet af den integrerede bygning er højst 50 m²)?\\n\\nEr der sørget for ikke at etablere døre eller vinduer i ydervæg mod skel? (For Integrerede bygninger mindre end 2,5 m fra naboskel, vej- og stimidte)\\n\\nEr der sørget for at der altid er mindst 60 minutters samlet brandmodstandsevne mellem naboskel, vej- og stimidte og boligenheden? (For Integrerede bygninger mindre end 2,5 m fra naboskel, vej- og stimidte)\\n\\nEr der sørget for at der altid er mindst 30 minutters brandmodstandsevne mellem den integrerede bygning og boligenheden?  (For Integrerede bygninger mindre end 2,5 m fra naboskel, vej- og stimidte) \"",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
-            "e4d93b44-e1a1-4314-b5ed-da53e606165b": "",
+            "e4d93b44-e1a1-4314-b5ed-da53e606165b": "\"60 minutters samlet brandmodstandsevne kan eventuelt udføres som 2 bygningsdele med hver 30 minutters brandmodstandsevne. \"",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01-19\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": ""
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "d10e0c4a-952a-4d56-9312-80d7310e1a7a",
@@ -1203,6 +1247,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Redningsberedskabets indsatsmuligheder\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -1220,7 +1265,7 @@
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "\"I det følgende benyttes fællesbetegnelsen brandveje, der omfatter adgangs- og tilkørselsveje, samt vendepladser til redningsberedskabets køretøjer og udstigningsområder, hvor mandskabet kan stige ud af køretøjerne og tage det udstyr fra vognen, der er nødvendigt i forbindelse med indsatsen. Tilkørselsveje anvendes til fremføring af redningsberedskabets køretøjer.\\n\\nEn tilkørselsvej skal mindst være mindst 3,0 m bred og befæstet til tung trafik svarende til et akseltryk på mindst 11,5 tons og en totalvægt for køretøjet på mindst 18 tons. Stigninger på tilkørselsveje må højst være 1:10 (10 %). Tilkørselsvejens belægninger skal være egnede til at køre på.\\n\\nTilkørselsveje på egen grund kan være særlige veje, der alene er udlagt til brug for redningsberedskabets køretøjer, eller være udlagte vejarealer som en del af et parkeringsareal, der alene anvendes til kørsel, dvs. arealer, som ikke anvendes til parkering.\\n\\nTilkørselsveje og tilhørende vendepladser skal i hele vejens/pladsens bredde være friholdt i en højde på 3,4 m over terræn.\\n\\nI tilfælde af, at der skal foretages en flytning af redningsberedskabets køretøjer under eller efter en indsats, skal der være mulighed for at kunne vende køretøjerne. Etablering af vendepladser kan derfor også være en nødvendighed for at sikre redningsberedskabets indsatsmuligheder jf. BR18. Vendepladser skal anlægges ved lange og komplicerede adgangsveje med blinde ender.\\n\\nVendepladser for redningsberedskabets køretøjer skal udføres, hvis de ender blindt og:\\n\\n• Længden af en tilkørselsvej overstiger 200 m eller\\n• Tilkørselsvejen er kompliceret. Det vil sige, at summen af vinklerne for tilkørselsvejens sving overstiger 185°, eksklusiv sving ved indkørsel til tilkørselsvejen.\\n\\nFor at sikre den nødvendige plads for, at redningsberedskabets køretøjer kan foretage et sving på en tilkørselsvej, skal denne udføres med svingradier, som angivet i vejdirektoratets retningslinjer for arealbehovskurver (kørekurver) for ”typekøretøj LV – Lastvogn op til 12 m’s længde” køremåde B. Detaljeret arealbehovskurver kan hentes via Vejdirektoratets hjemmeside.\\n\\nVed indkørsel til brandveje fra vejskel eller naboskel skal der tillige dimensioneres med ovennævnte arealbehovskurver. Brandvejen skal udlægges, så de nødvendige arealbehovskurver opnås i sammenhæng med det givne vejareal og udlægning på egen grund. Der skal tillige tages højde for evt. kantstensparkering på vejen. Dette er også gældende for udlægning af brandvejen gennem en port, der ligger ud til vejskel.\\n\\nFremføringen af bærbare stiger skal ske via et friholdt areal/passage i terrænniveau med en bredde på mindst 1,3 m og højde på mindst 2,4 m med fast grund. Ved sving skal bredden øges, så en 6,5 m lang stige fortsat kan bæres rundt i svinget.\\n\\nArealer til opsætning af redningsberedskabets bærbare stiger skal ud for hver redningsåbning have en bredde på mindst 5,0 m langs bygningen, som er centreret om redningsåbningen, samt en afstand på mindst 5,0 m fra bygningen, se Figur 5.3.1. Dette er fastlagt ud fra hensynet om at kunne rejse stigen, benytte den med støtteben samt muligheden for at benytte samme stige til alle redningsåbninger uanset højde over terræn op til 10,8 m.\\n\\nArealet skal være trædefast, f.eks. udført af beton, asfalt, fliser, græsareal eller fast grusbelægning, og højst med en hældning på 1:10 (10 %). Arealet må indrettes med genstande, som uden hjælpemidler kan fjernes af én person, så redningsberedskabet frit og uhindret kan foretage en redning ved brug af bærbare stiger.\n\"",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01-20\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "5f5fff04-6068-467b-8a5d-c38842485401",
@@ -1230,6 +1275,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Generelt vedrørende adgangs- og tilkørselsforhold \"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Redningsberedskabets indsatsmuligheder\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -1243,11 +1289,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nFra brandvej til ethvert sted i byggeriet er der ikke over 80m (Man skal måle som hvis man skal trække en brandslange)\\n\\nFra den normale adgangsdør for adgangsadressen, som er den dør redningsberedskabet vil benytte som indsatsvej, er der højst en gangafstand på 60m til et vilkårligt sted i huset.\" ",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nEr der fra brandvej til ethvert sted i byggeriet under 80m? (Skal måles i den længde en brandslange kan trækkes)\\n\\nEr der fra den normale adgangsdør for adgangsadressen, som er den dør redningsberedskabet vil benytte som indsatsvej, højst en gangafstand på 60m til et vilkårligt sted i huset?\" ",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01-20\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "148f00ab-eb81-4a8f-b8a1-84601be2a1d4",
@@ -1257,6 +1303,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Generelt vedrørende adgangs- og tilkørselsforhold \"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Redningsberedskabets indsatsmuligheder\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -1270,11 +1317,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nFor enfamiliehuse i 3 etager over terræn, hvor en trappe betjener alle etager, er der etableret durchsicht med et lysningsmål på mindst 0,20 m * 0,5 m for at kunne føre slangen op imellem trappeløbene.\"",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nEr der for enfamiliehuse i 3 etager over terræn, hvor en trappe betjener alle etager, etableret durchsicht med et lysningsmål på mindst 0,20 m * 0,5 m for at kunne føre slangen op imellem trappeløbene?\"",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "3",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01-20\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": ""
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "8ba902c8-0773-4a3c-8cc2-16f469166933",
@@ -1284,6 +1331,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Udførelse af brandveje og herunder vendepladser, svingarealer mv.\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Redningsberedskabets indsatsmuligheder\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -1297,11 +1345,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nVed enfamiliehuse er brandvejes placering og udstrækning tydeligt identificerbar og fremstår som et klart afgrænset areal, som også er synligt ved mindre snefald, løvfald eller tilsvarende, fx ved markering eller afgrænsning.\\n\\nTilkørselsveje har en bredde på mindst 3,0 m, er befæstet til tung trafik svarende til akseltryk mindst 11,5 tons og totalvægt mindst 18 tons, har stigning højst 1:10 (10 %) og har belægning, der er egnet til kørsel.\\n\\nTilkørselsveje og tilhørende vendepladser er friholdt i hele bredden i en højde på mindst 3,4 m over terræn.\\n\\nDer er etableret mulighed for vending af redningsberedskabets køretøjer, og der er udført vendeplads, hvis en tilkørselsvej ender blindt og enten overstiger 200 m eller er kompliceret, dvs. summen af svingvinkler overstiger 185° (ekskl. indkørsel).\\n\\nTilkørselsveje og vendepladser er dimensioneret med svingradier efter Vejdirektoratets arealbehovskurver for typekøretøj LV – lastvogn op til 12 m, køremåde B, herunder ved indkørsel fra vej- eller naboskel, gennem port og med hensyntagen til kantstensparkering.\\n\\nFor sekundær bebyggelse, der opføres eller ændres ved eksisterende enfamiliehuse, kan eksisterende lovlige forhold for brandveje benyttes uændret.\"",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nEr brandvejes placering og udstrækning tydeligt identificerbar og fremstår som et klart afgrænset areal, som også er synligt ved mindre snefald, løvfald eller tilsvarende, fx ved markering eller afgrænsning?\\n\\nHar tilkørselsveje en bredde på mindst 3,0 m, er befæstet til tung trafik svarende til akseltryk mindst 11,5 tons og totalvægt mindst 18 tons, har stigning højst 1:10 (10 %) og har belægning, der er egnet til kørsel?\\n\\nEr tilkørselsveje og tilhørende vendepladser friholdt i hele bredden i en højde på mindst 3,4 m over terræn?\\n\\nEr der etableret mulighed for vending af redningsberedskabets køretøjer, og er der udført vendeplads, hvis en tilkørselsvej ender blindt og enten overstiger 200 m eller er kompliceret, dvs. summen af svingvinkler overstiger 185° (ekskl. indkørsel)?\\n\\nEr tilkørselsveje og vendepladser dimensioneret med svingradier efter Vejdirektoratets arealbehovskurver for typekøretøj LV – lastvogn op til 12 m, køremåde B, herunder ved indkørsel fra vej- eller naboskel, gennem port og med hensyntagen til kantstensparkering?\"",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "\"Ved enfamiliehuse skal brandvejes placering og udstrækning tydeligt kunne identificeres, så den fremstår som et klart afgrænset areal fra omliggende vej og øvrige arealer.\\n\\nBrandvejes udstrækning skal også være synlig ved mindre snefald, nedfald af løv eller tilsvarende, og skal derfor f.eks. være markeret eller afgrænset af pæle/pullerter, sten, hegn, hække eller lignende.\\n\\nTilkørselsveje anvendes til fremføring af redningsberedskabets køretøjer.\\n\\nEn tilkørselsvej skal mindst være mindst 3,0 m bred og befæstet til tung trafik svarende til et akseltryk på mindst 11,5 tons og en totalvægt for køretøjet på mindst 18 tons. Stigninger på tilkørselsveje må højst være 1:10 (10 %). Tilkørselsvejens belægninger skal være egnede til at køre på.\\n\\nTilkørselsveje på egen grund kan være særlige veje, der alene er udlagt til brug for redningsberedskabets køretøjer, eller være udlagte vejarealer som en del af et parkeringsareal, der alene anvendes til kørsel, dvs. arealer, som ikke anvendes til parkering.\\n\\nTilkørselsveje og tilhørende vendepladser skal i hele vejens/pladsens bredde være friholdt i en højde på 3,4 m over terræn.\\n\\nI tilfælde af, at der skal foretages en flytning af redningsberedskabets køretøjer under eller efter en indsats, skal der være mulighed for at kunne vende køretøjerne. Etablering af vendepladser kan derfor også være en nødvendighed for at sikre redningsberedskabets indsatsmuligheder jf. BR18. Vendepladser skal anlægges ved lange og komplicerede adgangsveje med blinde ender.\\n\\nVendepladser for redningsberedskabets køretøjer skal udføres, hvis de ender blindt og:\\n\\n• Længden af en tilkørselsvej overstiger 200 m eller\\n• Tilkørselsvejen er kompliceret. Det vil sige, at summen af vinklerne for tilkørselsvejens sving overstiger 185°, eksklusiv sving ved indkørsel til tilkørselsvejen.\\n\\nFor at sikre den nødvendige plads for, at redningsberedskabets køretøjer kan foretage et sving på en tilkørselsvej, skal denne udføres med svingradier, som angivet i Vejdirektoratets retningslinjer for arealbehovskurver (kørekurver) for ”typekøretøj LV – Lastvogn op til 12 m’s længde” køremåde B. Detaljeret arealbehovskurver kan hentes via Vejdirektoratets hjemmeside.\\n\\nVed indkørsel til brandveje fra vejskel eller naboskel skal der tillige dimensioneres med ovennævnte arealbehovskurver. Brandvejen skal udlægges, så de nødvendige arealbehovskurver opnås i sammenhæng med det givne vejareal og udlægning på egen grund. Der skal tillige tages højde for evt. kantstensparkering på vejen. Dette er også gældende for udlægning af brandvejen gennem en port, der ligger ud til vejskel.\\n\\nFor sekundær bebyggelse der opføres eller ændres i forbindelse med eksisterende enfamiliehuse, kan eksisterende, lovlige forhold for brandveje fortsat benyttes uændret.\n\"",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01-21\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": ""
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "44b1b3d7-9afe-42d8-8a78-eaaf9cc12c34",
@@ -1311,6 +1359,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Brandredningsarealer\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Redningsberedskabets indsatsmuligheder\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -1324,11 +1373,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "\"5.3.1\"",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nFor enfamiliehuse, hvor der er etableret redningsåbninger for personredning, er der også etableret brandredningsareal for redningsberedskabets bærbare stiger samt adgangsvej til disse.\\n\\nFremføring af bærbare stiger sker via et friholdt areal/passage i terrænniveau med bredde mindst 1,3 m, højde mindst 2,4 m og fast grund, og ved sving er bredden øget, så en 6,5 m lang stige kan bæres rundt.\\n\\nGangafstanden fra brandvej til arealer for opstilling af bærbare stiger er højst 50 m.\\n\\nArealer til opsætning af bærbare stiger har ved hver redningsåbning en bredde mindst 5,0 m langs bygningen, centreret om redningsåbningen, samt en afstand mindst 5,0 m fra bygningen.\\n\\nArealet er trædefast (fx beton, asfalt, fliser, græsareal eller fast grusbelægning) og har hældning højst 1:10 (10 %).\\n\\nArealet kan indrettes med genstande, som uden hjælpemidler kan fjernes af én person, så redningsberedskabet frit og uhindret kan foretage redning med bærbare stiger.\\n\\nFor redningsåbninger, hvor underkant er højst 2,0 m over terræn, er der ikke etableret brandredningsareal, da dette ikke er nødvendigt.\"",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nEr der for enfamiliehuse, hvor der er etableret redningsåbninger for personredning, også etableret brandredningsareal for redningsberedskabets bærbare stiger samt adgangsvej til disse?\\n\\nEr der sørget for at bredden er øget med 6,5 ved sving i det friholdte areal/passage i terrænniveau (mindst 1,3m i bredde, mindst 2,4m i højde og fast grund), som bruges til fremføring af bærbare stiger?\\n\\nEr gangafstanden fra brandvej til arealer for opstilling af bærbare stiger højst 50m?\\n\\nHar arealer til opsætning af bærbare stiger ved hver redningsåbning en bredde mindst 5,0 m langs bygningen, centreret om redningsåbningen, samt en afstand mindst 5,0 m fra bygningen?\\n\\nEr arealet trædefast (fx beton, asfalt, fliser, græsareal eller fast grusbelægning) og med en hældning højst 1:10 (10 %)?\\n\\nKan arealet indrettes med genstande, som uden hjælpemidler kan fjernes af én person, så redningsberedskabet frit og uhindret kan foretage redning med bærbare stiger?\"",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
-            "e4d93b44-e1a1-4314-b5ed-da53e606165b": "\"For enfamiliehuse, hvor der etableres redningsåbninger for personredning, skal der også etableres brandredningsareal for redningsberedskabets bærbare stiger og adgangsvej til disse.\\n\\nFremføringen af bærbare stiger skal ske via et friholdt areal/passage i terrænniveau med en bredde på mindst 1,3 m og højde på mindst 2,4 m med fast grund. Ved sving skal bredden øges, så en 6,5 m lang stige fortsat kan bæres rundt i svinget.\\n\\nGangafstanden fra brandvej til arealer for opstilling af bærbare stiger må ikke overstige 50 m. Dette er fastlagt ud fra hensynet om at nedbringe opstillingstiden og dermed redningstiden.\\n\\nArealer til opsætning af redningsberedskabets bærbare stiger skal ud for hver redningsåbning have en bredde på mindst 5,0 m langs bygningen, som er centreret om redningsåbningen, samt en afstand på mindst 5,0 m fra bygningen, se Figur 5.3.1. Dette er fastlagt ud fra hensynet om at kunne rejse stigen, benytte den med støtteben samt muligheden for at benytte samme stige til alle redningsåbninger uanset højde over terræn op til 10,8 m.\\n\\nArealet skal være trædefast, f.eks. udført af beton, asfalt, fliser, græsareal eller fast grusbelægning, og højst med en hældning på 1:10 (10 %). Arealet må indrettes med genstande, som uden hjælpemidler kan fjernes af én person, så redningsberedskabet frit og uhindret kan foretage en redning ved brug af bærbare stiger.\\n\\nFor redningsåbninger, hvor underkant er højst 2,0 m over terræn, er det ikke nødvendigt at etablere brandredningsarealer.\"",
+            "e4d93b44-e1a1-4314-b5ed-da53e606165b": "\"\\n\\nArealer til opsætning af redningsberedskabets bærbare stiger skal ud for hver redningsåbning have en bredde på mindst 5,0 m langs bygningen, som er centreret om redningsåbningen, samt en afstand på mindst 5,0 m fra bygningen, se Figur 5.3.1. Dette er fastlagt ud fra hensynet om at kunne rejse stigen, benytte den med støtteben samt muligheden for at benytte samme stige til alle redningsåbninger uanset højde over terræn op til 10,8 m.\\n\\nArealet skal være trædefast, f.eks. udført af beton, asfalt, fliser, græsareal eller fast grusbelægning, og højst med en hældning på 1:10 (10 %). Arealet må indrettes med genstande, som uden hjælpemidler kan fjernes af én person, så redningsberedskabet frit og uhindret kan foretage en redning ved brug af bærbare stiger.\\n\\nFor redningsåbninger, hvor underkant er højst 2,0 m over terræn, er det ikke nødvendigt at etablere brandredningsarealer.\"",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01-22\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": ""
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "1573ac2e-80bb-4ce8-84ed-2c717912bb33",
@@ -1338,6 +1387,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Udstigningsarealer\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Redningsberedskabets indsatsmuligheder\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -1351,11 +1401,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nVed enfamiliehuse er der ved opmarch af slukningskøretøjer mulighed for, at indsatspersonel kan stige ud og udtage udstyr, idet brandvejen i udstigningsområder er udført med en bredde på mindst 3,0 m og en længde på mindst 12,0 m, samt med et frit areal med fast grund på mindst 1,5 m på hver side.\\n\\nVed udstigningsarealer er brandvejens frihøjde mindst 7,0 m.\"",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nEr der ved enfamiliehuse ved opmarch af slukningskøretøjer mulighed for, at indsatspersonel kan stige ud og udtage udstyr, idet brandvejen i udstigningsområder er udført med en bredde på mindst 3,0 m og en længde på mindst 12,0 m, samt med et frit areal med fast grund på mindst 1,5 m på hver side?\\n\\nEr udstigningsarealer ved brandvejens frihøjde mindst 7,0 m?\"",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "\"Ved enfamiliehuse skal der i forbindelse med opmarch af slukningskøretøjerne være mulighed for, at indsatspersonel kan stige ud af køretøjerne, samt udtage udstyr (slanger, værktøj og lign.) fra slukningskøretøjernes sideskabe.\\n\\nMulighederne for udstigning og udtagning af udstyr sikres ved, at brandvejen udføres med en bredde på mindst 3,0 m og i en længde af mindst 12,0 m i områder, hvor der skal ske udstigning.\\n\\nPå hver side af brandvejen skal der i dette område være et frit areal med fast grund og en bredde på mindst 1,5 m til hver side.\\n\\nVed udstigningsarealer skal en brandvejs frihøjde forøges til 7,0 m for at sikre, at indsatspersonel har mulighed for komme til taget af køretøjet og nedtage stiger og udstyr.\n\"",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01-23\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": ""
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "415efce3-8c28-4b99-b0ba-86d2bfe1e68c",
@@ -1365,6 +1415,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Røgudluftning\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Redningsberedskabets indsatsmuligheder\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -1378,11 +1429,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "\"Formålet med røgudluftningen er primært at øge sigtbarheden, så redningsberedskabet hurtigere kan lokalisere og bekæmpe branden, at sænke temperaturen for at lette redningsberedskabets arbejde samt at fjerne eller reducere risikoen for antændelse af røggasser. Derudover giver røgudluftning sekundære fordele i form af, at risikoen for overtænding fjernes eller reduceres, og at brandudbredelsen som følge af varme- og røgspredning fjernes eller reduceres.\"",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nBoligenheden som helhed kan røgudluftes, idet der på hver etage er døre og vinduer, der kan åbnes, og som tilsammen har et geometrisk frit åbningsareal større end 0,5 % af etagens etageareal og er ligeligt fordelt eller placeret i modstående ender af etagen.\\n\\nRøgudluftningsåbninger har en størrelse mindst svarende til en redningsåbning, hvor længde + bredde er mindst 1,5 m, og det mindste mål er større end 0,5 m.\\n\\nRøgudluftningsåbninger kan manuelt åbnes af redningsberedskabet via synlige, let tilgængelige og simple betjeningshåndtag.\"",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nKan boligenheden som helhed røgudluftes, idet der på hver etage er døre og vinduer, der kan åbnes, og som tilsammen har et geometrisk frit åbningsareal større end 0,5 % af etagens etageareal og er ligeligt fordelt eller placeret i modstående ender af etagen?\\n\\nHar røgudluftningsåbninger en størrelse mindst svarende til en redningsåbning, hvor længde + bredde er mindst 1,5 m, og det mindste mål er større end 0,5 m?\\n\\nKan røgudluftningsåbninger manuelt åbnes af redningsberedskabet via synlige, let tilgængelige og simple betjeningshåndtag?\"",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01-24\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "6c16d102-b445-4443-ade6-7e4705916d99",
@@ -1392,6 +1443,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Drift, kontrol og vedligehold\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -1405,11 +1457,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nDer er udarbejdet en DKV-plan (Drift-, Kontrol og Vedligeholdelsesplan)\"",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nEr der udarbejdet en DKV-plan (Drift-, Kontrol og Vedligeholdelsesplan)?\"",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "\"For enfamiliehuse skal der udarbejdes en DKV-plan (Drift-, Kontrol- og Vedligeholdelsesplan). DKV-planen skal som minimum beskrive de punkter, der er angivet nedenfor, og til hvert punkt er der givet en beskrivelse af, hvad det er vigtigt at udarbejde planer for. Det er bygningsejeren, der har ansvaret for drift, kontrol og vedligehold jf. BR18 § 139.\\n\\nGenerelle ordensregler skal sikre, at porte, adgangsveje og redningsarealer, som er nødvendige for redningsberedskabets rednings- og slukningsarbejde, altid er passable. Kortvarig standsning på brandveje kan accepteres, såfremt chaufføren er i umiddelbar nærhed af køretøjet.\\n\\nUdgangsdøre skal kunne åbnes indefra ved brug af nøgle eller simple beslag, når døren skal benyttes af personer, som har lovlig adgang. Redningsåbninger skal let og uhindret kunne åbnes indefra uden brug af nøgle eller værktøj, når der sker almindelig og lovlig anvendelse af enfamiliehuset. Der skal fra brandcellen være uhindret og let adgang til redningsåbningen, som ikke må blokeres.\\n\\nSelvlukkefunktion til døre, porte og lemme skal være funktionsdygtig, og døre, porte og lemme skal lukke tætsluttende til fals. Der skal føres jævnlig kontrol med, at disse er funktionsdygtige. Selvlukkemekanismen må ikke sættes ud af funktion, og dørene må ikke fastholdes i åben stilling ved hjælp af kroge, hasper, kiler eller lignende.\\n\\nTeknikrum, herunder el-tavlerum m.v., må ikke anvendes til opbevaring af inventar, varer og lignende.\\n\\nEt røgalarmanlæg er et anlæg med en eller flere forbundne røgalarmer med fast strømforsyning. Udsender røgalarmen en varselstone, typisk en biplyd hvert minut, er det et signal på fald i spændingen på backup-batteriet, og backup-batteriet skal udskiftes.\\n\\nDer skal gennemføres kvartalsvis kontrol, hvor funktionen af hver røgalarm afprøves ved aktivering af prøveknappen. For sammenkoblede røgalarmer kontrolleres, at varslingssignalet afgives fra alle de sammenkoblede røgalarmer.\\n\\nDer skal udføres årlig service, hvor røgmelderne støvsuges, funktionen af batteribackupenheden kontrolleres ved, at den permanente strømforsyning afbrydes, og der udføres en kontrol svarende til en kvartalsvis kontrol.\\n\\nDer skal desuden udføres 10-årlig service, hvor batteriet til backup udskiftes. En røgalarm har en begrænset levetid og skal normalt udskiftes efter en vis årrække. Dette fremgår af den enkelte enhed, og røgdetektoren skal udskiftes i overensstemmelse hermed.\\n\\nKontrol, eftersyn og vedligeholdelse af passive brandsikringstiltag kan primært udføres som beskrevet i de efterfølgende detailbeskrivelser. Disse vil imidlertid ikke på alle områder være udtømmende, og derfor er det vigtigt samtidig at sikre, at de passive brandsikringstiltags overordnede funktion er funktionsduelig.\\n\\nBygningens passive brandsikring skal mindst én gang årligt efterses, hvor det kontrolleres, og eventuelle skader udbedres, herunder at brandsektions- og brandcelleadskillelser, alle adskillende konstruktioner, installationer og brandtætninger er intakte, at overflader på gulv, væg og loft er i orden, at brandmæssigt klassificerede vinduespartier er intakte, at brandisolering og brandtætninger af kanal- og rørføringer er i orden, at tagdækning og tagisolering er i orden, samt at branddøre, brandporte og flugtvejsdøre fungerer korrekt.\\n\\nDøre og portes hængsler, ophængningssystem og låsefunktion skal rengøres og smøres. Branddøre og brandportes selvlukkemekanisme kontrolleres og justeres eventuelt. Kontrollen udføres ved, at døren fra henholdsvis fuld åben stilling og fra en 0,30 m åben stilling slippes og af sig selv lukker helt i, så låseanordningen går i indgreb og fastholder døren eller porten.\\n\\nGennemføringer i brandmæssige adskillelser af f.eks. kabler, rør og ventilationskanaler skal udføres, så adskillelsernes brandmæssige egenskaber ikke forringes. Hvor der arbejdes med nyinstallation eller ændring, skal åbninger i brandmæssige adskillelser lukkes forsvarligt senest samme dag til fyraften. Hvis arbejdet skal fortsætte næste dag, kan der anvendes en egnet midlertidig tætning.\\n\\nKonstateres der fejl eller mangler på byggeriets passive brandsikringstiltag, skal disse udbedres hurtigst muligt. For passive brandsikringstiltag, der har indflydelse på personsikkerhed, skal der iværksættes kompenserende tiltag, indtil fejlen er udbedret. Alternativt må lokalerne ikke benyttes.\n\"",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01-25\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1a\""
           },
           {
             "_id": "2b640e67-0509-4b4a-8ce5-2bf208412b0f",
@@ -1419,6 +1471,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Evakuering\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -1436,7 +1489,7 @@
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "\"Sekundær bebyggelse skal altid have mindst én udgang direkte til terræn i det fri. Sekundær bebyggelse større end 150 m² skal have mindst to udgange til det fri i modsatrettede ender.\"",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01.1-01\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1.1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1b\""
           },
           {
             "_id": "adbf6144-e7ce-4e63-a406-77591a1677c4",
@@ -1446,6 +1499,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Bærende konstruktioners brandmodstandsevne\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -1463,7 +1517,7 @@
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "\"Bygninger større end 50 m², skal udføres med en brandmodstandevne mindst som bygningsdel klasse R15, dog ikke hvis bebyggelsen er udført med let tag klassificeret som E-d2.\\n\\nDer stilles ikke krav til brandmodstandsevnen for tagkonstruktionen, men alene til de bygningsdele, som bærer tagkonstruktionen.\\n\\nSåfremt tagkonstruktionen er en del af bygningens samlede bærende system, og den har indflydelse på bygningens afstivende system overfor vandrette laster eller på andre bærende eller ikke-bærende bygningsdeles brandmodstandsevne, er det afgørende for brandsikkerheden, at tagkonstruktionen udføres med en brandmodstandsevne som modsvarer brandkravet til de konstruktioner, som tagkonstruktionen afstiver mv.\\n\\nEn bærende bygningsdel, der bærer eller stabiliserer en brandadskillende bygningsdel, der ikke nødvendigvis selv er bærende, eksempelvis en brandadskillende væg, skal have en brandmodstandsevne, der svarer mindst til den brandadskillende bygningsdels brandmodstandsevne.\\n\\nDer er ikke krav til de bærende konstruktioners brandmodstandsevne for sekundær bebyggelse på højst 50 m².\n\"",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01.1-02\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1.1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1b\""
           },
           {
             "_id": "f9740f02-2a49-4136-bf70-2a4fe9f3c6e7",
@@ -1473,6 +1527,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Udvendige overflader\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Antændelse, brand- og røgspredning\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -1490,7 +1545,7 @@
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "\"Der er ikke krav til udvendige overflader på sekundær bebyggelse, men overfladen har betydning for afstand til skel og primær bygning, jf. Tabel 4.4.1 og Tabel 4.4.2.\"",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01.1-03\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1.1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1b\""
           },
           {
             "_id": "5df88085-2f1c-46e2-8bca-86562118f6b5",
@@ -1500,6 +1555,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Tagdækning\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Antændelse, brand- og røgspredning\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -1517,7 +1573,7 @@
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\n\"K-01.1-04\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1.1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1b\""
           },
           {
             "_id": "1699e067-672b-4cc4-a0e4-4c425d221ea2",
@@ -1527,6 +1583,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Tagdækning\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Antændelse, brand- og røgspredning\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -1540,11 +1597,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "true",
             "d499f158-5736-4431-8248-c6be639f2b8f": "",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nSekundær bebyggelse udført med grønt tag er enten brandteknisk klassificeret som BROOF(t2) [klasse T tagdækning] eller betragtes som 'anden tagdækning'\\n\\nHvis det grønne tag er brandteknisk klassificeret som BROOF(t2), er der fastlagt vedligeholdelseskrav, der sikrer, at klassifikationen og brandsikkerheden opretholdes\\n\\nHvis det grønne tag ikke er brandteknisk klassificeret, er afstande udført i overensstemmelse med reglerne for 'anden tagdækning' jf. Tabel 4.4.1 og Tabel 4.4.2\"",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nEr der, hvis det grønne tag er brandteknisk klassificeret som BROOF(t2), fastlagt vedligeholdelseskrav, der sikrer, at klassifikationen og brandsikkerheden opretholdes?\\n\\nEr, hvis det grønne tag ikke er brandteknisk klassificeret, afstande udført i overensstemmelse med reglerne for 'anden tagdækning' jf. Tabel 4.4.1 og Tabel 4.4.2\"",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
-            "e4d93b44-e1a1-4314-b5ed-da53e606165b": "",
+            "e4d93b44-e1a1-4314-b5ed-da53e606165b": "\"\\n\\nSekundær bebyggelse udført med grønt tag er enten brandteknisk klassificeret som BROOF(t2) [klasse T tagdækning] eller betragtes som 'anden tagdækning'\"",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01.1-04\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1.1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1b\""
           },
           {
             "_id": "80052905-07fc-42d7-b5f3-332c12532c6d",
@@ -1554,6 +1611,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Tagdækning\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Antændelse, brand- og røgspredning\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -1567,11 +1625,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nOver adgangsdøre til sekundær bebyggelse skal stråtag sikres mod nedskridning ved brand.\"",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nEr der over adgangsdøre sikret mod nedskridning ved brand (Gælder for stråtag)?\"",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01.1-04\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1.1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1b\""
           },
           {
             "_id": "78838ea9-0294-4554-b3cb-4f1f2a9743b4",
@@ -1581,6 +1639,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "\"Tagdækning med stråtag uden sikring\"",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Tagdækning\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Antændelse, brand- og røgspredning\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -1598,7 +1657,7 @@
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "\"Sekundær bebyggelse kan udføres med tagdækning med stråtag uden nogen form for brandsikring. Denne sekundære bebyggelse kan ikke sammenbygges med den primære bygning.\"",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01.1-04\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1.1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1b\""
           },
           {
             "_id": "b7487656-f193-422a-b0b5-b0cb02a0796b",
@@ -1608,6 +1667,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "\"Tagdækning med stråtag beskyttet mod den sekundære bebyggelse\" ",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\n\"Tagdækning\"\n",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Antændelse, brand- og røgspredning\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -1621,38 +1681,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nStråtaget er på undersiden beskyttet af en bygningsdel med brandmodstand mindst EI 30 (BD-bygningsdel 30), og hulrummet mellem stråtag og undersidebeskyttelse er maksimalt 100 mm samt fuldstændigt lukket langs alle kanter af tagfladerne\\n\\nLukninger langs tagfladernes kanter er udført i materialeklasse mindst A2-s1,d0 (ubrændbart materiale)\"",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nEr stråtaget på undersiden beskyttet af en bygningsdel med brandmodstand mindst EI 30 (BD-bygningsdel 30), og hulrummet mellem stråtag og undersidebeskyttelse er maksimalt 100 mm samt fuldstændigt lukket langs alle kanter af tagfladerne?\\n\\nEr lukninger langs tagfladernes kanter udført i materialeklasse mindst A2-s1,d0 (ubrændbart materiale)?\"",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
-            "e4d93b44-e1a1-4314-b5ed-da53e606165b": "",
+            "e4d93b44-e1a1-4314-b5ed-da53e606165b": "\"\\n\\nBrandsikret stråtag udføres af traditionelle tagrør tækket direkte, uden bagvedliggende hulrum, på en bagvedliggende bygningsdel mindst klasse EI 30 [BD-bygningsdel 30] udført af materiale mindst klasse D-s2,d2 [klasse B materiale].\\n\\nTagdækningen af strå fastgøres til underliggende bygningsdel med ubrændbart materiale.\"",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01.1-04\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1.1"
-          },
-          {
-            "_id": "090a66f8-cb05-4cc6-ba8d-bc63a38e42a0",
-            "_description": "",
-            "06f517c8-f715-4622-98ab-eff2c68c79e5": "",
-            "0ca9bf0a-8ae7-43b7-b039-58308f0d2691": "",
-            "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "\"Brandsikret stråtag\"",
-            "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\n\"Tagdækning\"\n",
-            "2ab18f20-e00b-466c-ad65-3b926332f819": "",
-            "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
-            "4c168615-155f-4457-951d-742adc982da0": "\"Antændelse, brand- og røgspredning\"",
-            "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
-            "5e6ab79a-5292-40de-a8ca-f74109ef2d8f": "",
-            "89367cd8-2239-4bf5-8f19-eb7f638fc8d6": "true",
-            "9367a170-eefa-4090-a9bf-ce01c2aeedd0": "",
-            "956f3b15-9f88-4b20-a26a-ba8d997e7c9c": "",
-            "9588c715-cedb-49ae-a6fa-40795267147f": "\"Det fremgår af BR18 § 104, at bygninger skal projekteres og udføres, så det sikres, at der i tilfælde af brand ikke sker væsentlig brand- og røgspredning.\"",
-            "aa6851ae-110f-48da-b179-66d96a95c654": "",
-            "b291492d-2903-443c-a555-5c09700b6b8a": "\"Tagdækning med stråtag\"",
-            "bb002a58-80e9-46ea-97f6-acc1e0b03222": "",
-            "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
-            "d499f158-5736-4431-8248-c6be639f2b8f": "",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nBrandsikret stråtag udføres af traditionelle tagrør tækket direkte, uden bagvedliggende hulrum, på en bagvedliggende bygningsdel mindst klasse EI 30 [BD-bygningsdel 30] udført af materiale mindst klasse D-s2,d2 [klasse B materiale].\\n\\nTagdækningen af strå fastgøres til underliggende bygningsdel med ubrændbart materiale.\"",
-            "e0720c15-8f31-4a63-b754-6f050f22e541": "",
-            "e4d93b44-e1a1-4314-b5ed-da53e606165b": "",
-            "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01.1-04\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1.1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1b\""
           },
           {
             "_id": "95cf8bf0-7569-4c30-9c7d-df450926cd66",
@@ -1662,6 +1695,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Placering af sekundær bebyggelse/sikring mod vandret brandspredning\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Antændelse, brand- og røgspredning\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -1679,7 +1713,7 @@
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01.1-05\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1.1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1b\""
           },
           {
             "_id": "a9c9b2f5-0ca0-4a0f-8710-11911edd19b2",
@@ -1689,6 +1723,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Placering af sekundær bebyggelse/sikring mod vandret brandspredning\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Antændelse, brand- og røgspredning\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -1702,11 +1737,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "\"4.4.1 og 4.4.2 og 4.4.3 og 4.4.4 og 4.4.5 og 4.4.6 og 4.4.7 og 4.4.8\"",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nAfstandskrav iflg. Tabel 4.4.1 overholdes.\\n\\nDet er tjekket efter om der er afstandskrav udover disse nævnt i Tabel 4.4.1 som trumfer (lokalplan, bygningsreglement) og at disse i så fald overholdes.\\n\\nDe tilhørende eksempelplantegninger gennemses og relevante eksempler overholdes.\"",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nOverholdes afstandskrav iflg. Tabel 4.4.1?\\n\\nEr det tjekket efter om der er afstandskrav udover disse nævnt i Tabel 4.4.1 som trumfer (lokalplan, bygningsreglement) og at disse i så fald overholdes?\\n\\nEr tilhørende eksempelplantegninger gennemset og relevante eksempler overholdt?\"",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01.1-05\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1.1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1b\""
           },
           {
             "_id": "d7e8f4fc-50bb-42d5-aefa-5173528c8668",
@@ -1716,6 +1751,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Placering af sekundær bebyggelse/sikring mod vandret brandspredning\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Antændelse, brand- og røgspredning\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -1733,7 +1769,7 @@
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01.1-05\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1.1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1b\""
           },
           {
             "_id": "8a411540-dae5-4932-93d9-527dab26a7b5",
@@ -1743,6 +1779,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Placering af sekundær bebyggelse/sikring mod vandret brandspredning\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Antændelse, brand- og røgspredning\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -1756,11 +1793,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "\"4.4.9 og 4.4.10 og 4.4.11 og 4.4.12 og 4.4.13 og 4.4.14 og 4.4.15 og 4.4.16 og 4.4.17\"",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nSekundær bebyggelse er adskilt fra primære bygninger på samme grund med brandmæssig adskillelse eller mindste afstand, som overholder Tabel 4.4.2\\n\\nDøre i en adskillende væg til den primære bygning er udført som dør klasse EI2 30-C [BD-dør 30]\\n\\nHvis der er adskillende væg mellem den primære bygning og carport eller lignende med åbne sider, er yderdøre i den primære bygning udført mindst som klasse EI2 30 [BD-dør 30-M]\\n\\nVinduer og lemme i en adskillende væg til den primære bygning er uoplukkelige og udført som klasse EI 30 [BD-bygningsdel 30]\"",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nEr sekundær bebyggelse adskilt fra primære bygninger på samme grund med brandmæssig adskillelse eller mindste afstand, som overholder Tabel 4.4.2?\\n\\nEr døre i en adskillende væg til den primære bygning udført som dør klasse EI2 30-C [BD-dør 30]?\\n\\nEr yderdøre i den primære bygning udført mindst som klasse EI2 30 [BD-dør 30-M], hvis der er adskillende væg mellem den primære bygning og carport eller lignende med åbne sider?\\n\\nEr vinduer og lemme i en adskillende væg til den primære bygning uoplukkelige og udført som klasse EI 30 [BD-bygningsdel 30]?\"",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "\"Der er ikke krav til, at der etableres en brandmæssig adskillelse mellem en åben sekundær bygning eller en sekundær bygning med tagkonstruktion som klasse E-d2 og den primære bygning, hvorfor der heller ikke vil være krav til døre og vinduer imellem den primære bygning og den sekundære bygning.\"",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01.1-05\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1.1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1b\""
           },
           {
             "_id": "07e24aee-b641-4310-acd5-c95d07e3c6e4",
@@ -1770,6 +1807,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Placering af sekundær bebyggelse/sikring mod vandret brandspredning\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Antændelse, brand- og røgspredning\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -1783,11 +1821,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "\"4.4.18 og 4.4.19 og 4.4.20 og 4.4.21 og 4.4.22 og 4.4.23 og 4.4.24 og 4.4.25 og 4.4.26 og 4.4.27 og 4.4.28 og \"",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nSekundær bebyggelse, der ligger nærmere end 2,5 m fra naboskel, vej- eller stimidte og samtidig nærmere end 2,5 m fra den primære bygning, er sikret mod vandret brandspredning med brandmæssig adskillelse mindst EI 60 [BD-bygningsdel 60]\\n\\nFor sekundær bebyggelse højst 50 m² er brandmæssig adskillelse etableret enten mod skel eller mod den primære bygning, eller opdelt som EI 30 [BD-bygningsdel 30] mod skel og EI 30 [BD-bygningsdel 30] mod den primære bygning\\n\\nFor sekundær bebyggelse større end 50 m² er brandmæssig adskillelse etableret både mod skel og mod den primære bygning\\n\\nDe tilhørende eksempelplantegninger er gennemgået og løsningen overholder passende eksemplers krav.\"",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nEr sekundær bebyggelse, der ligger nærmere end 2,5 m fra naboskel, vej- eller stimidte og samtidig nærmere end 2,5 m fra den primære bygning, sikret mod vandret brandspredning med brandmæssig adskillelse mindst EI 60 [BD-bygningsdel 60]?\\n\\nEr der for sekundær bebyggelse på højst 50 m² etableret brandmæssig adskillelse enten mod skel eller mod den primære bygning, eller opdelt som EI 30 [BD-bygningsdel 30] mod skel og EI 30 [BD-bygningsdel 30] mod den primære bygning?\\n\\nEr der for sekundær bebyggelse større end 50 m² etableret brandmæssig adskillelse både mod skel og mod den primære bygning?\\n\\nEr de tilhørende eksempelplantegninger gennemgået så løsningen overholder kravene?\"",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "\"Sekundær bebyggelse, der ligger nærmere end 2,5 m fra naboskel, vej- eller stimidte, og samtidig nærmere end 2,5 m til den primære bygning, skal sikres mod vandret brandspredning med en brandmæssig adskillelse svarende til mindst EI 60 [BD-bygningsdel 60].\\n\\nFor sekundær bebyggelse på højst 50 m² kan adskillelse etableres enten mod skel eller mod den primære bygning. Desuden kan den deles, så der etableres en brandmæssig adskillelse klasse EI 30 [BD-bygningsdel 30] både mod skel og mod den primære bygning.\\n\\nFor sekundær bebyggelse større end 50 m² skal adskillelsen etableres begge steder.\"",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01.1-05\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1.1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1b\""
           },
           {
             "_id": "8551c00c-10d1-4448-a980-aca0f4e15e62",
@@ -1797,6 +1835,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Placering af sekundær bebyggelse/sikring mod vandret brandspredning\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "true",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Antændelse, brand- og røgspredning\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -1810,11 +1849,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "\"4.4.29 og 4.4.30 og 4.4.31 og 4.4.32\"",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nAfstandskrav ved flere boligenheder, som hver udgør en primær bygning, er overholdt og plantegningeksemplerne er benyttet og overholdes.\"",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nEr afstandskrav ved flere boligenheder, som hver udgør en primær bygning, samt plantegningseksemplerner benyttet og overholdt?\"",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "\"Hvis der er flere boligenheder på samme grund, som hver udgør en primær bygning, og har hver sine sekundære bebyggelser tilknyttet, skal afstanden mellem disse sekundære bebyggelser svare til summen af afstanden til naboskel, vej- og stimidte som angivet i Tabel 4.4.1 svarende til, at bebyggelserne er brandmæssigt fritliggende. Alternativt skal bebyggelserne adskilles brandmæssigt ud fra de samme principper som sekundær bebyggelse beliggende på hver deres grund jf. afsnit 4.4.1.\"",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01.1-05\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1.1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1b\""
           },
           {
             "_id": "82d89524-f6d1-435f-9046-822ce092d6f0",
@@ -1824,6 +1863,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Placering af sekundær bebyggelse/sikring mod vandret brandspredning\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Antændelse, brand- og røgspredning\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "\"Dobbelthus\", \"Rækkehus\", \"Kædehus\", \"Gruppehus\" ",
@@ -1837,11 +1877,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "\"4.4.33 og 4.4.34 og 4.4.35 og 4.4.36 og 4.4.37 og 4.4.38 og 4.4.39 og 4.4.40\"",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "\"Ved sammenbyggede boligenheder, dvs. typisk rækkehuse, skal der sikres mod vandret brandspredning via sekundær bebyggelse fra den ene boligenhed til den anden. Dette uanset om de enkelte boligenheder er beliggende på hver sin grund eller på samme grund.\"",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nAfstandskrav ved sammenbyggede boligenheder overholdes og plantegningeksemplerne er benyttet og overholdes.\"",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nOverholdes afstandskrav ved sammenbyggede boligenheder og er plantegningeksemplerne er benyttet?\"",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "\"Dette sikres ved, at den sekundære bebyggelse placeres i forhold til skel som angivet i Tabel 4.4.1 og i forhold til den primære bygning som angivet i Tabel 4.4.2.  \"",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01.1-05\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1.1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1b\""
           },
           {
             "_id": "4893c602-edc6-4ef5-a093-981118c0ae87",
@@ -1851,6 +1891,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Redningsberedskabets indsatsmuligheder\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -1868,7 +1909,7 @@
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01.1-06\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1.1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1b\""
           },
           {
             "_id": "5d95beb1-5e13-40ba-bb94-8388d3d233de",
@@ -1878,6 +1919,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Generelt vedrørende dagangs- og tilkørselsforhold\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Redningsberedskabets indsatsmuligheder\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -1891,11 +1933,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nDer er højst en afstand på 120 m fra brandvej til ethvert sted i den sekundære bebyggelse, dog højst 60 m inde i bebyggelsen, målt svarende til trækning af slanger.\"",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nEr der højst en afstand på 120 m fra brandvej til ethvert sted i den sekundære bebyggelse, dog højst 60 m inde i bebyggelsen, målt svarende til trækning af slanger?\"",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01.1-07\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1.1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1b\""
           },
           {
             "_id": "54fe0861-c9bd-479e-b995-66a767ef0999",
@@ -1905,6 +1947,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Udførelse af brandveje og herunder vendepladser. svingarealer mv.\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Redningsberedskabets indsatsmuligheder\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -1918,11 +1961,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nVed enfamiliehuse er brandvejes placering og udstrækning tydeligt identificerbar og fremstår som et klart afgrænset areal, som også er synligt ved mindre snefald, løvfald eller tilsvarende, fx ved markering eller afgrænsning.\\n\\nTilkørselsveje har en bredde på mindst 3,0 m, er befæstet til tung trafik svarende til akseltryk mindst 11,5 tons og totalvægt mindst 18 tons, har stigning højst 1:10 (10 %) og har belægning, der er egnet til kørsel.\\n\\nTilkørselsveje og tilhørende vendepladser er friholdt i hele bredden i en højde på mindst 3,4 m over terræn.\\n\\nDer er etableret mulighed for vending af redningsberedskabets køretøjer, og der er udført vendeplads, hvis en tilkørselsvej ender blindt og enten overstiger 200 m eller er kompliceret, dvs. summen af svingvinkler overstiger 185° (ekskl. indkørsel).\\n\\nTilkørselsveje og vendepladser er dimensioneret med svingradier efter Vejdirektoratets arealbehovskurver for typekøretøj LV – lastvogn op til 12 m, køremåde B, herunder ved indkørsel fra vej- eller naboskel, gennem port og med hensyntagen til kantstensparkering.\\n\\nFor sekundær bebyggelse, der opføres eller ændres ved eksisterende enfamiliehuse, kan eksisterende lovlige forhold for brandveje benyttes uændret.\"",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nEr brandvejes placering og udstrækning tydeligt identificerbar og fremstår som et klart afgrænset areal, som også er synligt ved mindre snefald, løvfald eller tilsvarende, fx ved markering eller afgrænsning?\\n\\nHar tilkørselsveje en bredde på mindst 3,0 m, er befæstet til tung trafik svarende til akseltryk mindst 11,5 tons og totalvægt mindst 18 tons, har stigning højst 1:10 (10 %) og har belægning, der er egnet til kørsel?\\n\\nEr tilkørselsveje og tilhørende vendepladser friholdt i hele bredden i en højde på mindst 3,4 m over terræn?\\n\\nEr der etableret mulighed for vending af redningsberedskabets køretøjer, og er der udført vendeplads, hvis en tilkørselsvej ender blindt og enten overstiger 200 m eller er kompliceret, dvs. summen af svingvinkler overstiger 185° (ekskl. indkørsel)?\\n\\nEr tilkørselsveje og vendepladser dimensioneret med svingradier efter Vejdirektoratets arealbehovskurver for typekøretøj LV – lastvogn op til 12 m, køremåde B, herunder ved indkørsel fra vej- eller naboskel, gennem port og med hensyntagen til kantstensparkering?\"",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "\"Ved enfamiliehuse skal brandvejes placering og udstrækning tydeligt kunne identificeres, så den fremstår som et klart afgrænset areal fra omliggende vej og øvrige arealer.\\n\\nBrandvejes udstrækning skal også være synlig ved mindre snefald, nedfald af løv eller tilsvarende, og skal derfor f.eks. være markeret eller afgrænset af pæle/pullerter, sten, hegn, hække eller lignende.\\n\\nTilkørselsveje anvendes til fremføring af redningsberedskabets køretøjer.\\n\\nEn tilkørselsvej skal mindst være mindst 3,0 m bred og befæstet til tung trafik svarende til et akseltryk på mindst 11,5 tons og en totalvægt for køretøjet på mindst 18 tons. Stigninger på tilkørselsveje må højst være 1:10 (10 %). Tilkørselsvejens belægninger skal være egnede til at køre på.\\n\\nTilkørselsveje på egen grund kan være særlige veje, der alene er udlagt til brug for redningsberedskabets køretøjer, eller være udlagte vejarealer som en del af et parkeringsareal, der alene anvendes til kørsel, dvs. arealer, som ikke anvendes til parkering.\\n\\nTilkørselsveje og tilhørende vendepladser skal i hele vejens/pladsens bredde være friholdt i en højde på 3,4 m over terræn.\\n\\nI tilfælde af, at der skal foretages en flytning af redningsberedskabets køretøjer under eller efter en indsats, skal der være mulighed for at kunne vende køretøjerne. Etablering af vendepladser kan derfor også være en nødvendighed for at sikre redningsberedskabets indsatsmuligheder jf. BR18. Vendepladser skal anlægges ved lange og komplicerede adgangsveje med blinde ender.\\n\\nVendepladser for redningsberedskabets køretøjer skal udføres, hvis de ender blindt og:\\n\\n• Længden af en tilkørselsvej overstiger 200 m eller\\n• Tilkørselsvejen er kompliceret. Det vil sige, at summen af vinklerne for tilkørselsvejens sving overstiger 185°, eksklusiv sving ved indkørsel til tilkørselsvejen.\\n\\nFor at sikre den nødvendige plads for, at redningsberedskabets køretøjer kan foretage et sving på en tilkørselsvej, skal denne udføres med svingradier, som angivet i Vejdirektoratets retningslinjer for arealbehovskurver (kørekurver) for ”typekøretøj LV – Lastvogn op til 12 m’s længde” køremåde B. Detaljeret arealbehovskurver kan hentes via Vejdirektoratets hjemmeside.\\n\\nVed indkørsel til brandveje fra vejskel eller naboskel skal der tillige dimensioneres med ovennævnte arealbehovskurver. Brandvejen skal udlægges, så de nødvendige arealbehovskurver opnås i sammenhæng med det givne vejareal og udlægning på egen grund. Der skal tillige tages højde for evt. kantstensparkering på vejen. Dette er også gældende for udlægning af brandvejen gennem en port, der ligger ud til vejskel.\\n\\nFor sekundær bebyggelse der opføres eller ændres i forbindelse med eksisterende enfamiliehuse, kan eksisterende, lovlige forhold for brandveje fortsat benyttes uændret.\n\"",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01.1-08\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1.1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1b\""
           },
           {
             "_id": "91705a5a-62aa-49dc-bf7b-e8b16ec911f1",
@@ -1932,6 +1975,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Udstigningsarealer\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Redningsberedskabets indsatsmuligheder\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -1945,11 +1989,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nVed enfamiliehuse er der ved opmarch af slukningskøretøjer mulighed for, at indsatspersonel kan stige ud og udtage udstyr, idet brandvejen i udstigningsområder er udført med en bredde på mindst 3,0 m og en længde på mindst 12,0 m, samt med et frit areal med fast grund på mindst 1,5 m på hver side.\\n\\nVed udstigningsarealer er brandvejens frihøjde mindst 7,0 m.\"",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nEr der ved opmarch af slukningskøretøjer mulighed for, at indsatspersonel kan stige ud og udtage udstyr, idet brandvejen i udstigningsområder er udført med en bredde på mindst 3,0 m og en længde på mindst 12,0 m, samt med et frit areal med fast grund på mindst 1,5 m på hver side?\\n\\nEr brandvejens frihøjde mindst 7,0 m ved udstigningsarealer?\"",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "\"Ved enfamiliehuse skal der i forbindelse med opmarch af slukningskøretøjerne være mulighed for, at indsatspersonel kan stige ud af køretøjerne, samt udtage udstyr (slanger, værktøj og lign.) fra slukningskøretøjernes sideskabe.\\n\\nMulighederne for udstigning og udtagning af udstyr sikres ved, at brandvejen udføres med en bredde på mindst 3,0 m og i en længde af mindst 12,0 m i områder, hvor der skal ske udstigning.\\n\\nPå hver side af brandvejen skal der i dette område være et frit areal med fast grund og en bredde på mindst 1,5 m til hver side.\\n\\nVed udstigningsarealer skal en brandvejs frihøjde forøges til 7,0 m for at sikre, at indsatspersonel har mulighed for komme til taget af køretøjet og nedtage stiger og udstyr.\"",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01.1-09\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1.1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1b\""
           },
           {
             "_id": "b3e06575-06ba-4ad1-a98b-6807bf86c3d9",
@@ -1959,6 +2003,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "\"Røgudluftning\"",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Redningsberedskabets indsatsmuligheder\"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -1972,11 +2017,11 @@
             "bb002a58-80e9-46ea-97f6-acc1e0b03222": "",
             "cba48463-c7cf-41dc-8a6e-faaa9319199c": "",
             "d499f158-5736-4431-8248-c6be639f2b8f": "\"For lukkede, sekundære bebyggelser større end 150 m² skal der etableres mulighed for røgudluftning. Formålet med røgudluftningen er primært at: • Øge sigtbarheden, så redningsberedskabet hurtigere kan lokalisere og bekæmpe branden. • Sænke temperaturen for at lette redningsberedskabets arbejde. • Fjerne eller reducere risikoen for antændelse af røggasser. Derudover fås følgende sekundære fordele:  • Risikoen for overtænding fjernes eller reduceres. • Brandudbredelsen som følge af varme- og røgspredning fjernes eller reduceres.  Røgudluftning har ikke til formål at lette følgeskadebekæmpelse.\"",
-            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nFor lukkede, sekundære bebyggelser større end 150 m² er der etableret mulighed for røgudluftning.\\n\\nDen sekundære bygning som helhed kan røgudluftes ved, at åbningsbare døre og vinduer tilsammen har et geometrisk frit åbningsareal større end 0,5 % af bygningens areal og er ligeligt fordelt eller placeret i modstående ender af bygningen.\\n\\nHver røgudluftningsåbning har en størrelse mindst svarende til en redningsåbning, hvor længde + bredde er mindst 1,5 m, og det mindste mål er større end 0,5 m.\\n\\nRøgudluftningsåbninger kan manuelt åbnes af redningsberedskabet via synlige, let tilgængelige og simple betjeningshåndtag.\"",
+            "d4a582ea-92ae-461c-ad14-ab78436ca723": "\"\\n\\nEr der, fFor lukkede, sekundære bebyggelser større end 150 m², etableret mulighed for røgudluftning?\\n\\nKan den sekundære bygning som helhed røgudluftes ved, at åbningsbare døre og vinduer tilsammen har et geometrisk frit åbningsareal større end 0,5 % af bygningens areal og er ligeligt fordelt eller placeret i modstående ender af bygningen?\\n\\nHar hver røgudluftningsåbning en størrelse mindst svarende til en redningsåbning, hvor længde + bredde er mindst 1,5 m, og det mindste mål er større end 0,5 m?\\n\\nKan røgudluftningsåbninger manuelt åbnes af redningsberedskabet via synlige, let tilgængelige og simple betjeningshåndtag?\"",
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "\"Det er den sekundære bygning som helhed, der skal kunne røgudluftes og ikke nødvendigvis de enkelte rum.\\n\\nBygninger større end 150 m² skal kunne røgudluftes ved at døre og vinduer, der kan åbnes, og som tilsammen har et geometrisk frit åbningsareal større end 0,5 % af arealet og ligeligt fordelt eller placeret i modstående ender af bygningen.\\n\\nNår åbningerne er ligeligt fordelt eller placeret i modstående ender af bygningen, har redningsberedskabet mulighed for at etablere gennemtræk (tværventilation) og dermed en effektiv røgudluftning.\\n\\nRøgudluftningsåbningernes størrelse har betydning for deres effektivitet, og størrelsen skal som minimum svare til arealet af en redningsåbning. Længde plus bredde skal mindst være 1,5 m og det mindste mål skal være større end 0,5 m.\\n\\nÅbning af røgudluftningsåbninger kan normalt ske ved, at redningsberedskabet manuelt åbner vinduer og døre med synlige og let tilgængelige og simple betjeningshåndtag.\n\"",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01.1-10\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1.1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1b\""
           },
           {
             "_id": "8de4e4dc-6eae-4bde-8d78-60e2e1882187",
@@ -1986,6 +2031,7 @@
             "1256abd5-6d2c-43cb-aafd-73ec3c41329a": "",
             "22786696-bd4c-4bc3-a41f-453a108d6c1f": "",
             "2ab18f20-e00b-466c-ad65-3b926332f819": "",
+            "351c54f8-35b9-494b-b81b-be7d0ea38ea8": "",
             "438cfe29-c3be-4b10-a1ae-551ab5779176": "",
             "4c168615-155f-4457-951d-742adc982da0": "\"Drift, kontrol og vedligehold \"",
             "5a90c20e-2858-432c-a37c-1958c1a3394c": "",
@@ -2003,7 +2049,7 @@
             "e0720c15-8f31-4a63-b754-6f050f22e541": "",
             "e4d93b44-e1a1-4314-b5ed-da53e606165b": "",
             "e5b056bf-ea06-4daf-8b3b-c982ff2118a4": "\"K-01.1-11\"",
-            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "1.1"
+            "ee77fd74-cf00-4e88-a565-6155b6d7618c": "\"1b\""
           }
         ],
         "inputs": [
@@ -2016,6 +2062,11 @@
             "id": "e0720c15-8f31-4a63-b754-6f050f22e541",
             "name": "Hvor mange etager over terræn er der i bygningsafsnittet?",
             "field": "antal_etager_over_terraen_BA"
+          },
+          {
+            "id": "351c54f8-35b9-494b-b81b-be7d0ea38ea8",
+            "name": "Hvad er øverste etages gulvhøjde i dette bygningsafsnit? [m]",
+            "field": "etage_hoejde_BA"
           },
           {
             "id": "5e6ab79a-5292-40de-a8ca-f74109ef2d8f",

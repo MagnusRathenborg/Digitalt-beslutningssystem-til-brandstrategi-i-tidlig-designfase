@@ -147,6 +147,103 @@ def _parse_first_number_token(value):
     return None
 
 
+def _parse_relevant_bilag_token(value):
+    """Parse/normalize a relevant bilag token.
+
+    The GoRules models use "1a" and "1b" as the stable identifiers.
+    For backwards compatibility we also accept older numeric forms ("1" / "1.1")
+    and normalize them into "1a" / "1b".
+    """
+    try:
+        if value is None:
+            return None
+
+        # Numeric inputs (legacy)
+        if isinstance(value, (int, float)):
+            try:
+                n = float(value)
+                if abs(n - 1.0) < 1e-9:
+                    return "1a"
+                if abs(n - 1.1) < 1e-9:
+                    return "1b"
+            except Exception:
+                pass
+            tok = _parse_first_number_token(value)
+            if tok == "1":
+                return "1a"
+            if tok == "1.1":
+                return "1b"
+            return tok
+
+        if isinstance(value, str):
+            import re
+            s = value.strip()
+            if s == "":
+                return None
+
+            # Unwrap a single surrounding quote-pair (some models store literal quoted strings)
+            if len(s) >= 2 and s.startswith('"') and s.endswith('"'):
+                s = s[1:-1].strip()
+
+            low = s.lower()
+
+            # Prefer explicit alpha suffix tokens
+            if re.search(r"\b1\s*a\b|\b1a\b", low):
+                return "1a"
+            if re.search(r"\b1\s*b\b|\b1b\b", low):
+                return "1b"
+
+            # Legacy numeric forms
+            if re.search(r"\b1\.1\b", low):
+                return "1b"
+
+            compact = re.sub(r"\s+", "", low)
+            if compact in ("1", "1.0"):
+                return "1a"
+            if compact in ("1.1", "11"):
+                return "1b"
+
+            # Fallback: first numeric token if present
+            tok = _parse_first_number_token(s)
+            if tok == "1":
+                return "1a"
+            if tok == "1.1":
+                return "1b"
+            return tok
+
+        return str(value).strip() or None
+    except Exception:
+        return None
+
+
+def _normalize_bilag_token_for_compare(token: str):
+    """Normalize bilag tokens for equality matching.
+
+    Returns canonical "1a" / "1b" when the input token is a known alias,
+    otherwise returns None.
+    """
+    try:
+        if token is None:
+            return None
+        s = str(token).strip().lower()
+        if s == "":
+            return None
+
+        # Unwrap a single surrounding quote-pair
+        if len(s) >= 2 and s.startswith('"') and s.endswith('"'):
+            s = s[1:-1].strip().lower()
+
+        # Only treat exact tokens as aliases (avoid rewriting longer descriptive strings)
+        s_compact = s.replace(" ", "")
+        if s_compact in ("1", "1a", "1.0"):
+            return "1a"
+        if s_compact in ("1.1", "11", "1b"):
+            return "1b"
+        return None
+    except Exception:
+        return None
+
+
 def _coerce_number_like(token: str):
     """Coerce a numeric token string to int/float when possible."""
     if token is None:
@@ -308,7 +405,7 @@ def evaluate_complete_flow(inputs: dict):
             relevant_raw = result.get("relevant_bilag") if isinstance(result, dict) else None
             if relevant_raw is None:
                 relevant_raw = result.get("value") if isinstance(result, dict) else None
-            relevant_token = _parse_first_number_token(relevant_raw) if relevant_raw is not None else None
+            relevant_token = _parse_relevant_bilag_token(relevant_raw) if relevant_raw is not None else None
             # Keep output structure consistent with other steps (value + matched_rule_id)
             # so the frontend can treat it like the other result objects.
             results["relevant_bilag"] = {
@@ -318,8 +415,8 @@ def evaluate_complete_flow(inputs: dict):
             }
             # Backwards-compatible field preserved for older frontend code.
             results["relevant_bilag_matched_rule_id"] = result.get("_matched_rule_id")
-            # Keep a numeric value for internal matching where the model expects numbers.
-            current_data["relevant_bilag"] = _coerce_number_like(relevant_token)
+            # Keep as string: the GoRules models use "1a"/"1b".
+            current_data["relevant_bilag"] = relevant_token
 
             # Optional: forward any bilag text info if present
             bilagsinfo = result.get("Bilagsinformation") if isinstance(result, dict) else None
@@ -587,7 +684,7 @@ def evaluate_basic_flow(inputs: dict):
             bilag_raw = bilag_res.get("relevant_bilag") if isinstance(bilag_res, dict) else None
             if bilag_raw is None:
                 bilag_raw = bilag_res.get("value") if isinstance(bilag_res, dict) else None
-            bilag_token = _parse_first_number_token(bilag_raw) if bilag_raw is not None else None
+            bilag_token = _parse_relevant_bilag_token(bilag_raw) if bilag_raw is not None else None
             results["relevant_bilag"] = {
                 "value": bilag_token,
                 "matched_rule_id": bilag_res.get("_matched_rule_id")
@@ -1032,13 +1129,30 @@ def check_string_condition(value, expected):
             if len(tt) >= 2 and tt.startswith('"') and tt.endswith('"'):
                 tt = tt[1:-1]
             options.append(tt)
+
+        # Bilag aliasing: allow e.g. "1" to match "1a" and "1.1" to match "1b".
+        norm_val = _normalize_bilag_token_for_compare(val)
+        if norm_val is not None:
+            for opt in options:
+                norm_opt = _normalize_bilag_token_for_compare(opt)
+                if norm_opt is not None and norm_opt == norm_val:
+                    return True
         return val in options
 
     # Enkelt quoted værdi
     if len(exp) >= 2 and exp.startswith('"') and exp.endswith('"'):
-        return val == exp[1:-1]
+        unquoted = exp[1:-1]
+        norm_val = _normalize_bilag_token_for_compare(val)
+        norm_exp = _normalize_bilag_token_for_compare(unquoted)
+        if norm_val is not None and norm_exp is not None:
+            return norm_val == norm_exp
+        return val == unquoted
 
     # Simpel streng uden citation
+    norm_val = _normalize_bilag_token_for_compare(val)
+    norm_exp = _normalize_bilag_token_for_compare(exp)
+    if norm_val is not None and norm_exp is not None:
+        return norm_val == norm_exp
     return val == exp
 
 

@@ -173,6 +173,33 @@ async def serve_css():
     return JSONResponse({"error": "CSS not found"}, status_code=404)
 
 
+@app.get("/theme.css")
+async def serve_theme_css():
+    no_cache_headers = {
+        "Cache-Control": "no-store, no-cache, must-revalidate, max-age=0",
+        "Pragma": "no-cache",
+        "Expires": "0",
+    }
+    css_path = ROOT_DIR / "frontend" / "theme.css"
+    if css_path.exists():
+        return FileResponse(str(css_path), media_type="text/css", headers=no_cache_headers)
+    return JSONResponse({"error": "theme.css not found"}, status_code=404)
+
+
+@app.get("/validation/validation.json")
+async def serve_validation_json():
+    """Serve frontend/validation/validation.json so the validation modal can load persisted validations."""
+    no_cache_headers = {
+        "Cache-Control": "no-store, no-cache, must-revalidate, max-age=0",
+        "Pragma": "no-cache",
+        "Expires": "0",
+    }
+    validation_path = ROOT_DIR / "frontend" / "validation" / "validation.json"
+    if validation_path.exists():
+        return FileResponse(str(validation_path), media_type="application/json", headers=no_cache_headers)
+    return JSONResponse({"error": "validation.json not found"}, status_code=404)
+
+
 @app.get("/assets/{asset_path:path}")
 async def serve_assets(asset_path: str):
     """Serve static assets from frontend/assets (figures, tables, images)."""

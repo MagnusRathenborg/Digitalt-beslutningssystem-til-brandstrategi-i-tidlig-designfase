@@ -1,0 +1,137 @@
+/*
+  theme.css
+  Edit variables in :root to retheme the UI.
+*/
+
+:root {
+  /* ============================================================
+     Theme knobs (edit these to change the whole look)
+     ============================================================ */
+  /* Inspired by the table palette you shared */
+  --brand-sand: #ffffff;  /* light brown / site background */
+  --brand-green: #2f7d5a; /* positive */
+  --brand-slate: #5a6690; /* negative / "bad" */
+  --brand-brown: #8f5b33; /* neutral / info */
+
+  /* RGB helpers (for rgba() shadows/outlines) */
+   --brand-sand-rgb: 255, 255, 255;
+  --brand-green-rgb: 47, 125, 90;
+  --brand-slate-rgb: 90, 102, 144;
+   --brand-brown-rgb: 143, 91, 51;
+
+   /* Neutral RGB helpers */
+   --neutral-0-rgb: 255, 255, 255;
+   --neutral-900-rgb: 15, 23, 42;
+
+   /* Neutral palette (used for text/borders/backgrounds in br18_full.html) */
+   --neutral-0: #ffffff;
+   --neutral-50: #ffffff;
+   --neutral-75: #ffffff;
+   --neutral-100: #f1f5f9;
+   --neutral-150: #e5e7eb;
+   --neutral-200: #e6e8ef;
+   --neutral-250: #cbd5e1;
+   --neutral-300: #d1d5db;
+   --neutral-400: #94a3b8;
+   --neutral-600: #475569;
+   --neutral-700: #334155;
+   --neutral-800: #1f2937;
+   --neutral-900: #0f172a;
+
+   /* Danger palette (used by “irrelevant/exclude” UI, validation, etc.) */
+   --danger-100: #fff1f2;
+   --danger-200: #fecaca;
+   --danger-500: #ef4444;
+   --danger-600: #dc2626;
+   --danger-700: #b91c1c;
+   --danger-text: #991b1b;
+
+   /* Action button shades (kept explicit so the whole UI can be rethemed here) */
+   --action-ok-bg: #16a34a;
+   --action-ok-bg-hover: #15803d;
+   --action-ok-bg-active: #166534;
+
+   --action-danger-bg: #eb2525;
+   --action-danger-bg-hover: #d81d1d;
+   --action-danger-bg-active: #af1e1e;
+
+  /* Derived semantic status colors (tints) */
+  --status-ok-bg: #ecfdf5;
+  --status-ok-border: var(--brand-green);
+  --status-ok-text: #14532d;
+
+  --status-warn-bg: #fff7ed;
+   --status-warn-border: var(--brand-brown);
+  --status-warn-text: var(--brand-brown);
+
+  --status-bad-bg: #eef2ff;
+  --status-bad-border: var(--brand-slate);
+  --status-bad-text: #1e293b;
+
+   /* Shadows / overlays / focus rings */
+   --overlay-bg: rgba(var(--brand-brown-rgb), 0.32);
+   --overlay-shadow: 0 18px 64px rgba(var(--brand-brown-rgb), 0.28);
+   --focus-ring: 0 0 0 3px rgba(var(--brand-brown-rgb), 0.16);
+   --focus-ring-strong: 0 0 0 3px rgba(var(--brand-brown-rgb), 0.18);
+   --status-ok-ring: 0 0 0 3px rgba(var(--brand-green-rgb), 0.16);
+   --status-bad-ring: 0 0 0 3px rgba(var(--brand-slate-rgb), 0.18);
+
+   /* Small utility tokens to avoid inline hex in JS template strings */
+   --badge-info-bg: var(--status-bad-bg);
+   --badge-info-text: var(--neutral-900);
+   --badge-neutral-bg: var(--neutral-100);
+   --badge-neutral-text: var(--neutral-800);
+   --c-error: #e74c3c;
+
+   /* Neutral shadow helpers (for modals/lightboxes that shouldn’t tint brown) */
+   --shadow-neutral-md: 0 8px 24px rgba(var(--neutral-900-rgb), 0.15);
+   --shadow-neutral-lg: 0 18px 64px rgba(var(--neutral-900-rgb), 0.28);
+   --shadow-neutral-xl: 0 22px 70px rgba(var(--neutral-900-rgb), 0.35);
+
+  /* ============================================================
+     Existing palette tokens (keep for compatibility)
+     ============================================================ */
+  --pal-white: #ffffff;
+  --pal-offwhite-1: #fefefc;
+  --pal-offwhite-2: #fffaf6;
+   --pal-offwhite-3: #ffffff;
+  --pal-border: #ececee;
+  --pal-muted: #787d6b;
+  --pal-olive: #868c72;
+  --pal-brown: #604332;
+  --pal-brown-2: #604333;
+
+  /* ============================================================
+     Semantic tokens used across the UI
+     ============================================================ */
+  --c-bg: var(--brand-sand);
+  --c-bg-2: var(--pal-offwhite-1);
+  --c-surface: var(--pal-white);
+  --c-surface-muted: var(--pal-offwhite-3);
+  --c-border: var(--pal-border);
+  --c-text: var(--brand-brown);
+  --c-text-muted: var(--pal-muted);
+
+  /* Optional extra semantics for headings/body text */
+   --c-heading: var(--c-text);
+   --c-body: var(--c-text);
+  --c-muted: var(--neutral-600);
+  --c-subheading: var(--neutral-700);
+  --c-border-strong: var(--neutral-200);
+  --c-surface-subtle: var(--neutral-50);
+
+  --c-primary: var(--brand-brown);
+  --c-primary-hover: var(--pal-brown-2);
+  --c-primary-contrast: var(--pal-white);
+
+  --c-accent: var(--brand-green);
+  --c-accent-contrast: var(--pal-white);
+
+  /* “On color” tokens (text/icons on dark backgrounds) */
+  --c-on-primary: var(--c-primary-contrast);
+  --c-on-accent: var(--c-accent-contrast);
+
+  /* Shadows */
+  --shadow-1: 0 4px 24px rgba(var(--brand-brown-rgb), 0.10);
+  --shadow-2: 0 4px 12px rgba(var(--brand-brown-rgb), 0.18);
+}

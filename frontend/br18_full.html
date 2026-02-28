@@ -7325,6 +7325,7 @@ brandstrategi i tidlig designfase</div>
           let currentKravId = null;
           let currentGroupWrap = null;
           let currentGroupBody = null;
+          let currentGroupActionsEl = null;
           let checklistOffsetInGroup = 0;
           let lastUnderUnderInGroup = null;
           let lastMiniInGroup = null;
@@ -7502,6 +7503,7 @@ brandstrategi i tidlig designfase</div>
               const gActions = document.createElement('div');
               gActions.className = 'krav-actions';
               gHeader.appendChild(gActions);
+              currentGroupActionsEl = gActions;
               currentGroupWrap.appendChild(gHeader);
 
               currentGroupBody = document.createElement('div');
@@ -7608,7 +7610,12 @@ brandstrategi i tidlig designfase</div>
             };
 
             if (hasViewerButtons || hasDim) {
-              const anchorEl = lastMiniHeadingEl || lastUnderUnderHeadingEl || lastUnderHeadingEl || null;
+              // Most krav rows attach actions ("?", figure/table buttons) to the nearest
+              // heading element to avoid an extra actions row.
+              // However, some bilag (notably 1b) has empty undertitle/mini headings.
+              // In that case, fall back to the krav-group header actions container so
+              // the uddybning is still reachable.
+              const anchorEl = lastMiniHeadingEl || lastUnderUnderHeadingEl || lastUnderHeadingEl || currentGroupActionsEl || null;
               const wrap = ensureHeadingActions(anchorEl);
               if (wrap) {
                 if (hasDim && !wrap.querySelector('.q-icon')) {

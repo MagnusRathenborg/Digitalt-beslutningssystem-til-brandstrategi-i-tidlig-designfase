@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-02-05",
+  "lastUpdated": "2026-02-27",
   "validatedBy": "Magnus Rathenborg",
   "decisionTables": {
     "5a32ec1d-a606-444e-b778-251d743bfec4_rule_0": {
@@ -145,7 +145,8 @@
       "validated": true,
       "tjekliste": {
         "0": true,
-        "h_2a5830b1": true
+        "h_2a5830b1": true,
+        "h_ddd26d1c": true
       },
       "dimensionering": true
     },
@@ -155,7 +156,8 @@
       "tjekliste": {
         "0": true,
         "1": true,
-        "h_07eb1a25": true
+        "h_07eb1a25": true,
+        "h_908b9612": true
       },
       "dimensionering": true
     },
@@ -170,7 +172,11 @@
         "h_330134e1": true,
         "h_e900ea62": true,
         "h_544e8587": true,
-        "h_fb5da29f": true
+        "h_fb5da29f": true,
+        "h_f7798c12": true,
+        "h_7956574f": true,
+        "h_b7fea731": true,
+        "h_3632d442": true
       },
       "dimensionering": true
     },
@@ -183,7 +189,10 @@
         "2": true,
         "h_7b33b496": true,
         "h_6ea87839": true,
-        "h_b1f50809": true
+        "h_b1f50809": true,
+        "h_374e2c75": true,
+        "h_a42014db": true,
+        "h_26dde97e": true
       },
       "dimensionering": true
     },
@@ -191,7 +200,8 @@
       "beskrivelse": true,
       "tjekliste": {
         "0": true,
-        "h_377da67d": true
+        "h_377da67d": true,
+        "h_2c2e61ff": true
       },
       "dimensionering": true,
       "comment": "",
@@ -201,7 +211,8 @@
       "beskrivelse": true,
       "tjekliste": {
         "0": true,
-        "h_6d65a794": true
+        "h_6d65a794": true,
+        "h_7036ff07": true
       },
       "dimensionering": true,
       "comment": "",
@@ -217,7 +228,11 @@
         "h_0695a56b": true,
         "h_c2c5fd0e": true,
         "h_c19fd0bd": true,
-        "h_fb95f691": true
+        "h_fb95f691": true,
+        "h_70e0293e": true,
+        "h_e426878d": true,
+        "h_0674a925": true,
+        "h_c6179834": true
       },
       "dimensionering": true,
       "comment": "",
@@ -229,7 +244,8 @@
         "0": true,
         "1": true,
         "h_6cb9d264": true,
-        "h_70081ca7": true
+        "h_70081ca7": true,
+        "h_22c9cbe2": true
       },
       "dimensionering": true,
       "comment": "",
@@ -247,7 +263,10 @@
         "h_7626ce38": true,
         "h_2183868b": true,
         "h_3708bda3": true,
-        "h_a57ef0b8": true
+        "h_a57ef0b8": true,
+        "h_494abd23": true,
+        "h_9183bdaa": true,
+        "h_1a8a4493": true
       },
       "dimensionering": true,
       "comment": "",
@@ -279,7 +298,17 @@
         "h_bd3c0b4b": true,
         "h_11db8bfd": true,
         "h_d3b6ed5e": true,
-        "h_cb096322": true
+        "h_cb096322": true,
+        "h_f628649f": true,
+        "h_3d350bc8": true,
+        "h_bb58d5c5": true,
+        "h_07f45138": true,
+        "h_dcb6206a": true,
+        "h_2704ca58": true,
+        "h_2f1e8c10": true,
+        "h_0675b124": true,
+        "h_e0347b4a": true,
+        "h_101c1c23": true
       },
       "dimensionering": true,
       "comment": "",
@@ -291,7 +320,9 @@
         "0": true,
         "1": true,
         "h_0bcd0838": true,
-        "h_d1e00a7f": true
+        "h_d1e00a7f": true,
+        "h_3de3b07a": true,
+        "h_20102496": true
       },
       "dimensionering": true,
       "comment": "",
@@ -307,7 +338,10 @@
         "h_5c80ecd9": true,
         "h_a7bb8d55": true,
         "h_2b0d4831": true,
-        "h_4d2aea15": true
+        "h_4d2aea15": true,
+        "h_9366e28e": true,
+        "h_96bb7292": true,
+        "h_4152b695": true
       },
       "dimensionering": true,
       "comment": "",
@@ -333,7 +367,16 @@
         "h_66e63a4b": true,
         "h_d3542523": true,
         "h_b55953c9": true,
-        "h_6d0f6d5c": true
+        "h_6d0f6d5c": true,
+        "h_a9c651e7": true,
+        "h_e0259f90": true,
+        "h_0a73e691": true,
+        "h_e0b0d5dc": true,
+        "h_7dc35598": true,
+        "h_11c9602c": true,
+        "h_8e3bceca": true,
+        "h_a559a13d": true,
+        "h_3418d692": true
       },
       "dimensionering": true,
       "comment": "",
@@ -347,7 +390,10 @@
         "2": true,
         "h_9056eaa0": true,
         "h_88010574": true,
-        "h_65d8ea6c": true
+        "h_65d8ea6c": true,
+        "h_cf317c0d": true,
+        "h_a69c23e7": true,
+        "h_db0e8fb7": true
       },
       "dimensionering": true,
       "comment": "",
@@ -357,7 +403,8 @@
       "beskrivelse": true,
       "tjekliste": {
         "0": true,
-        "h_e1b3e3b0": true
+        "h_e1b3e3b0": true,
+        "h_d96fb7f3": true
       },
       "dimensionering": true,
       "comment": "",
@@ -367,7 +414,8 @@
       "beskrivelse": true,
       "tjekliste": {
         "0": true,
-        "h_3f949b20": true
+        "h_3f949b20": true,
+        "h_ef194e4e": true
       },
       "dimensionering": true,
       "comment": "",
@@ -377,7 +425,8 @@
       "beskrivelse": true,
       "tjekliste": {
         "0": true,
-        "h_866b8cde": true
+        "h_866b8cde": true,
+        "h_51b1fadd": true
       },
       "dimensionering": true,
       "comment": "",
@@ -425,7 +474,24 @@
         "h_40ec046f": true,
         "h_bed07748": true,
         "h_410cc494": true,
-        "h_e12fb79a": true
+        "h_e12fb79a": true,
+        "h_94c52fa3": true,
+        "h_41edb691": true,
+        "h_427d5b2b": true,
+        "h_26e3b19d": true,
+        "h_3c808940": true,
+        "h_c35c8a5b": true,
+        "h_b4e0c16b": true,
+        "h_43b1bcb1": true,
+        "h_c6b8dde0": true,
+        "h_60707154": true,
+        "h_391d34f9": true,
+        "h_1a9f8b07": true,
+        "h_bf9a25ae": true,
+        "h_e01768be": true,
+        "h_85a31059": true,
+        "h_40d2a537": true,
+        "h_24c997a5": true
       },
       "dimensionering": true,
       "comment": "",
@@ -447,6 +513,7 @@
         "10": true,
         "11": true,
         "12": true,
+        "13": true,
         "h_7e8889dd": true,
         "h_7436e00b": true,
         "h_cc34e7bc": true,
@@ -459,7 +526,21 @@
         "h_bc0a0e84": true,
         "h_f7371801": true,
         "h_9c9422cb": true,
-        "h_96427e9d": true
+        "h_96427e9d": true,
+        "h_39142757": true,
+        "h_8336f7a8": true,
+        "h_bd34d01f": true,
+        "h_a3709705": true,
+        "h_ba197d7e": true,
+        "h_13cb5552": true,
+        "h_18c5b3a5": true,
+        "h_661317c0": true,
+        "h_24c53732": true,
+        "h_a111f4bf": true,
+        "h_e2c23ad0": true,
+        "h_420d2d1f": true,
+        "h_7878543c": true,
+        "h_4c33940e": true
       },
       "dimensionering": true,
       "comment": "",
@@ -493,7 +574,20 @@
         "h_fc6aa654": true,
         "h_26502d45": true,
         "h_06e1c191": true,
-        "h_25a8518e": true
+        "h_25a8518e": true,
+        "h_92cc210d": true,
+        "h_ed935c36": true,
+        "h_b45f7d9f": true,
+        "h_f74368b9": true,
+        "h_ba5d37c2": true,
+        "h_aed26fb6": true,
+        "h_a6af2938": true,
+        "h_b08cdaa0": true,
+        "h_d530c9b3": true,
+        "h_bf6f8cfc": true,
+        "h_8423f7cc": true,
+        "h_49fed4f3": true,
+        "h_dc67526f": true
       },
       "dimensionering": true,
       "comment": "",
@@ -507,7 +601,10 @@
         "2": true,
         "h_3da3f347": true,
         "h_8046f4f1": true,
-        "h_ce7748c5": true
+        "h_ce7748c5": true,
+        "h_0fdcbb2e": true,
+        "h_e6a8a7b0": true,
+        "h_46d0cb06": true
       },
       "dimensionering": true,
       "comment": "",
@@ -527,7 +624,12 @@
         "h_a59a8c7a": true,
         "h_29d95c71": true,
         "h_1c6495a4": true,
-        "h_3b2327d5": true
+        "h_3b2327d5": true,
+        "h_4b0d6cf2": true,
+        "h_01232a05": true,
+        "h_5e5ca543": true,
+        "h_7c2106c2": true,
+        "h_99da18bd": true
       },
       "dimensionering": true,
       "comment": "",
@@ -549,7 +651,13 @@
         "h_17d02c9b": true,
         "h_498f01b5": true,
         "h_4c9ff3cb": true,
-        "h_82e595d8": true
+        "h_82e595d8": true,
+        "h_7f85d410": true,
+        "h_a710e841": true,
+        "h_1647e5f6": true,
+        "h_7a829fb4": true,
+        "h_d954f5fc": true,
+        "h_6f4a0ef4": true
       },
       "dimensionering": true,
       "comment": "",
@@ -561,7 +669,9 @@
         "0": true,
         "1": true,
         "h_8acfcb92": true,
-        "h_fe2c9009": true
+        "h_fe2c9009": true,
+        "h_5253fcd1": true,
+        "h_ef1b24c6": true
       },
       "dimensionering": true,
       "comment": "",
@@ -575,7 +685,10 @@
         "2": true,
         "h_7a03c0c4": true,
         "h_f503b067": true,
-        "h_cdabbe7e": true
+        "h_cdabbe7e": true,
+        "h_75d3fdd7": true,
+        "h_f8b4474a": true,
+        "h_78709af5": true
       },
       "dimensionering": true,
       "comment": "",
@@ -735,6 +848,155 @@
       "beskrivelse": true,
       "tjekliste": {},
       "dimensionering": true,
+      "comment": "",
+      "validated": true
+    },
+    "K-01": {
+      "beskrivelse": true,
+      "tjekliste": {
+        "0": true,
+        "h_6e2ea029": true
+      },
+      "dimensionering": false,
+      "comment": "",
+      "validated": true
+    },
+    "K-02": {
+      "beskrivelse": true,
+      "tjekliste": {
+        "0": true,
+        "h_2e3dd2bd": true
+      },
+      "dimensionering": false,
+      "comment": "",
+      "validated": true
+    },
+    "K-03": {
+      "beskrivelse": false,
+      "tjekliste": {},
+      "dimensionering": true,
+      "comment": "",
+      "validated": true
+    },
+    "K-04": {
+      "beskrivelse": true,
+      "tjekliste": {
+        "0": true,
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "h_0930c6b2": true,
+        "h_9bf7d63d": true,
+        "h_d6219f80": true,
+        "h_09de1e62": true,
+        "h_f8429c1f": true
+      },
+      "dimensionering": true,
+      "comment": "",
+      "validated": true
+    },
+    "K-05": {
+      "beskrivelse": true,
+      "tjekliste": {
+        "0": true,
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true,
+        "9": true,
+        "10": true,
+        "11": true,
+        "12": true,
+        "h_424b4b30": true,
+        "h_bc75e28c": true,
+        "h_b508d249": true,
+        "h_2d8ed174": true,
+        "h_5ecc88a6": true,
+        "h_6aec98ab": true,
+        "h_c71192f7": true,
+        "h_704c0e6d": true,
+        "h_a15a15ec": true,
+        "h_2730eb19": true,
+        "h_d5bcf246": true,
+        "h_78606e07": true,
+        "h_f6f5691d": true
+      },
+      "dimensionering": true,
+      "comment": "",
+      "validated": true
+    },
+    "K-06": {
+      "beskrivelse": true,
+      "tjekliste": {},
+      "dimensionering": false,
+      "comment": "",
+      "validated": true
+    },
+    "K-07": {
+      "beskrivelse": false,
+      "tjekliste": {
+        "0": true,
+        "h_bf11493d": true
+      },
+      "dimensionering": false,
+      "comment": "",
+      "validated": true
+    },
+    "K-08": {
+      "beskrivelse": false,
+      "tjekliste": {
+        "0": true,
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "h_4b0d6cf2": true,
+        "h_01232a05": true,
+        "h_5e5ca543": true,
+        "h_7c2106c2": true,
+        "h_99da18bd": true
+      },
+      "dimensionering": true,
+      "comment": "",
+      "validated": true
+    },
+    "K-09": {
+      "beskrivelse": false,
+      "tjekliste": {
+        "0": true,
+        "1": true,
+        "h_0139e2ab": true,
+        "h_39c5654e": true
+      },
+      "dimensionering": true,
+      "comment": "",
+      "validated": true
+    },
+    "K-10": {
+      "beskrivelse": true,
+      "tjekliste": {
+        "0": true,
+        "1": true,
+        "2": true,
+        "3": true,
+        "h_be4c36a1": true,
+        "h_90fefb84": true,
+        "h_d353f51e": true,
+        "h_78709af5": true
+      },
+      "dimensionering": true,
+      "comment": "",
+      "validated": true
+    },
+    "K-11": {
+      "beskrivelse": true,
+      "tjekliste": {},
+      "dimensionering": false,
       "comment": "",
       "validated": true
     }
